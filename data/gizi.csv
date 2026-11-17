@@ -1,0 +1,2806 @@
+id_pelayanan_medis,nama_dapur,jenis_diet,kapasitas_porsi,id_pegawai,id_pegawai_koki
+111782,Dapur Diet Khusus,Diet Cair,1,460,422
+111783,Dapur Utama,Diet Biasa,3,461,449
+111784,Dapur Utama,Diet Cair,3,457,448
+111785,Dapur Diet Khusus,Diet Biasa,3,453,428
+111786,Dapur Utama,Diet Rendah Garam,3,463,426
+111787,Dapur Utama,Diet Diabetes,3,457,431
+111788,Dapur Utama,Diet Biasa,2,452,430
+111789,Dapur Utama,Diet Diabetes,1,468,426
+111790,Dapur Diet Khusus,Diet Lunak,1,466,438
+111791,Dapur Diet Khusus,Diet Diabetes,3,456,430
+111792,Dapur Diet Khusus,Diet Diabetes,3,458,427
+111793,Dapur Utama,Diet Rendah Garam,1,465,442
+111794,Dapur Diet Khusus,Diet Cair,2,467,448
+111795,Dapur Utama,Diet Biasa,2,459,446
+111796,Dapur Utama,Diet Diabetes,2,462,421
+111797,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,470,438
+111798,Dapur Utama,Diet Diabetes,1,457,430
+111799,Dapur Utama,Diet Lunak,2,467,438
+111800,Dapur Utama,Diet Rendah Garam,2,466,436
+111801,Dapur Utama,Diet Rendah Garam,3,451,438
+111802,Dapur Diet Khusus,Diet Lunak,2,461,435
+111803,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,460,421
+111804,Dapur Utama,Diet Biasa,3,460,433
+111805,Dapur Utama,Diet Cair,2,462,428
+111806,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,466,444
+111807,Dapur Diet Khusus,Diet Cair,1,468,440
+111808,Dapur Diet Khusus,Diet Rendah Garam,1,452,434
+111809,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,466,431
+111810,Dapur Diet Khusus,Diet Biasa,2,465,426
+111811,Dapur Utama,Diet Cair,1,458,427
+111812,Dapur Diet Khusus,Diet Lunak,3,462,443
+111813,Dapur Utama,Diet Rendah Garam,2,458,434
+111814,Dapur Diet Khusus,Diet Lunak,1,459,426
+111815,Dapur Utama,Diet Biasa,3,456,448
+111816,Dapur Utama,Diet Lunak,3,466,433
+111817,Dapur Diet Khusus,Diet Cair,3,458,422
+111818,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,463,426
+111819,Dapur Utama,Diet Cair,1,463,421
+111820,Dapur Diet Khusus,Diet Cair,3,469,437
+111821,Dapur Utama,Diet Diabetes,3,467,427
+111822,Dapur Diet Khusus,Diet Diabetes,2,463,445
+111823,Dapur Diet Khusus,Diet Diabetes,3,460,426
+111824,Dapur Utama,Diet Rendah Garam,3,451,447
+111825,Dapur Diet Khusus,Diet Diabetes,1,460,434
+111826,Dapur Diet Khusus,Diet Cair,1,459,447
+111827,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,468,445
+111828,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,466,442
+111829,Dapur Diet Khusus,Diet Rendah Garam,1,455,442
+111830,Dapur Utama,Diet Diabetes,3,469,437
+111831,Dapur Diet Khusus,Diet Diabetes,1,453,425
+111832,Dapur Diet Khusus,Diet Cair,1,452,423
+111833,Dapur Diet Khusus,Diet Diabetes,3,470,426
+111834,Dapur Utama,Diet Diabetes,3,461,424
+111835,Dapur Diet Khusus,Diet Diabetes,3,456,426
+111836,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,454,442
+111837,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,459,449
+111838,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,459,422
+111839,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,452,436
+111840,Dapur Diet Khusus,Diet Diabetes,2,467,436
+111841,Dapur Utama,Diet Rendah Garam,3,459,424
+111842,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,465,444
+111843,Dapur Diet Khusus,Diet Diabetes,1,463,439
+111844,Dapur Diet Khusus,Diet Diabetes,2,469,427
+111845,Dapur Diet Khusus,Diet Rendah Garam,2,454,428
+111846,Dapur Utama,Diet Lunak,3,467,423
+111847,Dapur Diet Khusus,Diet Biasa,3,460,443
+111848,Dapur Utama,Diet Lunak,2,459,434
+111849,Dapur Diet Khusus,Diet Lunak,2,460,449
+111850,Dapur Diet Khusus,Diet Cair,3,465,427
+111851,Dapur Diet Khusus,Diet Biasa,2,455,428
+111852,Dapur Utama,Diet Lunak,3,470,428
+111853,Dapur Diet Khusus,Diet Rendah Garam,3,470,437
+111854,Dapur Diet Khusus,Diet Cair,1,470,447
+111855,Dapur Utama,Diet Rendah Garam,3,457,428
+111856,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,462,423
+111857,Dapur Diet Khusus,Diet Lunak,1,456,429
+111858,Dapur Utama,Diet Rendah Garam,2,461,446
+111859,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,452,424
+111860,Dapur Diet Khusus,Diet Biasa,3,468,440
+111861,Dapur Diet Khusus,Diet Diabetes,2,459,423
+111862,Dapur Diet Khusus,Diet Rendah Garam,3,467,450
+111863,Dapur Diet Khusus,Diet Biasa,1,457,448
+111864,Dapur Utama,Diet Cair,2,460,439
+111865,Dapur Diet Khusus,Diet Biasa,1,466,423
+111866,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,465,435
+111867,Dapur Diet Khusus,Diet Biasa,2,451,444
+111868,Dapur Diet Khusus,Diet Lunak,1,470,432
+111869,Dapur Diet Khusus,Diet Cair,1,469,433
+111870,Dapur Diet Khusus,Diet Diabetes,2,456,425
+111871,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,462,441
+111872,Dapur Utama,Diet Cair,3,452,432
+111873,Dapur Diet Khusus,Diet Diabetes,3,463,426
+111874,Dapur Utama,Diet Biasa,2,463,427
+111875,Dapur Diet Khusus,Diet Cair,1,469,439
+111876,Dapur Diet Khusus,Diet Rendah Garam,2,461,432
+111877,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,468,436
+111878,Dapur Utama,Diet Biasa,3,459,443
+111879,Dapur Diet Khusus,Diet Lunak,1,460,440
+111880,Dapur Utama,Diet Rendah Garam,3,458,438
+111881,Dapur Diet Khusus,Diet Diabetes,2,462,434
+111882,Dapur Utama,Diet Biasa,2,461,438
+111883,Dapur Diet Khusus,Diet Biasa,1,457,448
+111884,Dapur Diet Khusus,Diet Cair,2,453,438
+111885,Dapur Diet Khusus,Diet Cair,3,468,440
+111886,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,463,442
+111887,Dapur Utama,Diet Biasa,1,465,442
+111888,Dapur Diet Khusus,Diet Biasa,2,458,432
+111889,Dapur Utama,Diet Biasa,2,466,429
+111890,Dapur Utama,Diet Cair,1,464,426
+111891,Dapur Utama,Diet Biasa,1,470,432
+111892,Dapur Utama,Diet Biasa,1,456,429
+111893,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,466,439
+111894,Dapur Utama,Diet Biasa,3,459,433
+111895,Dapur Diet Khusus,Diet Rendah Garam,3,455,433
+111896,Dapur Utama,Diet Biasa,3,455,436
+111897,Dapur Utama,Diet Lunak,2,469,447
+111898,Dapur Diet Khusus,Diet Biasa,2,465,430
+111899,Dapur Utama,Diet Rendah Garam,1,452,432
+111900,Dapur Utama,Diet Diabetes,1,470,422
+111901,Dapur Diet Khusus,Diet Diabetes,1,465,436
+111902,Dapur Utama,Diet Lunak,2,461,424
+111903,Dapur Diet Khusus,Diet Biasa,2,457,447
+111904,Dapur Utama,Diet Rendah Garam,3,462,437
+111905,Dapur Diet Khusus,Diet Lunak,3,453,425
+111906,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,462,449
+111907,Dapur Utama,Diet Diabetes,1,456,429
+111908,Dapur Utama,Diet Lunak,3,468,423
+111909,Dapur Diet Khusus,Diet Lunak,1,460,440
+111910,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,461,436
+111911,Dapur Diet Khusus,Diet Rendah Garam,2,466,449
+111912,Dapur Utama,Diet Biasa,1,461,440
+111913,Dapur Diet Khusus,Diet Biasa,1,457,444
+111914,Dapur Utama,Diet Biasa,1,462,424
+111915,Dapur Utama,Diet Lunak,3,452,447
+111916,Dapur Diet Khusus,Diet Biasa,3,452,443
+111917,Dapur Utama,Diet Diabetes,1,455,450
+111918,Dapur Utama,Diet Cair,2,454,429
+111919,Dapur Diet Khusus,Diet Biasa,2,451,421
+111920,Dapur Diet Khusus,Diet Rendah Garam,3,467,447
+111921,Dapur Utama,Diet Cair,1,456,434
+111922,Dapur Utama,Diet Rendah Garam,3,467,437
+111923,Dapur Diet Khusus,Diet Rendah Garam,3,461,433
+111924,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,455,449
+111925,Dapur Utama,Diet Diabetes,3,463,424
+111926,Dapur Utama,Diet Biasa,1,464,429
+111927,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,454,424
+111928,Dapur Utama,Diet Lunak,1,454,443
+111929,Dapur Diet Khusus,Diet Biasa,1,468,441
+111930,Dapur Utama,Diet Lunak,1,470,430
+111931,Dapur Utama,Diet Biasa,2,462,443
+111932,Dapur Utama,Diet Biasa,3,451,425
+111933,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,455,433
+111934,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,457,445
+111935,Dapur Diet Khusus,Diet Lunak,2,465,433
+111936,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,462,441
+111937,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,462,438
+111938,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,462,436
+111939,Dapur Utama,Diet Lunak,1,469,427
+111940,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,463,448
+111941,Dapur Utama,Diet Cair,3,454,442
+111942,Dapur Utama,Diet Cair,1,469,442
+111943,Dapur Utama,Diet Biasa,3,464,442
+111944,Dapur Utama,Diet Biasa,2,465,424
+111945,Dapur Diet Khusus,Diet Cair,2,465,448
+111946,Dapur Utama,Diet Lunak,1,469,422
+111947,Dapur Diet Khusus,Diet Rendah Garam,1,459,430
+111948,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,451,435
+111949,Dapur Diet Khusus,Diet Lunak,3,460,438
+111950,Dapur Utama,Diet Cair,2,470,435
+111951,Dapur Diet Khusus,Diet Biasa,3,470,434
+111952,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,464,443
+111953,Dapur Diet Khusus,Diet Biasa,1,464,444
+111954,Dapur Diet Khusus,Diet Biasa,2,453,434
+111955,Dapur Utama,Diet Diabetes,3,466,447
+111956,Dapur Diet Khusus,Diet Diabetes,3,452,423
+111957,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,470,430
+111958,Dapur Diet Khusus,Diet Diabetes,3,456,436
+111959,Dapur Diet Khusus,Diet Lunak,3,457,437
+111960,Dapur Utama,Diet Rendah Garam,2,451,423
+111961,Dapur Utama,Diet Biasa,1,461,440
+111962,Dapur Utama,Diet Rendah Garam,3,458,432
+111963,Dapur Utama,Diet Lunak,1,451,427
+111964,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,462,427
+111965,Dapur Diet Khusus,Diet Diabetes,3,451,447
+111966,Dapur Diet Khusus,Diet Cair,1,454,433
+111967,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,456,444
+111968,Dapur Diet Khusus,Diet Rendah Garam,3,466,436
+111969,Dapur Utama,Diet Biasa,2,459,449
+111970,Dapur Diet Khusus,Diet Lunak,1,460,431
+111971,Dapur Diet Khusus,Diet Rendah Garam,1,461,446
+111972,Dapur Utama,Diet Rendah Garam,1,464,440
+111973,Dapur Utama,Diet Biasa,1,458,430
+111974,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,451,449
+111975,Dapur Diet Khusus,Diet Cair,1,461,424
+111976,Dapur Diet Khusus,Diet Diabetes,1,458,447
+111977,Dapur Utama,Diet Diabetes,2,454,421
+111978,Dapur Diet Khusus,Diet Cair,2,455,444
+111979,Dapur Utama,Diet Cair,2,454,445
+111980,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,460,426
+111981,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,469,427
+111982,Dapur Utama,Diet Biasa,3,454,426
+111983,Dapur Diet Khusus,Diet Cair,1,460,438
+111984,Dapur Utama,Diet Lunak,3,457,432
+111985,Dapur Diet Khusus,Diet Rendah Garam,1,458,427
+111986,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,459,431
+111987,Dapur Diet Khusus,Diet Rendah Garam,3,458,445
+111988,Dapur Utama,Diet Rendah Garam,1,463,439
+111989,Dapur Diet Khusus,Diet Biasa,3,460,441
+111990,Dapur Utama,Diet Biasa,1,453,447
+111991,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,461,422
+111992,Dapur Utama,Diet Biasa,1,458,447
+111993,Dapur Diet Khusus,Diet Rendah Garam,2,466,434
+111994,Dapur Diet Khusus,Diet Diabetes,1,461,438
+111995,Dapur Diet Khusus,Diet Biasa,3,458,429
+111996,Dapur Utama,Diet Diabetes,1,460,434
+111997,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,470,441
+111998,Dapur Diet Khusus,Diet Cair,2,455,437
+111999,Dapur Utama,Diet Lunak,2,470,449
+112000,Dapur Utama,Diet Diabetes,2,468,433
+112001,Dapur Utama,Diet Biasa,1,465,429
+112002,Dapur Diet Khusus,Diet Biasa,3,455,433
+112003,Dapur Diet Khusus,Diet Diabetes,3,460,449
+112004,Dapur Diet Khusus,Diet Lunak,2,465,422
+112005,Dapur Diet Khusus,Diet Diabetes,1,468,423
+112006,Dapur Utama,Diet Rendah Garam,1,466,449
+112007,Dapur Diet Khusus,Diet Rendah Garam,3,458,430
+112008,Dapur Utama,Diet Diabetes,1,460,422
+112009,Dapur Diet Khusus,Diet Diabetes,1,460,439
+112010,Dapur Diet Khusus,Diet Diabetes,2,455,439
+112011,Dapur Diet Khusus,Diet Diabetes,1,451,436
+112012,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,458,443
+112013,Dapur Diet Khusus,Diet Rendah Garam,1,458,431
+112014,Dapur Utama,Diet Diabetes,3,462,445
+112015,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,454,441
+112016,Dapur Utama,Diet Cair,3,463,434
+112017,Dapur Utama,Diet Diabetes,1,469,428
+112018,Dapur Utama,Diet Cair,1,457,436
+112019,Dapur Utama,Diet Diabetes,2,464,440
+112020,Dapur Utama,Diet Rendah Garam,2,456,443
+112021,Dapur Utama,Diet Lunak,2,462,425
+112022,Dapur Utama,Diet Rendah Garam,3,457,435
+112023,Dapur Utama,Diet Diabetes,2,469,436
+112024,Dapur Diet Khusus,Diet Cair,1,462,426
+112025,Dapur Diet Khusus,Diet Diabetes,3,468,431
+112026,Dapur Utama,Diet Biasa,1,452,421
+112027,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,455,428
+112028,Dapur Diet Khusus,Diet Biasa,2,453,445
+112029,Dapur Utama,Diet Diabetes,3,461,429
+112030,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,460,428
+112031,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,454,427
+112032,Dapur Diet Khusus,Diet Rendah Garam,3,454,441
+112033,Dapur Utama,Diet Diabetes,3,460,438
+112034,Dapur Diet Khusus,Diet Biasa,2,465,440
+112035,Dapur Diet Khusus,Diet Cair,3,454,432
+112036,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,466,421
+112037,Dapur Diet Khusus,Diet Cair,1,467,447
+112038,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,463,422
+112039,Dapur Utama,Diet Diabetes,1,468,433
+112040,Dapur Utama,Diet Lunak,2,470,434
+112041,Dapur Utama,Diet Lunak,2,460,424
+112042,Dapur Diet Khusus,Diet Biasa,3,456,425
+112043,Dapur Diet Khusus,Diet Rendah Garam,1,457,422
+112044,Dapur Diet Khusus,Diet Lunak,1,458,440
+112045,Dapur Diet Khusus,Diet Lunak,1,459,424
+112046,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,457,436
+112047,Dapur Diet Khusus,Diet Lunak,3,459,434
+112048,Dapur Diet Khusus,Diet Lunak,1,451,443
+112049,Dapur Diet Khusus,Diet Cair,3,451,433
+112050,Dapur Diet Khusus,Diet Lunak,1,452,445
+112051,Dapur Utama,Diet Rendah Garam,2,462,445
+112052,Dapur Utama,Diet Rendah Garam,3,466,444
+112053,Dapur Diet Khusus,Diet Rendah Garam,1,461,439
+112054,Dapur Utama,Diet Biasa,1,453,421
+112055,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,462,440
+112056,Dapur Diet Khusus,Diet Biasa,1,464,433
+112057,Dapur Diet Khusus,Diet Rendah Garam,3,463,450
+112058,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,460,441
+112059,Dapur Diet Khusus,Diet Lunak,1,468,433
+112060,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,469,428
+112061,Dapur Utama,Diet Lunak,3,455,446
+112062,Dapur Diet Khusus,Diet Cair,2,465,424
+112063,Dapur Diet Khusus,Diet Cair,3,464,426
+112064,Dapur Utama,Diet Biasa,1,452,424
+112065,Dapur Diet Khusus,Diet Biasa,1,453,439
+112066,Dapur Utama,Diet Cair,2,461,442
+112067,Dapur Diet Khusus,Diet Diabetes,3,457,444
+112068,Dapur Utama,Diet Rendah Garam,2,463,438
+112069,Dapur Utama,Diet Rendah Garam,3,458,421
+112070,Dapur Utama,Diet Cair,1,460,431
+112071,Dapur Diet Khusus,Diet Biasa,1,458,444
+112072,Dapur Diet Khusus,Diet Rendah Garam,2,465,441
+112073,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,452,429
+112074,Dapur Diet Khusus,Diet Diabetes,3,470,449
+112075,Dapur Diet Khusus,Diet Cair,1,461,436
+112076,Dapur Diet Khusus,Diet Diabetes,1,455,421
+112077,Dapur Diet Khusus,Diet Biasa,2,455,431
+112078,Dapur Diet Khusus,Diet Rendah Garam,3,468,428
+112079,Dapur Utama,Diet Rendah Garam,1,465,445
+112080,Dapur Utama,Diet Lunak,1,459,430
+112081,Dapur Utama,Diet Diabetes,3,461,442
+112082,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,470,449
+112083,Dapur Diet Khusus,Diet Lunak,3,466,448
+112084,Dapur Diet Khusus,Diet Diabetes,1,456,435
+112085,Dapur Utama,Diet Lunak,2,470,446
+112086,Dapur Diet Khusus,Diet Biasa,2,452,425
+112087,Dapur Diet Khusus,Diet Cair,2,465,439
+112088,Dapur Utama,Diet Lunak,3,457,441
+112089,Dapur Utama,Diet Rendah Garam,2,470,439
+112090,Dapur Diet Khusus,Diet Rendah Garam,3,466,448
+112091,Dapur Diet Khusus,Diet Rendah Garam,2,467,445
+112092,Dapur Diet Khusus,Diet Lunak,2,454,430
+113768,Dapur Utama,Diet Lunak,1,461,435
+112093,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,470,425
+112094,Dapur Diet Khusus,Diet Rendah Garam,1,455,448
+112095,Dapur Diet Khusus,Diet Diabetes,2,463,434
+112096,Dapur Diet Khusus,Diet Cair,1,457,421
+112097,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,469,430
+112098,Dapur Diet Khusus,Diet Lunak,2,456,439
+112099,Dapur Diet Khusus,Diet Cair,2,458,443
+112100,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,463,440
+112101,Dapur Utama,Diet Biasa,3,452,445
+112102,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,457,433
+112103,Dapur Utama,Diet Biasa,1,451,449
+112104,Dapur Utama,Diet Rendah Garam,3,461,448
+112105,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,464,441
+112106,Dapur Utama,Diet Diabetes,2,456,442
+112107,Dapur Diet Khusus,Diet Lunak,1,466,449
+112108,Dapur Diet Khusus,Diet Diabetes,1,451,423
+112109,Dapur Diet Khusus,Diet Cair,2,468,423
+112110,Dapur Utama,Diet Biasa,2,456,431
+112111,Dapur Utama,Diet Rendah Garam,3,451,450
+112112,Dapur Diet Khusus,Diet Diabetes,3,456,437
+112113,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,458,421
+112114,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,455,427
+112115,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,466,440
+112116,Dapur Diet Khusus,Diet Cair,3,461,425
+112117,Dapur Utama,Diet Diabetes,3,458,450
+112118,Dapur Utama,Diet Diabetes,2,455,448
+112119,Dapur Diet Khusus,Diet Biasa,2,455,435
+112120,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,468,436
+112121,Dapur Diet Khusus,Diet Lunak,2,469,430
+112122,Dapur Utama,Diet Lunak,2,453,444
+112123,Dapur Utama,Diet Lunak,1,463,435
+112124,Dapur Utama,Diet Diabetes,3,455,440
+112125,Dapur Diet Khusus,Diet Cair,1,451,432
+112126,Dapur Diet Khusus,Diet Lunak,3,453,425
+112127,Dapur Diet Khusus,Diet Biasa,3,464,421
+112128,Dapur Utama,Diet Cair,2,470,438
+112129,Dapur Utama,Diet Biasa,2,456,425
+112130,Dapur Diet Khusus,Diet Rendah Garam,3,467,430
+112131,Dapur Utama,Diet Diabetes,1,461,425
+112132,Dapur Diet Khusus,Diet Cair,2,470,427
+112133,Dapur Utama,Diet Lunak,2,459,446
+112134,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,453,429
+112135,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,468,449
+112136,Dapur Utama,Diet Lunak,1,469,432
+112137,Dapur Utama,Diet Lunak,1,464,439
+112138,Dapur Utama,Diet Lunak,1,466,431
+112139,Dapur Diet Khusus,Diet Biasa,3,462,438
+112140,Dapur Diet Khusus,Diet Lunak,3,451,431
+112141,Dapur Diet Khusus,Diet Lunak,3,467,433
+112142,Dapur Diet Khusus,Diet Lunak,1,460,425
+112143,Dapur Utama,Diet Cair,2,459,426
+112144,Dapur Utama,Diet Rendah Garam,3,455,423
+112145,Dapur Diet Khusus,Diet Cair,1,466,440
+112146,Dapur Diet Khusus,Diet Rendah Garam,2,453,425
+112147,Dapur Utama,Diet Cair,1,470,423
+112148,Dapur Utama,Diet Cair,1,462,450
+112149,Dapur Diet Khusus,Diet Lunak,3,467,435
+112150,Dapur Diet Khusus,Diet Lunak,3,453,422
+112151,Dapur Utama,Diet Cair,1,451,447
+112152,Dapur Utama,Diet Biasa,2,465,422
+112153,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,462,448
+112154,Dapur Utama,Diet Biasa,2,459,443
+112155,Dapur Utama,Diet Cair,2,469,433
+112156,Dapur Utama,Diet Diabetes,1,465,421
+112157,Dapur Utama,Diet Lunak,2,456,448
+112158,Dapur Utama,Diet Biasa,1,463,443
+112159,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,451,436
+112160,Dapur Utama,Diet Lunak,3,468,422
+112161,Dapur Diet Khusus,Diet Lunak,1,451,444
+112162,Dapur Diet Khusus,Diet Biasa,2,467,421
+112163,Dapur Utama,Diet Rendah Garam,2,456,440
+112164,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,466,433
+112165,Dapur Diet Khusus,Diet Diabetes,3,460,428
+112166,Dapur Utama,Diet Diabetes,3,466,422
+112167,Dapur Diet Khusus,Diet Lunak,3,465,437
+112168,Dapur Diet Khusus,Diet Lunak,1,469,432
+112169,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,454,435
+112170,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,454,433
+112171,Dapur Diet Khusus,Diet Cair,3,462,446
+112172,Dapur Utama,Diet Lunak,1,461,422
+112173,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,459,449
+112174,Dapur Utama,Diet Cair,3,469,432
+112175,Dapur Diet Khusus,Diet Cair,2,463,442
+112176,Dapur Diet Khusus,Diet Rendah Garam,1,459,450
+112177,Dapur Utama,Diet Rendah Garam,2,464,434
+112178,Dapur Diet Khusus,Diet Cair,1,452,432
+112179,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,463,430
+112180,Dapur Utama,Diet Biasa,1,459,433
+112181,Dapur Utama,Diet Rendah Garam,1,468,423
+112182,Dapur Diet Khusus,Diet Rendah Garam,3,458,442
+112183,Dapur Utama,Diet Biasa,2,460,435
+112184,Dapur Utama,Diet Cair,3,452,421
+112185,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,457,426
+112186,Dapur Utama,Diet Diabetes,1,469,426
+112187,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,465,429
+112188,Dapur Utama,Diet Rendah Garam,2,466,430
+112189,Dapur Utama,Diet Biasa,1,461,428
+112190,Dapur Diet Khusus,Diet Lunak,2,461,449
+112191,Dapur Utama,Diet Biasa,1,453,432
+112192,Dapur Utama,Diet Diabetes,1,458,439
+112193,Dapur Diet Khusus,Diet Rendah Garam,2,467,442
+112194,Dapur Diet Khusus,Diet Cair,3,454,424
+112195,Dapur Utama,Diet Cair,3,462,448
+112196,Dapur Utama,Diet Biasa,2,464,429
+112197,Dapur Diet Khusus,Diet Rendah Garam,1,469,440
+112198,Dapur Diet Khusus,Diet Biasa,1,454,423
+112199,Dapur Utama,Diet Diabetes,1,470,436
+112200,Dapur Utama,Diet Diabetes,3,453,446
+112201,Dapur Utama,Diet Lunak,3,452,438
+112202,Dapur Utama,Diet Biasa,3,455,441
+112203,Dapur Diet Khusus,Diet Cair,3,452,440
+112204,Dapur Diet Khusus,Diet Lunak,3,461,422
+112205,Dapur Utama,Diet Lunak,2,456,447
+112206,Dapur Diet Khusus,Diet Rendah Garam,1,457,434
+112207,Dapur Utama,Diet Rendah Garam,2,454,430
+112208,Dapur Diet Khusus,Diet Lunak,3,454,449
+112209,Dapur Diet Khusus,Diet Lunak,2,464,440
+112210,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,459,437
+112211,Dapur Diet Khusus,Diet Biasa,3,467,436
+112212,Dapur Utama,Diet Diabetes,1,455,431
+112213,Dapur Utama,Diet Biasa,2,470,436
+112214,Dapur Utama,Diet Cair,3,466,428
+112215,Dapur Utama,Diet Cair,3,464,422
+112216,Dapur Diet Khusus,Diet Diabetes,2,452,439
+112217,Dapur Diet Khusus,Diet Biasa,3,463,434
+112218,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,457,424
+112219,Dapur Diet Khusus,Diet Cair,2,459,444
+112220,Dapur Utama,Diet Cair,1,452,435
+112221,Dapur Diet Khusus,Diet Diabetes,3,464,435
+112222,Dapur Utama,Diet Cair,2,462,444
+112223,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,469,441
+112224,Dapur Utama,Diet Diabetes,2,454,438
+112225,Dapur Utama,Diet Diabetes,2,470,432
+112226,Dapur Utama,Diet Lunak,2,467,441
+112227,Dapur Utama,Diet Rendah Garam,1,459,424
+112228,Dapur Utama,Diet Lunak,2,458,436
+112229,Dapur Utama,Diet Rendah Garam,2,461,449
+112230,Dapur Diet Khusus,Diet Cair,1,467,435
+112231,Dapur Diet Khusus,Diet Cair,2,457,435
+112232,Dapur Diet Khusus,Diet Biasa,3,461,432
+112233,Dapur Utama,Diet Cair,1,469,426
+112234,Dapur Utama,Diet Cair,1,454,437
+112235,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,456,434
+112236,Dapur Utama,Diet Rendah Garam,1,459,448
+112237,Dapur Diet Khusus,Diet Lunak,3,463,428
+112238,Dapur Utama,Diet Cair,1,465,440
+112239,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,466,450
+112240,Dapur Utama,Diet Diabetes,1,467,430
+112241,Dapur Utama,Diet Cair,2,466,442
+112242,Dapur Diet Khusus,Diet Biasa,3,453,448
+112243,Dapur Utama,Diet Rendah Garam,3,468,430
+112244,Dapur Diet Khusus,Diet Cair,2,457,440
+112245,Dapur Utama,Diet Cair,2,460,432
+112246,Dapur Utama,Diet Cair,3,453,429
+112247,Dapur Diet Khusus,Diet Rendah Garam,3,465,435
+112248,Dapur Diet Khusus,Diet Lunak,1,463,448
+112249,Dapur Utama,Diet Rendah Garam,1,455,450
+112250,Dapur Diet Khusus,Diet Rendah Garam,1,470,430
+112251,Dapur Utama,Diet Cair,1,460,440
+112252,Dapur Diet Khusus,Diet Rendah Garam,3,466,423
+112253,Dapur Diet Khusus,Diet Diabetes,3,467,444
+112254,Dapur Diet Khusus,Diet Cair,2,465,441
+112255,Dapur Utama,Diet Cair,3,467,441
+112256,Dapur Diet Khusus,Diet Cair,3,467,443
+112257,Dapur Utama,Diet Biasa,1,465,438
+112258,Dapur Utama,Diet Biasa,1,459,426
+112259,Dapur Diet Khusus,Diet Lunak,3,460,444
+112260,Dapur Diet Khusus,Diet Biasa,2,463,433
+112261,Dapur Diet Khusus,Diet Rendah Garam,3,467,434
+112262,Dapur Diet Khusus,Diet Rendah Garam,1,454,421
+112263,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,462,426
+112264,Dapur Diet Khusus,Diet Cair,1,460,443
+112265,Dapur Diet Khusus,Diet Diabetes,2,452,443
+112266,Dapur Diet Khusus,Diet Cair,2,466,436
+112267,Dapur Diet Khusus,Diet Rendah Garam,2,462,440
+112268,Dapur Utama,Diet Lunak,3,465,436
+112269,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,454,427
+112270,Dapur Diet Khusus,Diet Rendah Garam,1,467,421
+112271,Dapur Diet Khusus,Diet Lunak,3,459,446
+112272,Dapur Diet Khusus,Diet Cair,3,470,448
+112273,Dapur Utama,Diet Lunak,3,452,426
+112274,Dapur Diet Khusus,Diet Lunak,1,455,435
+112275,Dapur Utama,Diet Biasa,1,467,430
+112276,Dapur Diet Khusus,Diet Lunak,3,468,444
+112277,Dapur Utama,Diet Cair,1,462,446
+112278,Dapur Utama,Diet Diabetes,2,458,448
+112279,Dapur Diet Khusus,Diet Cair,3,456,439
+112280,Dapur Utama,Diet Diabetes,3,460,446
+112281,Dapur Diet Khusus,Diet Lunak,2,462,446
+112282,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,459,443
+112283,Dapur Diet Khusus,Diet Lunak,3,451,429
+112284,Dapur Utama,Diet Cair,2,455,436
+112285,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,454,422
+112286,Dapur Diet Khusus,Diet Cair,2,453,449
+112287,Dapur Diet Khusus,Diet Rendah Garam,3,452,444
+112288,Dapur Diet Khusus,Diet Lunak,3,461,436
+112289,Dapur Utama,Diet Diabetes,1,466,438
+112290,Dapur Utama,Diet Diabetes,3,468,428
+112291,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,459,450
+112292,Dapur Diet Khusus,Diet Biasa,1,470,429
+112293,Dapur Utama,Diet Diabetes,3,451,442
+112294,Dapur Diet Khusus,Diet Lunak,2,456,423
+112295,Dapur Utama,Diet Lunak,3,467,440
+112296,Dapur Diet Khusus,Diet Lunak,2,465,443
+112297,Dapur Utama,Diet Diabetes,2,454,443
+112298,Dapur Diet Khusus,Diet Lunak,3,452,439
+112299,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,452,446
+112300,Dapur Utama,Diet Biasa,2,459,426
+112301,Dapur Utama,Diet Diabetes,1,461,423
+112302,Dapur Diet Khusus,Diet Lunak,3,468,428
+112303,Dapur Utama,Diet Diabetes,1,452,443
+112304,Dapur Utama,Diet Cair,1,455,440
+112305,Dapur Utama,Diet Diabetes,2,461,443
+112306,Dapur Diet Khusus,Diet Lunak,3,462,439
+112307,Dapur Utama,Diet Cair,3,454,443
+112308,Dapur Diet Khusus,Diet Lunak,1,469,421
+112309,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,462,436
+112310,Dapur Diet Khusus,Diet Cair,2,451,427
+112311,Dapur Utama,Diet Rendah Garam,3,465,449
+112312,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,459,446
+112313,Dapur Utama,Diet Lunak,2,469,434
+112314,Dapur Utama,Diet Biasa,3,454,448
+112315,Dapur Utama,Diet Lunak,3,463,446
+112316,Dapur Diet Khusus,Diet Biasa,1,465,422
+112317,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,464,429
+112318,Dapur Diet Khusus,Diet Biasa,1,459,442
+112319,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,453,432
+112320,Dapur Diet Khusus,Diet Lunak,2,460,426
+112321,Dapur Diet Khusus,Diet Diabetes,1,466,421
+112322,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,468,443
+112323,Dapur Diet Khusus,Diet Biasa,3,466,449
+112324,Dapur Utama,Diet Biasa,2,456,427
+112325,Dapur Utama,Diet Biasa,1,467,434
+112326,Dapur Diet Khusus,Diet Biasa,1,455,421
+112327,Dapur Utama,Diet Biasa,1,452,447
+112328,Dapur Utama,Diet Cair,3,452,441
+112329,Dapur Diet Khusus,Diet Biasa,1,451,440
+112330,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,451,421
+112331,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,455,445
+112332,Dapur Utama,Diet Biasa,1,452,433
+112333,Dapur Diet Khusus,Diet Biasa,1,467,425
+112334,Dapur Utama,Diet Rendah Garam,3,470,433
+112335,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,456,428
+112336,Dapur Utama,Diet Lunak,2,461,444
+112337,Dapur Utama,Diet Lunak,3,459,427
+112338,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,461,449
+112339,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,470,439
+112340,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,466,436
+112341,Dapur Utama,Diet Cair,2,459,440
+112342,Dapur Utama,Diet Biasa,3,454,441
+112343,Dapur Diet Khusus,Diet Rendah Garam,1,458,450
+112344,Dapur Diet Khusus,Diet Rendah Garam,3,462,437
+112345,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,465,424
+112346,Dapur Diet Khusus,Diet Cair,3,470,428
+112347,Dapur Utama,Diet Rendah Garam,2,470,450
+112348,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,451,429
+112349,Dapur Diet Khusus,Diet Lunak,3,468,440
+112350,Dapur Utama,Diet Diabetes,1,459,422
+112351,Dapur Diet Khusus,Diet Biasa,3,470,427
+112352,Dapur Diet Khusus,Diet Biasa,2,463,446
+112353,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,463,446
+112354,Dapur Diet Khusus,Diet Diabetes,3,470,422
+112355,Dapur Utama,Diet Biasa,2,461,443
+112356,Dapur Utama,Diet Diabetes,1,464,426
+112357,Dapur Diet Khusus,Diet Rendah Garam,2,452,424
+112358,Dapur Diet Khusus,Diet Diabetes,1,469,450
+112359,Dapur Utama,Diet Cair,1,451,436
+112360,Dapur Utama,Diet Cair,1,467,440
+112361,Dapur Utama,Diet Diabetes,2,455,424
+112362,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,462,449
+112363,Dapur Utama,Diet Rendah Garam,2,462,447
+112364,Dapur Diet Khusus,Diet Cair,3,470,434
+112365,Dapur Diet Khusus,Diet Biasa,1,469,421
+112366,Dapur Diet Khusus,Diet Diabetes,1,469,427
+112367,Dapur Utama,Diet Rendah Garam,3,458,430
+112368,Dapur Utama,Diet Diabetes,2,451,426
+112369,Dapur Diet Khusus,Diet Diabetes,1,462,425
+112370,Dapur Utama,Diet Lunak,2,468,440
+112371,Dapur Utama,Diet Cair,2,457,426
+112372,Dapur Diet Khusus,Diet Cair,2,463,429
+112373,Dapur Diet Khusus,Diet Diabetes,1,453,439
+112374,Dapur Utama,Diet Lunak,1,469,450
+112375,Dapur Utama,Diet Biasa,1,452,445
+112376,Dapur Diet Khusus,Diet Rendah Garam,1,452,427
+112377,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,454,431
+112378,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,467,430
+112379,Dapur Diet Khusus,Diet Rendah Garam,3,453,444
+112380,Dapur Utama,Diet Lunak,2,455,449
+112381,Dapur Diet Khusus,Diet Diabetes,2,454,431
+112382,Dapur Diet Khusus,Diet Rendah Garam,2,452,444
+112383,Dapur Utama,Diet Lunak,3,461,438
+112384,Dapur Diet Khusus,Diet Diabetes,2,465,432
+112385,Dapur Diet Khusus,Diet Biasa,2,469,443
+112386,Dapur Utama,Diet Biasa,3,470,447
+112387,Dapur Utama,Diet Lunak,1,467,440
+112388,Dapur Diet Khusus,Diet Lunak,1,453,443
+112389,Dapur Diet Khusus,Diet Diabetes,2,461,439
+112390,Dapur Utama,Diet Rendah Garam,3,460,449
+112391,Dapur Utama,Diet Diabetes,1,456,431
+112392,Dapur Utama,Diet Rendah Garam,3,470,429
+112393,Dapur Diet Khusus,Diet Lunak,3,458,448
+112394,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,455,427
+112395,Dapur Utama,Diet Lunak,1,462,449
+112396,Dapur Utama,Diet Lunak,3,459,439
+112397,Dapur Utama,Diet Biasa,1,467,449
+112398,Dapur Utama,Diet Biasa,2,451,441
+112399,Dapur Diet Khusus,Diet Diabetes,3,462,449
+112400,Dapur Diet Khusus,Diet Cair,1,459,421
+112401,Dapur Diet Khusus,Diet Rendah Garam,2,463,423
+112402,Dapur Utama,Diet Cair,3,468,425
+112403,Dapur Utama,Diet Biasa,1,457,433
+112404,Dapur Diet Khusus,Diet Rendah Garam,1,468,435
+112405,Dapur Diet Khusus,Diet Biasa,1,462,443
+112406,Dapur Utama,Diet Cair,1,466,433
+112407,Dapur Diet Khusus,Diet Biasa,3,463,423
+112408,Dapur Utama,Diet Rendah Garam,2,454,450
+112409,Dapur Utama,Diet Rendah Garam,3,461,442
+112410,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,461,446
+112411,Dapur Utama,Diet Cair,2,462,423
+112412,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,464,429
+112413,Dapur Diet Khusus,Diet Cair,1,453,435
+112414,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,457,441
+112415,Dapur Diet Khusus,Diet Biasa,1,461,422
+112416,Dapur Diet Khusus,Diet Lunak,3,451,436
+112417,Dapur Diet Khusus,Diet Cair,2,457,429
+112418,Dapur Diet Khusus,Diet Lunak,2,462,423
+112419,Dapur Utama,Diet Biasa,3,453,439
+112420,Dapur Diet Khusus,Diet Diabetes,3,462,447
+112421,Dapur Utama,Diet Cair,2,464,425
+112422,Dapur Diet Khusus,Diet Diabetes,2,465,445
+112423,Dapur Utama,Diet Biasa,2,466,447
+112424,Dapur Diet Khusus,Diet Biasa,3,461,427
+112425,Dapur Utama,Diet Rendah Garam,1,464,450
+112426,Dapur Utama,Diet Diabetes,2,454,425
+112427,Dapur Diet Khusus,Diet Lunak,1,452,428
+112428,Dapur Diet Khusus,Diet Diabetes,2,452,448
+112429,Dapur Utama,Diet Lunak,3,470,423
+112430,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,469,426
+112431,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,462,445
+112432,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,467,442
+112433,Dapur Utama,Diet Biasa,3,457,446
+112434,Dapur Utama,Diet Cair,3,466,421
+112435,Dapur Diet Khusus,Diet Biasa,3,460,440
+112436,Dapur Utama,Diet Diabetes,3,460,435
+112437,Dapur Diet Khusus,Diet Biasa,1,454,444
+112438,Dapur Utama,Diet Cair,1,463,437
+112439,Dapur Diet Khusus,Diet Cair,2,466,441
+112440,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,459,421
+112441,Dapur Utama,Diet Diabetes,1,466,428
+112442,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,452,421
+112443,Dapur Diet Khusus,Diet Biasa,2,452,435
+112444,Dapur Diet Khusus,Diet Biasa,1,464,432
+112445,Dapur Diet Khusus,Diet Cair,3,467,439
+112446,Dapur Utama,Diet Rendah Garam,2,458,434
+112447,Dapur Utama,Diet Diabetes,3,460,436
+112448,Dapur Utama,Diet Rendah Garam,2,465,425
+112449,Dapur Utama,Diet Biasa,3,461,442
+112450,Dapur Diet Khusus,Diet Cair,3,456,449
+112451,Dapur Utama,Diet Diabetes,2,458,439
+112452,Dapur Utama,Diet Lunak,1,470,444
+112453,Dapur Diet Khusus,Diet Diabetes,2,457,425
+112454,Dapur Utama,Diet Lunak,1,452,427
+112455,Dapur Diet Khusus,Diet Lunak,2,467,431
+112456,Dapur Utama,Diet Rendah Garam,2,460,444
+112457,Dapur Utama,Diet Lunak,2,453,443
+112458,Dapur Utama,Diet Rendah Garam,1,470,426
+112459,Dapur Diet Khusus,Diet Rendah Garam,1,454,439
+112460,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,470,443
+112461,Dapur Utama,Diet Biasa,1,455,448
+112462,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,468,431
+112463,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,456,444
+112464,Dapur Utama,Diet Cair,2,465,423
+112465,Dapur Utama,Diet Biasa,1,470,435
+112466,Dapur Diet Khusus,Diet Diabetes,3,465,445
+112467,Dapur Utama,Diet Lunak,3,468,441
+112468,Dapur Diet Khusus,Diet Lunak,3,457,442
+112469,Dapur Diet Khusus,Diet Lunak,1,463,449
+112470,Dapur Utama,Diet Rendah Garam,1,466,426
+112471,Dapur Diet Khusus,Diet Biasa,3,461,421
+112472,Dapur Utama,Diet Cair,1,453,443
+112473,Dapur Utama,Diet Lunak,1,451,439
+112474,Dapur Diet Khusus,Diet Lunak,2,462,426
+112475,Dapur Utama,Diet Cair,3,458,423
+112476,Dapur Diet Khusus,Diet Rendah Garam,1,464,446
+112477,Dapur Utama,Diet Lunak,1,464,425
+112478,Dapur Diet Khusus,Diet Diabetes,1,464,444
+112479,Dapur Diet Khusus,Diet Lunak,1,458,445
+112480,Dapur Diet Khusus,Diet Diabetes,3,464,450
+112481,Dapur Utama,Diet Lunak,3,453,421
+112482,Dapur Diet Khusus,Diet Rendah Garam,2,456,422
+112483,Dapur Utama,Diet Lunak,2,470,434
+112484,Dapur Utama,Diet Biasa,2,464,428
+112485,Dapur Utama,Diet Cair,2,466,434
+112486,Dapur Diet Khusus,Diet Diabetes,2,461,436
+112487,Dapur Diet Khusus,Diet Cair,2,458,432
+112488,Dapur Diet Khusus,Diet Lunak,3,457,439
+112489,Dapur Diet Khusus,Diet Lunak,2,456,428
+112490,Dapur Diet Khusus,Diet Cair,3,455,430
+112491,Dapur Diet Khusus,Diet Cair,3,453,443
+112492,Dapur Diet Khusus,Diet Biasa,1,458,438
+112493,Dapur Diet Khusus,Diet Rendah Garam,3,467,442
+112494,Dapur Diet Khusus,Diet Cair,2,452,438
+112495,Dapur Utama,Diet Diabetes,3,465,431
+112496,Dapur Utama,Diet Lunak,1,464,424
+112497,Dapur Diet Khusus,Diet Lunak,2,452,435
+112498,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,458,445
+112499,Dapur Utama,Diet Lunak,3,455,442
+112500,Dapur Diet Khusus,Diet Lunak,2,452,450
+112501,Dapur Diet Khusus,Diet Rendah Garam,2,466,442
+112502,Dapur Diet Khusus,Diet Diabetes,1,461,446
+112503,Dapur Utama,Diet Rendah Garam,1,462,440
+112504,Dapur Diet Khusus,Diet Diabetes,2,459,443
+112505,Dapur Diet Khusus,Diet Biasa,3,467,427
+112506,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,460,440
+112507,Dapur Utama,Diet Cair,2,463,441
+112508,Dapur Diet Khusus,Diet Lunak,1,453,439
+112509,Dapur Utama,Diet Cair,3,464,427
+112510,Dapur Diet Khusus,Diet Biasa,2,451,450
+112511,Dapur Utama,Diet Biasa,1,464,434
+112512,Dapur Diet Khusus,Diet Rendah Garam,2,456,434
+112513,Dapur Diet Khusus,Diet Lunak,1,466,436
+112514,Dapur Diet Khusus,Diet Lunak,2,455,432
+112515,Dapur Diet Khusus,Diet Diabetes,3,466,425
+112516,Dapur Utama,Diet Rendah Garam,2,462,438
+112517,Dapur Diet Khusus,Diet Biasa,1,466,447
+112518,Dapur Utama,Diet Biasa,2,463,429
+112519,Dapur Diet Khusus,Diet Lunak,2,453,449
+112520,Dapur Utama,Diet Lunak,3,461,446
+112521,Dapur Utama,Diet Cair,2,458,443
+112522,Dapur Diet Khusus,Diet Diabetes,1,465,434
+112523,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,460,446
+112524,Dapur Utama,Diet Cair,3,453,425
+112525,Dapur Utama,Diet Biasa,1,451,447
+112526,Dapur Diet Khusus,Diet Diabetes,3,458,446
+112527,Dapur Diet Khusus,Diet Rendah Garam,1,464,431
+112528,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,467,446
+112529,Dapur Diet Khusus,Diet Cair,2,455,424
+112530,Dapur Utama,Diet Cair,3,453,440
+112531,Dapur Utama,Diet Diabetes,2,455,422
+112532,Dapur Diet Khusus,Diet Lunak,1,457,432
+112533,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,464,430
+112534,Dapur Diet Khusus,Diet Diabetes,2,470,440
+112535,Dapur Utama,Diet Lunak,2,465,445
+112536,Dapur Diet Khusus,Diet Cair,2,462,434
+112537,Dapur Diet Khusus,Diet Cair,2,459,425
+112538,Dapur Utama,Diet Biasa,1,467,441
+112539,Dapur Utama,Diet Rendah Garam,2,458,450
+112540,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,470,443
+112541,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,456,434
+112542,Dapur Utama,Diet Rendah Garam,3,463,444
+112543,Dapur Utama,Diet Diabetes,3,463,423
+112544,Dapur Utama,Diet Lunak,1,452,425
+112545,Dapur Utama,Diet Cair,3,451,448
+112546,Dapur Diet Khusus,Diet Cair,3,459,438
+112547,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,466,423
+112548,Dapur Diet Khusus,Diet Cair,1,452,436
+112549,Dapur Utama,Diet Lunak,3,468,435
+112550,Dapur Utama,Diet Cair,2,463,447
+112551,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,469,423
+112552,Dapur Diet Khusus,Diet Lunak,2,468,441
+112553,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,468,427
+112554,Dapur Diet Khusus,Diet Biasa,1,462,444
+112555,Dapur Utama,Diet Biasa,3,463,428
+112556,Dapur Utama,Diet Cair,1,454,439
+112557,Dapur Diet Khusus,Diet Lunak,1,452,446
+112558,Dapur Utama,Diet Lunak,2,451,431
+112559,Dapur Diet Khusus,Diet Diabetes,2,465,436
+112560,Dapur Utama,Diet Diabetes,1,459,430
+112561,Dapur Utama,Diet Cair,1,454,442
+112562,Dapur Utama,Diet Biasa,3,462,434
+112563,Dapur Utama,Diet Diabetes,3,451,430
+112564,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,464,438
+112565,Dapur Diet Khusus,Diet Rendah Garam,3,463,432
+112566,Dapur Diet Khusus,Diet Rendah Garam,1,456,424
+112567,Dapur Utama,Diet Rendah Garam,1,456,440
+112568,Dapur Diet Khusus,Diet Biasa,2,460,421
+112569,Dapur Diet Khusus,Diet Diabetes,1,465,425
+112570,Dapur Utama,Diet Rendah Garam,1,455,429
+112571,Dapur Utama,Diet Cair,3,459,446
+112572,Dapur Diet Khusus,Diet Cair,1,459,426
+112573,Dapur Diet Khusus,Diet Cair,2,463,444
+112574,Dapur Utama,Diet Biasa,1,459,430
+112575,Dapur Diet Khusus,Diet Lunak,3,454,448
+112576,Dapur Utama,Diet Lunak,1,468,443
+112577,Dapur Diet Khusus,Diet Rendah Garam,2,460,445
+112578,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,466,447
+112579,Dapur Utama,Diet Rendah Garam,2,456,445
+112580,Dapur Utama,Diet Lunak,3,469,427
+112581,Dapur Utama,Diet Diabetes,3,468,442
+112582,Dapur Diet Khusus,Diet Diabetes,2,454,447
+112583,Dapur Utama,Diet Diabetes,2,470,421
+112584,Dapur Diet Khusus,Diet Lunak,3,455,448
+112585,Dapur Utama,Diet Rendah Garam,2,459,426
+112586,Dapur Diet Khusus,Diet Rendah Garam,1,459,447
+112587,Dapur Utama,Diet Biasa,1,468,450
+112588,Dapur Utama,Diet Lunak,3,470,438
+112589,Dapur Utama,Diet Cair,2,452,447
+112590,Dapur Diet Khusus,Diet Cair,2,468,432
+112591,Dapur Diet Khusus,Diet Biasa,3,459,439
+112592,Dapur Utama,Diet Diabetes,3,465,441
+112593,Dapur Utama,Diet Rendah Garam,2,451,424
+112594,Dapur Diet Khusus,Diet Diabetes,2,452,430
+112595,Dapur Utama,Diet Lunak,1,464,447
+112596,Dapur Utama,Diet Biasa,1,461,442
+112597,Dapur Diet Khusus,Diet Biasa,2,459,435
+112598,Dapur Utama,Diet Lunak,3,466,450
+112599,Dapur Utama,Diet Lunak,2,465,435
+112600,Dapur Diet Khusus,Diet Rendah Garam,2,465,422
+112601,Dapur Utama,Diet Lunak,3,468,439
+112602,Dapur Utama,Diet Diabetes,2,466,435
+112603,Dapur Utama,Diet Diabetes,3,456,434
+112604,Dapur Diet Khusus,Diet Lunak,1,454,442
+112605,Dapur Utama,Diet Lunak,1,451,449
+112606,Dapur Utama,Diet Diabetes,2,457,427
+112607,Dapur Utama,Diet Diabetes,2,457,442
+112608,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,466,433
+112609,Dapur Diet Khusus,Diet Rendah Garam,1,454,441
+112610,Dapur Diet Khusus,Diet Diabetes,2,454,437
+112611,Dapur Utama,Diet Biasa,3,470,438
+112612,Dapur Utama,Diet Cair,3,452,435
+112613,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,458,445
+112614,Dapur Diet Khusus,Diet Lunak,3,454,429
+112615,Dapur Diet Khusus,Diet Cair,2,458,431
+112616,Dapur Diet Khusus,Diet Cair,3,454,443
+112617,Dapur Utama,Diet Lunak,1,455,443
+112618,Dapur Utama,Diet Diabetes,1,455,443
+112619,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,457,428
+112620,Dapur Diet Khusus,Diet Cair,1,457,437
+112621,Dapur Diet Khusus,Diet Lunak,1,452,444
+112622,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,464,449
+112623,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,461,430
+112624,Dapur Utama,Diet Diabetes,1,470,429
+112625,Dapur Diet Khusus,Diet Cair,2,454,445
+112626,Dapur Utama,Diet Biasa,2,463,440
+112627,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,461,428
+112628,Dapur Utama,Diet Rendah Garam,1,453,444
+112629,Dapur Diet Khusus,Diet Lunak,1,470,431
+112630,Dapur Utama,Diet Rendah Garam,3,451,431
+112631,Dapur Utama,Diet Diabetes,2,452,429
+112632,Dapur Utama,Diet Rendah Garam,3,459,442
+112633,Dapur Utama,Diet Biasa,3,456,448
+112634,Dapur Utama,Diet Lunak,1,459,430
+112635,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,463,423
+112636,Dapur Diet Khusus,Diet Biasa,2,452,444
+112637,Dapur Diet Khusus,Diet Biasa,2,462,449
+112638,Dapur Diet Khusus,Diet Lunak,3,466,442
+112639,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,464,421
+112640,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,456,425
+112641,Dapur Utama,Diet Diabetes,3,466,445
+112642,Dapur Utama,Diet Biasa,1,459,450
+112643,Dapur Utama,Diet Diabetes,3,459,446
+112644,Dapur Utama,Diet Rendah Garam,2,453,425
+112645,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,469,427
+112646,Dapur Diet Khusus,Diet Cair,2,461,429
+112647,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,453,421
+112648,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,466,447
+112649,Dapur Utama,Diet Biasa,2,466,439
+112650,Dapur Diet Khusus,Diet Biasa,3,463,421
+112651,Dapur Diet Khusus,Diet Diabetes,3,463,437
+112652,Dapur Diet Khusus,Diet Diabetes,3,459,440
+112653,Dapur Utama,Diet Rendah Garam,1,464,421
+112654,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,467,423
+112655,Dapur Utama,Diet Lunak,3,467,444
+112656,Dapur Utama,Diet Lunak,1,456,442
+112657,Dapur Utama,Diet Lunak,2,457,432
+112658,Dapur Utama,Diet Lunak,1,456,450
+112659,Dapur Utama,Diet Biasa,1,456,439
+112660,Dapur Utama,Diet Rendah Garam,1,470,448
+112661,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,465,449
+112662,Dapur Utama,Diet Biasa,3,469,439
+112663,Dapur Diet Khusus,Diet Diabetes,3,460,444
+112664,Dapur Utama,Diet Diabetes,3,469,434
+112665,Dapur Utama,Diet Diabetes,1,462,441
+112666,Dapur Utama,Diet Diabetes,2,466,436
+112667,Dapur Diet Khusus,Diet Diabetes,1,459,421
+112668,Dapur Utama,Diet Diabetes,2,454,423
+112669,Dapur Utama,Diet Rendah Garam,3,465,429
+112670,Dapur Diet Khusus,Diet Diabetes,2,464,428
+112671,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,459,447
+112672,Dapur Utama,Diet Cair,1,462,446
+112673,Dapur Diet Khusus,Diet Cair,3,470,442
+112674,Dapur Utama,Diet Rendah Garam,1,466,441
+112675,Dapur Utama,Diet Rendah Garam,2,452,435
+112676,Dapur Diet Khusus,Diet Rendah Garam,3,468,438
+112677,Dapur Utama,Diet Rendah Garam,3,469,426
+112678,Dapur Utama,Diet Rendah Garam,3,465,430
+112679,Dapur Utama,Diet Cair,3,468,441
+112680,Dapur Diet Khusus,Diet Diabetes,3,452,448
+112681,Dapur Utama,Diet Cair,1,461,430
+112682,Dapur Diet Khusus,Diet Diabetes,2,461,432
+112683,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,466,430
+112684,Dapur Diet Khusus,Diet Lunak,2,455,425
+112685,Dapur Utama,Diet Cair,3,464,427
+112686,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,467,430
+112687,Dapur Diet Khusus,Diet Lunak,1,457,444
+112688,Dapur Utama,Diet Rendah Garam,1,467,447
+112689,Dapur Utama,Diet Cair,1,469,436
+112690,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,460,437
+112691,Dapur Utama,Diet Lunak,1,464,430
+112692,Dapur Utama,Diet Rendah Garam,3,451,447
+112693,Dapur Utama,Diet Biasa,1,460,424
+112694,Dapur Diet Khusus,Diet Lunak,3,455,433
+112695,Dapur Utama,Diet Cair,2,458,423
+112696,Dapur Diet Khusus,Diet Cair,1,456,439
+112697,Dapur Diet Khusus,Diet Rendah Garam,3,457,438
+112698,Dapur Utama,Diet Biasa,2,460,422
+112699,Dapur Utama,Diet Diabetes,1,457,450
+112700,Dapur Utama,Diet Cair,2,468,435
+112701,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,464,447
+112702,Dapur Diet Khusus,Diet Lunak,2,468,426
+112703,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,465,427
+112704,Dapur Utama,Diet Cair,3,458,424
+112705,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,458,437
+112706,Dapur Utama,Diet Lunak,3,458,433
+112707,Dapur Utama,Diet Biasa,2,453,424
+112708,Dapur Diet Khusus,Diet Cair,1,452,447
+112709,Dapur Utama,Diet Biasa,2,469,444
+112710,Dapur Utama,Diet Rendah Garam,3,465,442
+112711,Dapur Diet Khusus,Diet Biasa,1,452,439
+112712,Dapur Utama,Diet Rendah Garam,3,459,423
+112713,Dapur Utama,Diet Biasa,2,454,439
+112714,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,453,432
+112715,Dapur Utama,Diet Cair,1,468,426
+112716,Dapur Diet Khusus,Diet Diabetes,2,459,424
+112717,Dapur Diet Khusus,Diet Diabetes,1,454,449
+112718,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,468,438
+112719,Dapur Diet Khusus,Diet Rendah Garam,1,463,438
+112720,Dapur Utama,Diet Cair,1,459,425
+112721,Dapur Utama,Diet Lunak,2,462,448
+112722,Dapur Utama,Diet Rendah Garam,2,463,425
+112723,Dapur Diet Khusus,Diet Cair,3,469,434
+112724,Dapur Utama,Diet Diabetes,1,458,441
+112725,Dapur Utama,Diet Cair,3,457,430
+112726,Dapur Diet Khusus,Diet Cair,3,452,444
+112727,Dapur Diet Khusus,Diet Diabetes,1,456,425
+112728,Dapur Utama,Diet Lunak,1,463,426
+112729,Dapur Utama,Diet Cair,2,468,441
+112730,Dapur Diet Khusus,Diet Biasa,2,468,430
+112731,Dapur Diet Khusus,Diet Lunak,2,460,441
+112732,Dapur Diet Khusus,Diet Biasa,1,463,450
+112733,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,453,447
+112734,Dapur Diet Khusus,Diet Diabetes,2,461,444
+112735,Dapur Diet Khusus,Diet Biasa,3,469,448
+112736,Dapur Utama,Diet Rendah Garam,1,459,448
+112737,Dapur Diet Khusus,Diet Cair,3,454,431
+112738,Dapur Diet Khusus,Diet Diabetes,2,462,445
+112739,Dapur Diet Khusus,Diet Lunak,2,456,440
+112740,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,468,426
+112741,Dapur Diet Khusus,Diet Lunak,1,462,428
+112742,Dapur Diet Khusus,Diet Lunak,2,459,437
+112743,Dapur Utama,Diet Rendah Garam,2,469,436
+112744,Dapur Utama,Diet Biasa,3,454,437
+112745,Dapur Utama,Diet Lunak,3,451,424
+112746,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,457,428
+112747,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,451,444
+112748,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,454,424
+112749,Dapur Utama,Diet Diabetes,1,458,430
+112750,Dapur Diet Khusus,Diet Biasa,3,461,421
+112751,Dapur Utama,Diet Lunak,2,470,445
+112752,Dapur Diet Khusus,Diet Biasa,2,467,431
+112753,Dapur Utama,Diet Lunak,2,452,439
+112754,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,466,426
+112755,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,470,435
+112756,Dapur Diet Khusus,Diet Diabetes,1,466,424
+112757,Dapur Utama,Diet Lunak,3,458,421
+112758,Dapur Utama,Diet Biasa,2,455,442
+112759,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,460,435
+112760,Dapur Diet Khusus,Diet Lunak,1,451,447
+112761,Dapur Diet Khusus,Diet Cair,3,456,424
+112762,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,460,437
+112763,Dapur Diet Khusus,Diet Biasa,2,467,447
+112764,Dapur Diet Khusus,Diet Biasa,1,452,443
+112765,Dapur Diet Khusus,Diet Cair,2,461,422
+112766,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,460,424
+112767,Dapur Diet Khusus,Diet Diabetes,2,463,447
+112768,Dapur Utama,Diet Biasa,2,454,450
+112769,Dapur Diet Khusus,Diet Lunak,3,465,421
+112770,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,457,448
+112771,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,460,437
+112772,Dapur Utama,Diet Diabetes,1,470,432
+112773,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,461,442
+112774,Dapur Diet Khusus,Diet Rendah Garam,2,462,436
+112775,Dapur Diet Khusus,Diet Rendah Garam,1,451,439
+112776,Dapur Diet Khusus,Diet Cair,2,461,426
+112777,Dapur Utama,Diet Biasa,2,469,435
+112778,Dapur Utama,Diet Biasa,2,463,427
+112779,Dapur Diet Khusus,Diet Diabetes,2,451,424
+112780,Dapur Diet Khusus,Diet Lunak,2,459,439
+112781,Dapur Diet Khusus,Diet Diabetes,1,464,440
+112782,Dapur Diet Khusus,Diet Cair,3,454,448
+112783,Dapur Diet Khusus,Diet Cair,1,459,440
+112784,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,460,442
+112785,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,456,450
+112786,Dapur Diet Khusus,Diet Biasa,2,467,431
+112787,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,467,436
+112788,Dapur Utama,Diet Lunak,2,452,434
+112789,Dapur Utama,Diet Cair,3,461,443
+112790,Dapur Utama,Diet Biasa,3,467,426
+112791,Dapur Diet Khusus,Diet Diabetes,3,451,427
+112792,Dapur Utama,Diet Biasa,1,460,441
+112793,Dapur Utama,Diet Lunak,2,459,438
+112794,Dapur Diet Khusus,Diet Biasa,3,464,423
+112795,Dapur Utama,Diet Lunak,3,461,425
+112796,Dapur Diet Khusus,Diet Diabetes,1,455,433
+112797,Dapur Diet Khusus,Diet Lunak,3,469,448
+112798,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,452,430
+112799,Dapur Diet Khusus,Diet Cair,1,462,431
+112800,Dapur Utama,Diet Diabetes,2,462,428
+112801,Dapur Diet Khusus,Diet Biasa,1,469,430
+112802,Dapur Diet Khusus,Diet Rendah Garam,1,456,434
+112803,Dapur Utama,Diet Lunak,3,454,426
+112804,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,451,428
+112805,Dapur Utama,Diet Diabetes,3,456,440
+112806,Dapur Utama,Diet Diabetes,1,469,432
+112807,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,460,427
+112808,Dapur Utama,Diet Lunak,1,469,433
+112809,Dapur Utama,Diet Biasa,3,468,442
+112810,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,454,449
+112811,Dapur Utama,Diet Rendah Garam,1,464,437
+112812,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,464,440
+112813,Dapur Diet Khusus,Diet Rendah Garam,3,462,441
+112814,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,470,438
+112815,Dapur Utama,Diet Cair,3,465,433
+112816,Dapur Utama,Diet Biasa,3,459,443
+112817,Dapur Utama,Diet Diabetes,1,467,439
+112818,Dapur Utama,Diet Lunak,2,463,442
+112819,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,467,431
+112820,Dapur Diet Khusus,Diet Diabetes,1,470,429
+112821,Dapur Utama,Diet Lunak,2,451,444
+112822,Dapur Utama,Diet Rendah Garam,2,455,450
+112823,Dapur Diet Khusus,Diet Cair,2,466,429
+112824,Dapur Utama,Diet Diabetes,1,464,439
+112825,Dapur Diet Khusus,Diet Lunak,3,469,436
+112826,Dapur Diet Khusus,Diet Cair,2,451,422
+112827,Dapur Diet Khusus,Diet Biasa,3,466,421
+112828,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,466,424
+112829,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,464,435
+112830,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,465,428
+112831,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,459,424
+112832,Dapur Utama,Diet Cair,2,457,450
+112833,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,466,431
+112834,Dapur Utama,Diet Lunak,2,464,435
+112835,Dapur Utama,Diet Lunak,1,456,444
+112836,Dapur Utama,Diet Cair,1,452,449
+112837,Dapur Utama,Diet Lunak,2,454,436
+112838,Dapur Utama,Diet Diabetes,1,465,421
+112839,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,459,427
+112840,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,453,441
+112841,Dapur Diet Khusus,Diet Rendah Garam,2,459,438
+112842,Dapur Utama,Diet Biasa,3,462,424
+112843,Dapur Utama,Diet Diabetes,1,470,429
+112844,Dapur Diet Khusus,Diet Rendah Garam,3,464,437
+112845,Dapur Utama,Diet Biasa,1,465,432
+112846,Dapur Diet Khusus,Diet Biasa,1,469,444
+112847,Dapur Diet Khusus,Diet Cair,3,452,434
+112848,Dapur Diet Khusus,Diet Rendah Garam,2,462,440
+112849,Dapur Utama,Diet Diabetes,3,457,425
+112850,Dapur Diet Khusus,Diet Biasa,3,459,428
+112851,Dapur Utama,Diet Diabetes,3,454,421
+112852,Dapur Utama,Diet Cair,1,467,430
+112853,Dapur Diet Khusus,Diet Cair,3,458,447
+112854,Dapur Utama,Diet Diabetes,3,452,434
+112855,Dapur Utama,Diet Biasa,1,453,432
+112856,Dapur Diet Khusus,Diet Rendah Garam,2,468,423
+112857,Dapur Utama,Diet Lunak,2,456,442
+112858,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,460,443
+112859,Dapur Diet Khusus,Diet Diabetes,3,466,428
+112860,Dapur Utama,Diet Cair,3,466,434
+112861,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,458,423
+112862,Dapur Utama,Diet Diabetes,3,459,423
+112863,Dapur Utama,Diet Lunak,3,465,436
+112864,Dapur Diet Khusus,Diet Lunak,1,460,421
+112865,Dapur Utama,Diet Cair,3,466,431
+112866,Dapur Diet Khusus,Diet Rendah Garam,3,456,434
+112867,Dapur Utama,Diet Lunak,3,464,441
+112868,Dapur Diet Khusus,Diet Biasa,1,460,450
+112869,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,460,444
+112870,Dapur Diet Khusus,Diet Lunak,1,455,427
+112871,Dapur Diet Khusus,Diet Cair,1,469,436
+112872,Dapur Diet Khusus,Diet Rendah Garam,1,458,441
+112873,Dapur Diet Khusus,Diet Diabetes,2,454,448
+112874,Dapur Diet Khusus,Diet Lunak,3,457,430
+112875,Dapur Diet Khusus,Diet Biasa,2,464,447
+112876,Dapur Utama,Diet Rendah Garam,1,463,429
+112877,Dapur Utama,Diet Diabetes,1,459,425
+112878,Dapur Utama,Diet Cair,3,457,440
+112879,Dapur Diet Khusus,Diet Biasa,3,455,425
+112880,Dapur Diet Khusus,Diet Diabetes,2,465,433
+112881,Dapur Utama,Diet Rendah Garam,2,455,432
+112882,Dapur Utama,Diet Cair,3,470,437
+112883,Dapur Diet Khusus,Diet Diabetes,1,463,426
+112884,Dapur Diet Khusus,Diet Cair,3,461,434
+112885,Dapur Utama,Diet Lunak,2,470,427
+112886,Dapur Utama,Diet Biasa,3,454,450
+112887,Dapur Utama,Diet Biasa,3,455,423
+112888,Dapur Diet Khusus,Diet Cair,2,462,433
+112889,Dapur Utama,Diet Cair,3,469,426
+112890,Dapur Utama,Diet Diabetes,3,455,432
+112891,Dapur Utama,Diet Biasa,1,459,430
+112892,Dapur Utama,Diet Diabetes,1,467,428
+112893,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,454,447
+112894,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,469,433
+112895,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,463,423
+112896,Dapur Diet Khusus,Diet Diabetes,1,452,436
+112897,Dapur Diet Khusus,Diet Cair,2,455,430
+112898,Dapur Diet Khusus,Diet Cair,1,457,436
+112899,Dapur Utama,Diet Lunak,1,465,429
+112900,Dapur Diet Khusus,Diet Biasa,1,468,432
+112901,Dapur Utama,Diet Rendah Garam,2,459,441
+112902,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,459,427
+112903,Dapur Diet Khusus,Diet Biasa,2,453,422
+112904,Dapur Diet Khusus,Diet Biasa,3,452,440
+112905,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,456,425
+112906,Dapur Utama,Diet Diabetes,3,465,446
+112907,Dapur Utama,Diet Biasa,1,466,433
+112908,Dapur Utama,Diet Diabetes,2,456,445
+112909,Dapur Utama,Diet Rendah Garam,2,463,431
+112910,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,470,425
+112911,Dapur Utama,Diet Biasa,3,468,450
+112912,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,470,425
+112913,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,457,431
+112914,Dapur Diet Khusus,Diet Lunak,1,461,432
+112915,Dapur Diet Khusus,Diet Diabetes,1,454,441
+112916,Dapur Diet Khusus,Diet Cair,1,456,421
+112917,Dapur Diet Khusus,Diet Cair,3,467,428
+112918,Dapur Utama,Diet Diabetes,2,454,438
+112919,Dapur Diet Khusus,Diet Rendah Garam,1,457,447
+112920,Dapur Diet Khusus,Diet Diabetes,3,467,421
+112921,Dapur Utama,Diet Lunak,2,455,446
+112922,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,454,441
+112923,Dapur Utama,Diet Biasa,1,468,423
+112924,Dapur Diet Khusus,Diet Rendah Garam,2,463,431
+112925,Dapur Utama,Diet Rendah Garam,2,468,437
+112926,Dapur Utama,Diet Biasa,3,460,422
+112927,Dapur Diet Khusus,Diet Biasa,1,459,421
+112928,Dapur Utama,Diet Biasa,3,462,440
+112929,Dapur Diet Khusus,Diet Biasa,3,459,444
+112930,Dapur Utama,Diet Biasa,3,470,447
+112931,Dapur Diet Khusus,Diet Biasa,1,459,450
+112932,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,466,442
+112933,Dapur Utama,Diet Lunak,1,464,427
+112934,Dapur Diet Khusus,Diet Rendah Garam,2,470,433
+112935,Dapur Diet Khusus,Diet Rendah Garam,2,460,432
+112936,Dapur Utama,Diet Lunak,1,456,438
+112937,Dapur Diet Khusus,Diet Diabetes,2,454,435
+112938,Dapur Utama,Diet Cair,2,453,437
+112939,Dapur Diet Khusus,Diet Rendah Garam,3,470,449
+112940,Dapur Utama,Diet Lunak,2,453,450
+112941,Dapur Utama,Diet Lunak,2,469,446
+112942,Dapur Diet Khusus,Diet Cair,2,463,430
+112943,Dapur Utama,Diet Biasa,1,451,429
+112944,Dapur Diet Khusus,Diet Lunak,2,463,435
+112945,Dapur Diet Khusus,Diet Diabetes,2,470,425
+112946,Dapur Diet Khusus,Diet Lunak,2,461,439
+112947,Dapur Diet Khusus,Diet Biasa,3,464,445
+112948,Dapur Diet Khusus,Diet Lunak,1,461,435
+112949,Dapur Diet Khusus,Diet Cair,3,459,423
+112950,Dapur Utama,Diet Lunak,2,457,432
+112951,Dapur Utama,Diet Rendah Garam,3,468,438
+112952,Dapur Diet Khusus,Diet Biasa,2,463,432
+112953,Dapur Utama,Diet Diabetes,1,451,426
+112954,Dapur Utama,Diet Lunak,3,460,422
+112955,Dapur Utama,Diet Biasa,1,467,435
+112956,Dapur Diet Khusus,Diet Biasa,3,470,441
+112957,Dapur Utama,Diet Cair,2,456,444
+112958,Dapur Diet Khusus,Diet Cair,3,461,438
+112959,Dapur Diet Khusus,Diet Rendah Garam,3,452,427
+112960,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,461,445
+112961,Dapur Diet Khusus,Diet Diabetes,1,467,447
+112962,Dapur Utama,Diet Biasa,1,454,438
+112963,Dapur Utama,Diet Biasa,2,451,445
+112964,Dapur Utama,Diet Rendah Garam,1,451,442
+112965,Dapur Utama,Diet Lunak,3,464,431
+112966,Dapur Diet Khusus,Diet Biasa,1,464,437
+112967,Dapur Utama,Diet Diabetes,3,469,445
+112968,Dapur Diet Khusus,Diet Biasa,1,454,449
+112969,Dapur Diet Khusus,Diet Cair,1,464,431
+112970,Dapur Utama,Diet Cair,3,463,430
+112971,Dapur Diet Khusus,Diet Diabetes,3,452,431
+112972,Dapur Diet Khusus,Diet Lunak,3,451,444
+112973,Dapur Diet Khusus,Diet Diabetes,2,467,425
+112974,Dapur Diet Khusus,Diet Cair,1,461,447
+112975,Dapur Utama,Diet Lunak,2,461,450
+112976,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,468,429
+112977,Dapur Utama,Diet Diabetes,3,467,434
+112978,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,457,443
+112979,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,468,438
+112980,Dapur Diet Khusus,Diet Rendah Garam,3,466,423
+112981,Dapur Utama,Diet Cair,2,458,441
+112982,Dapur Utama,Diet Cair,2,465,424
+112983,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,460,426
+112984,Dapur Diet Khusus,Diet Lunak,2,451,421
+112985,Dapur Utama,Diet Biasa,3,468,446
+112986,Dapur Utama,Diet Diabetes,1,454,441
+112987,Dapur Diet Khusus,Diet Diabetes,3,456,446
+112988,Dapur Utama,Diet Cair,1,463,432
+112989,Dapur Utama,Diet Diabetes,2,463,432
+112990,Dapur Utama,Diet Lunak,2,469,437
+112991,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,461,450
+112992,Dapur Diet Khusus,Diet Diabetes,1,453,438
+112993,Dapur Diet Khusus,Diet Cair,2,455,450
+112994,Dapur Diet Khusus,Diet Diabetes,1,452,422
+112995,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,455,437
+112996,Dapur Utama,Diet Cair,2,463,440
+112997,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,461,423
+112998,Dapur Utama,Diet Lunak,2,457,450
+112999,Dapur Utama,Diet Cair,1,469,433
+113000,Dapur Diet Khusus,Diet Diabetes,1,470,435
+113001,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,458,448
+113002,Dapur Diet Khusus,Diet Cair,1,465,421
+113003,Dapur Diet Khusus,Diet Rendah Garam,2,463,440
+113004,Dapur Diet Khusus,Diet Lunak,1,453,436
+113005,Dapur Utama,Diet Diabetes,1,458,449
+113006,Dapur Utama,Diet Biasa,1,455,442
+113007,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,463,440
+113008,Dapur Utama,Diet Rendah Garam,2,468,444
+113009,Dapur Diet Khusus,Diet Cair,1,453,424
+113010,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,468,445
+113011,Dapur Utama,Diet Cair,3,453,433
+113012,Dapur Diet Khusus,Diet Biasa,2,468,427
+113013,Dapur Utama,Diet Rendah Garam,3,464,434
+113014,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,451,432
+113015,Dapur Utama,Diet Lunak,1,460,425
+113016,Dapur Utama,Diet Lunak,2,451,432
+113017,Dapur Utama,Diet Cair,2,454,439
+113018,Dapur Diet Khusus,Diet Lunak,2,470,434
+113019,Dapur Diet Khusus,Diet Cair,2,451,449
+113020,Dapur Diet Khusus,Diet Cair,2,462,450
+113021,Dapur Diet Khusus,Diet Diabetes,2,462,424
+113022,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,469,440
+113023,Dapur Utama,Diet Lunak,1,453,438
+113024,Dapur Diet Khusus,Diet Cair,2,454,447
+113025,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,454,433
+113026,Dapur Diet Khusus,Diet Lunak,2,453,433
+113027,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,469,436
+113028,Dapur Utama,Diet Biasa,1,460,437
+113029,Dapur Diet Khusus,Diet Biasa,3,455,448
+113030,Dapur Diet Khusus,Diet Rendah Garam,2,462,443
+113031,Dapur Utama,Diet Cair,3,463,447
+113032,Dapur Utama,Diet Biasa,3,451,435
+113033,Dapur Utama,Diet Biasa,2,457,448
+113034,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,461,436
+113035,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,459,426
+113036,Dapur Diet Khusus,Diet Lunak,3,468,437
+113037,Dapur Diet Khusus,Diet Diabetes,1,460,436
+113038,Dapur Diet Khusus,Diet Biasa,1,469,422
+113039,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,452,426
+113040,Dapur Diet Khusus,Diet Lunak,1,460,448
+113041,Dapur Utama,Diet Lunak,1,452,434
+113042,Dapur Utama,Diet Rendah Garam,2,469,450
+113043,Dapur Utama,Diet Cair,1,470,421
+113044,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,458,422
+113045,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,465,447
+113046,Dapur Utama,Diet Lunak,3,451,445
+113047,Dapur Utama,Diet Cair,3,460,446
+113048,Dapur Diet Khusus,Diet Rendah Garam,3,455,440
+113049,Dapur Utama,Diet Biasa,3,455,446
+113050,Dapur Diet Khusus,Diet Rendah Garam,1,455,423
+113051,Dapur Diet Khusus,Diet Cair,1,467,443
+113052,Dapur Utama,Diet Biasa,1,453,430
+113053,Dapur Utama,Diet Biasa,1,454,432
+113054,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,465,450
+113055,Dapur Utama,Diet Lunak,1,452,449
+113056,Dapur Diet Khusus,Diet Cair,3,454,442
+113057,Dapur Diet Khusus,Diet Lunak,3,457,423
+113058,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,455,432
+113059,Dapur Diet Khusus,Diet Cair,3,461,445
+113060,Dapur Utama,Diet Rendah Garam,3,457,438
+113061,Dapur Utama,Diet Biasa,3,466,427
+113062,Dapur Utama,Diet Biasa,3,454,438
+113063,Dapur Diet Khusus,Diet Lunak,2,468,432
+113064,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,459,422
+113065,Dapur Utama,Diet Rendah Garam,1,462,437
+113066,Dapur Diet Khusus,Diet Biasa,2,456,437
+113067,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,461,431
+113068,Dapur Utama,Diet Biasa,1,469,426
+113069,Dapur Utama,Diet Lunak,3,455,445
+113070,Dapur Diet Khusus,Diet Lunak,1,470,429
+113071,Dapur Utama,Diet Biasa,3,465,450
+113072,Dapur Diet Khusus,Diet Lunak,1,451,445
+113073,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,454,431
+113074,Dapur Diet Khusus,Diet Lunak,1,458,437
+113075,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,458,450
+113076,Dapur Utama,Diet Rendah Garam,2,462,431
+113077,Dapur Utama,Diet Diabetes,3,464,446
+113078,Dapur Diet Khusus,Diet Cair,2,452,430
+113079,Dapur Diet Khusus,Diet Lunak,3,463,446
+113080,Dapur Diet Khusus,Diet Biasa,1,466,426
+113081,Dapur Utama,Diet Diabetes,2,465,427
+113082,Dapur Utama,Diet Rendah Garam,3,466,436
+113083,Dapur Utama,Diet Lunak,3,465,428
+113084,Dapur Diet Khusus,Diet Lunak,2,470,424
+113085,Dapur Utama,Diet Cair,3,461,435
+113086,Dapur Diet Khusus,Diet Lunak,3,464,442
+113087,Dapur Utama,Diet Diabetes,1,455,450
+113088,Dapur Utama,Diet Diabetes,2,464,433
+113089,Dapur Utama,Diet Rendah Garam,3,467,433
+113090,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,464,438
+113091,Dapur Diet Khusus,Diet Rendah Garam,1,454,442
+113092,Dapur Utama,Diet Lunak,3,466,444
+113093,Dapur Diet Khusus,Diet Rendah Garam,2,454,436
+113094,Dapur Diet Khusus,Diet Rendah Garam,2,468,447
+113095,Dapur Diet Khusus,Diet Cair,3,468,442
+113096,Dapur Diet Khusus,Diet Lunak,1,452,425
+113097,Dapur Diet Khusus,Diet Lunak,1,451,443
+113098,Dapur Utama,Diet Biasa,1,457,442
+113099,Dapur Diet Khusus,Diet Cair,2,467,448
+113100,Dapur Diet Khusus,Diet Lunak,3,452,446
+113101,Dapur Utama,Diet Rendah Garam,3,470,437
+113102,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,455,421
+113103,Dapur Utama,Diet Biasa,2,458,440
+113104,Dapur Utama,Diet Biasa,3,463,440
+113105,Dapur Utama,Diet Biasa,1,468,438
+113106,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,451,445
+113107,Dapur Utama,Diet Rendah Garam,1,463,423
+113108,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,458,428
+113109,Dapur Diet Khusus,Diet Rendah Garam,1,459,436
+113110,Dapur Utama,Diet Cair,3,453,450
+113111,Dapur Utama,Diet Rendah Garam,3,463,440
+113112,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,451,450
+113113,Dapur Diet Khusus,Diet Diabetes,3,451,439
+113114,Dapur Diet Khusus,Diet Lunak,2,470,437
+113115,Dapur Diet Khusus,Diet Diabetes,1,461,433
+113116,Dapur Diet Khusus,Diet Rendah Garam,1,453,450
+113117,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,454,445
+113118,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,465,435
+113119,Dapur Diet Khusus,Diet Rendah Garam,1,461,421
+113120,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,468,434
+113121,Dapur Diet Khusus,Diet Rendah Garam,1,457,448
+113122,Dapur Utama,Diet Biasa,2,468,446
+113123,Dapur Diet Khusus,Diet Diabetes,1,460,441
+113124,Dapur Diet Khusus,Diet Lunak,2,467,449
+113125,Dapur Utama,Diet Cair,3,462,433
+113126,Dapur Utama,Diet Biasa,3,468,439
+113127,Dapur Utama,Diet Cair,3,465,442
+113128,Dapur Diet Khusus,Diet Lunak,3,455,439
+113129,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,462,423
+113130,Dapur Diet Khusus,Diet Diabetes,3,451,433
+113131,Dapur Diet Khusus,Diet Lunak,1,460,435
+113132,Dapur Diet Khusus,Diet Diabetes,1,464,424
+113133,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,452,439
+113134,Dapur Diet Khusus,Diet Biasa,2,458,421
+113135,Dapur Diet Khusus,Diet Cair,2,466,444
+113136,Dapur Utama,Diet Cair,2,470,430
+113137,Dapur Diet Khusus,Diet Cair,1,453,428
+113138,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,468,437
+113139,Dapur Utama,Diet Rendah Garam,2,451,445
+114083,Dapur Utama,Diet Cair,3,470,442
+113140,Dapur Diet Khusus,Diet Cair,2,469,437
+113141,Dapur Diet Khusus,Diet Lunak,1,467,421
+113142,Dapur Utama,Diet Cair,2,464,433
+113143,Dapur Diet Khusus,Diet Cair,3,453,435
+113144,Dapur Utama,Diet Cair,1,468,423
+113145,Dapur Utama,Diet Diabetes,1,454,423
+113146,Dapur Utama,Diet Diabetes,1,452,438
+113147,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,451,431
+113148,Dapur Utama,Diet Lunak,3,469,440
+113149,Dapur Utama,Diet Lunak,1,454,433
+113150,Dapur Utama,Diet Biasa,1,452,426
+113151,Dapur Utama,Diet Rendah Garam,3,456,435
+113152,Dapur Utama,Diet Biasa,1,461,439
+113153,Dapur Utama,Diet Biasa,2,465,440
+113154,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,452,428
+113155,Dapur Diet Khusus,Diet Lunak,1,453,424
+113156,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,459,424
+113157,Dapur Diet Khusus,Diet Cair,1,467,440
+113158,Dapur Utama,Diet Lunak,3,458,423
+113159,Dapur Diet Khusus,Diet Cair,1,463,431
+113160,Dapur Diet Khusus,Diet Rendah Garam,2,469,437
+113161,Dapur Diet Khusus,Diet Rendah Garam,1,455,436
+113162,Dapur Utama,Diet Lunak,2,458,448
+113163,Dapur Utama,Diet Rendah Garam,3,465,425
+113164,Dapur Utama,Diet Lunak,3,469,432
+113165,Dapur Diet Khusus,Diet Biasa,1,469,440
+113166,Dapur Utama,Diet Cair,1,461,427
+113167,Dapur Utama,Diet Diabetes,3,465,446
+113168,Dapur Diet Khusus,Diet Lunak,1,469,439
+113169,Dapur Utama,Diet Rendah Garam,1,454,441
+113170,Dapur Diet Khusus,Diet Biasa,1,456,426
+113171,Dapur Diet Khusus,Diet Diabetes,3,465,433
+113172,Dapur Diet Khusus,Diet Rendah Garam,2,468,449
+113173,Dapur Utama,Diet Cair,2,454,440
+113174,Dapur Utama,Diet Biasa,1,456,433
+113175,Dapur Utama,Diet Lunak,3,459,422
+113176,Dapur Utama,Diet Rendah Garam,1,459,436
+113177,Dapur Diet Khusus,Diet Lunak,3,459,450
+113178,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,455,441
+113179,Dapur Utama,Diet Lunak,2,454,439
+113180,Dapur Utama,Diet Lunak,2,451,424
+113181,Dapur Utama,Diet Rendah Garam,2,455,443
+113182,Dapur Utama,Diet Rendah Garam,1,454,450
+113183,Dapur Utama,Diet Lunak,2,461,447
+113184,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,463,440
+113185,Dapur Diet Khusus,Diet Biasa,3,466,448
+113186,Dapur Utama,Diet Biasa,2,456,429
+113187,Dapur Diet Khusus,Diet Diabetes,3,453,432
+113188,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,465,431
+113189,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,458,449
+113190,Dapur Diet Khusus,Diet Diabetes,3,461,431
+113191,Dapur Utama,Diet Lunak,1,469,432
+113192,Dapur Utama,Diet Biasa,1,455,432
+113193,Dapur Diet Khusus,Diet Diabetes,2,456,433
+113194,Dapur Diet Khusus,Diet Lunak,3,460,429
+113195,Dapur Utama,Diet Lunak,3,453,444
+113196,Dapur Diet Khusus,Diet Biasa,3,457,441
+113197,Dapur Utama,Diet Lunak,1,453,432
+113198,Dapur Utama,Diet Diabetes,3,467,426
+113199,Dapur Utama,Diet Rendah Garam,3,454,429
+113200,Dapur Diet Khusus,Diet Lunak,2,462,444
+113201,Dapur Diet Khusus,Diet Biasa,3,469,429
+113202,Dapur Utama,Diet Lunak,1,460,428
+113203,Dapur Diet Khusus,Diet Lunak,1,455,434
+113204,Dapur Diet Khusus,Diet Rendah Garam,3,451,446
+113205,Dapur Diet Khusus,Diet Rendah Garam,1,470,437
+113206,Dapur Utama,Diet Lunak,1,469,437
+113207,Dapur Utama,Diet Rendah Garam,2,463,445
+113208,Dapur Utama,Diet Lunak,3,458,446
+113209,Dapur Utama,Diet Lunak,1,459,439
+113210,Dapur Utama,Diet Cair,2,453,448
+113211,Dapur Diet Khusus,Diet Biasa,3,465,438
+113212,Dapur Utama,Diet Diabetes,2,452,440
+113213,Dapur Diet Khusus,Diet Lunak,3,461,448
+113214,Dapur Diet Khusus,Diet Diabetes,2,462,444
+113215,Dapur Diet Khusus,Diet Rendah Garam,1,465,449
+113216,Dapur Diet Khusus,Diet Cair,3,462,435
+113217,Dapur Utama,Diet Lunak,3,453,421
+113218,Dapur Utama,Diet Rendah Garam,3,454,423
+113219,Dapur Utama,Diet Diabetes,2,465,431
+113220,Dapur Utama,Diet Cair,2,452,444
+113221,Dapur Diet Khusus,Diet Rendah Garam,2,465,447
+113222,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,453,443
+113223,Dapur Diet Khusus,Diet Biasa,1,470,439
+113224,Dapur Utama,Diet Lunak,2,463,425
+113225,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,455,442
+113226,Dapur Diet Khusus,Diet Lunak,3,457,436
+113227,Dapur Utama,Diet Lunak,3,452,425
+113228,Dapur Diet Khusus,Diet Lunak,2,459,440
+113229,Dapur Utama,Diet Lunak,2,466,434
+113230,Dapur Diet Khusus,Diet Lunak,2,469,426
+113231,Dapur Diet Khusus,Diet Diabetes,2,469,421
+113232,Dapur Utama,Diet Cair,1,453,433
+113233,Dapur Utama,Diet Cair,1,463,429
+113234,Dapur Diet Khusus,Diet Lunak,3,468,438
+113235,Dapur Diet Khusus,Diet Rendah Garam,2,457,422
+113236,Dapur Diet Khusus,Diet Biasa,2,463,430
+113237,Dapur Diet Khusus,Diet Cair,1,460,436
+113238,Dapur Utama,Diet Lunak,3,460,427
+113239,Dapur Utama,Diet Rendah Garam,3,470,436
+113240,Dapur Diet Khusus,Diet Cair,1,459,450
+113241,Dapur Diet Khusus,Diet Diabetes,2,451,422
+113242,Dapur Diet Khusus,Diet Rendah Garam,3,469,421
+113243,Dapur Utama,Diet Lunak,1,464,425
+113244,Dapur Diet Khusus,Diet Lunak,3,460,423
+113245,Dapur Utama,Diet Biasa,1,455,448
+113246,Dapur Diet Khusus,Diet Diabetes,1,455,421
+113247,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,467,434
+113248,Dapur Utama,Diet Rendah Garam,3,470,448
+113249,Dapur Utama,Diet Lunak,3,456,437
+113250,Dapur Diet Khusus,Diet Rendah Garam,2,470,426
+113251,Dapur Diet Khusus,Diet Biasa,1,459,432
+113252,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,451,429
+113253,Dapur Diet Khusus,Diet Biasa,1,464,441
+113254,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,462,429
+113255,Dapur Utama,Diet Rendah Garam,2,453,445
+113256,Dapur Utama,Diet Biasa,1,453,443
+113257,Dapur Utama,Diet Biasa,3,468,440
+113258,Dapur Diet Khusus,Diet Lunak,2,455,424
+113259,Dapur Utama,Diet Biasa,3,457,426
+113260,Dapur Diet Khusus,Diet Cair,2,452,448
+113261,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,467,424
+113262,Dapur Utama,Diet Rendah Garam,3,458,449
+113263,Dapur Utama,Diet Biasa,1,465,450
+113264,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,452,426
+113265,Dapur Utama,Diet Biasa,2,466,447
+113266,Dapur Utama,Diet Cair,1,468,443
+113267,Dapur Diet Khusus,Diet Rendah Garam,1,456,434
+113268,Dapur Utama,Diet Rendah Garam,3,467,444
+113269,Dapur Diet Khusus,Diet Cair,1,468,450
+113270,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,470,441
+113271,Dapur Diet Khusus,Diet Cair,2,460,449
+113272,Dapur Diet Khusus,Diet Cair,1,464,424
+113273,Dapur Utama,Diet Cair,2,457,433
+113274,Dapur Diet Khusus,Diet Cair,1,459,445
+113275,Dapur Diet Khusus,Diet Diabetes,2,469,438
+113276,Dapur Utama,Diet Rendah Garam,2,462,432
+113277,Dapur Utama,Diet Biasa,3,455,438
+113278,Dapur Utama,Diet Lunak,1,467,446
+113279,Dapur Utama,Diet Rendah Garam,3,457,447
+113280,Dapur Diet Khusus,Diet Diabetes,1,463,436
+113281,Dapur Utama,Diet Biasa,3,462,424
+113282,Dapur Utama,Diet Lunak,3,468,448
+113283,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,451,449
+113284,Dapur Diet Khusus,Diet Lunak,3,463,443
+113285,Dapur Diet Khusus,Diet Biasa,2,458,446
+113286,Dapur Utama,Diet Diabetes,3,470,433
+113287,Dapur Diet Khusus,Diet Biasa,3,470,428
+113288,Dapur Utama,Diet Lunak,1,458,446
+113289,Dapur Diet Khusus,Diet Biasa,2,455,444
+113290,Dapur Diet Khusus,Diet Cair,3,461,423
+113291,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,455,421
+113292,Dapur Utama,Diet Lunak,1,452,424
+113293,Dapur Diet Khusus,Diet Cair,3,467,445
+113294,Dapur Diet Khusus,Diet Cair,2,451,427
+113295,Dapur Diet Khusus,Diet Biasa,3,462,423
+113296,Dapur Utama,Diet Cair,3,463,431
+113297,Dapur Diet Khusus,Diet Rendah Garam,3,470,434
+113298,Dapur Utama,Diet Lunak,3,462,434
+113299,Dapur Utama,Diet Biasa,2,459,450
+113300,Dapur Utama,Diet Biasa,2,459,431
+113301,Dapur Diet Khusus,Diet Lunak,3,464,436
+113302,Dapur Utama,Diet Biasa,3,464,438
+113303,Dapur Diet Khusus,Diet Cair,3,461,439
+113304,Dapur Utama,Diet Rendah Garam,3,466,447
+113305,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,462,441
+113306,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,462,421
+113307,Dapur Diet Khusus,Diet Cair,2,458,445
+113308,Dapur Diet Khusus,Diet Biasa,2,456,439
+113309,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,461,439
+113310,Dapur Diet Khusus,Diet Rendah Garam,3,462,450
+113311,Dapur Diet Khusus,Diet Rendah Garam,1,465,425
+113312,Dapur Diet Khusus,Diet Diabetes,3,463,442
+113313,Dapur Utama,Diet Cair,2,455,444
+113314,Dapur Utama,Diet Rendah Garam,3,453,445
+113315,Dapur Diet Khusus,Diet Cair,3,466,440
+113316,Dapur Utama,Diet Diabetes,2,455,437
+113317,Dapur Utama,Diet Lunak,3,463,434
+113318,Dapur Utama,Diet Lunak,3,458,449
+113319,Dapur Diet Khusus,Diet Cair,2,453,434
+113320,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,452,435
+113321,Dapur Utama,Diet Biasa,3,452,427
+113322,Dapur Utama,Diet Rendah Garam,2,466,426
+113323,Dapur Utama,Diet Lunak,1,458,422
+113324,Dapur Utama,Diet Diabetes,1,466,428
+113325,Dapur Diet Khusus,Diet Cair,2,459,445
+113326,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,466,424
+113327,Dapur Utama,Diet Lunak,2,461,432
+113328,Dapur Utama,Diet Cair,3,455,421
+113329,Dapur Diet Khusus,Diet Lunak,2,456,424
+113330,Dapur Utama,Diet Cair,1,468,443
+113331,Dapur Utama,Diet Rendah Garam,2,460,447
+113332,Dapur Diet Khusus,Diet Diabetes,2,467,427
+113333,Dapur Utama,Diet Lunak,1,462,430
+113334,Dapur Diet Khusus,Diet Diabetes,1,452,442
+113335,Dapur Utama,Diet Cair,2,452,425
+113336,Dapur Diet Khusus,Diet Cair,3,469,426
+113337,Dapur Utama,Diet Diabetes,3,460,422
+113338,Dapur Diet Khusus,Diet Lunak,2,465,449
+113339,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,470,436
+113340,Dapur Utama,Diet Cair,1,466,439
+113341,Dapur Utama,Diet Cair,1,468,440
+113342,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,469,450
+113343,Dapur Utama,Diet Cair,3,466,441
+113344,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,462,449
+113345,Dapur Utama,Diet Cair,3,469,426
+113346,Dapur Diet Khusus,Diet Biasa,3,455,444
+113347,Dapur Utama,Diet Diabetes,3,462,425
+113348,Dapur Diet Khusus,Diet Diabetes,2,456,438
+113349,Dapur Diet Khusus,Diet Lunak,3,452,426
+113350,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,458,446
+113351,Dapur Utama,Diet Lunak,2,454,441
+113352,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,470,441
+113353,Dapur Utama,Diet Rendah Garam,1,465,421
+113354,Dapur Diet Khusus,Diet Cair,3,465,438
+113355,Dapur Diet Khusus,Diet Rendah Garam,2,467,450
+113356,Dapur Utama,Diet Biasa,3,467,429
+113357,Dapur Diet Khusus,Diet Lunak,3,468,442
+113358,Dapur Diet Khusus,Diet Lunak,3,459,433
+113359,Dapur Diet Khusus,Diet Biasa,1,465,422
+113360,Dapur Diet Khusus,Diet Cair,3,458,434
+113361,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,468,425
+113362,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,470,423
+113363,Dapur Diet Khusus,Diet Rendah Garam,1,457,435
+113364,Dapur Diet Khusus,Diet Cair,3,460,430
+113365,Dapur Utama,Diet Biasa,2,455,445
+113366,Dapur Utama,Diet Lunak,1,456,435
+113367,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,462,449
+113368,Dapur Diet Khusus,Diet Diabetes,2,463,441
+113369,Dapur Diet Khusus,Diet Diabetes,3,452,421
+113370,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,458,430
+113371,Dapur Utama,Diet Cair,1,470,439
+113372,Dapur Utama,Diet Lunak,3,468,433
+113373,Dapur Diet Khusus,Diet Biasa,2,466,423
+113374,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,469,443
+113375,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,463,426
+113376,Dapur Utama,Diet Cair,2,468,442
+113377,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,458,442
+113378,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,458,425
+113379,Dapur Utama,Diet Cair,3,465,439
+113380,Dapur Diet Khusus,Diet Biasa,3,455,424
+113381,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,454,439
+113382,Dapur Utama,Diet Rendah Garam,1,467,435
+113383,Dapur Utama,Diet Diabetes,1,467,440
+113384,Dapur Utama,Diet Biasa,1,468,425
+113385,Dapur Diet Khusus,Diet Lunak,2,462,429
+113386,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,466,444
+113387,Dapur Utama,Diet Diabetes,2,467,422
+113388,Dapur Utama,Diet Biasa,2,470,431
+113389,Dapur Utama,Diet Lunak,2,452,438
+113390,Dapur Utama,Diet Rendah Garam,2,452,448
+113391,Dapur Utama,Diet Rendah Garam,2,458,426
+113392,Dapur Diet Khusus,Diet Rendah Garam,3,465,426
+113393,Dapur Diet Khusus,Diet Cair,1,463,444
+113394,Dapur Utama,Diet Lunak,1,465,430
+113395,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,463,443
+113396,Dapur Diet Khusus,Diet Diabetes,1,459,421
+113397,Dapur Diet Khusus,Diet Diabetes,1,469,429
+113398,Dapur Diet Khusus,Diet Lunak,2,468,426
+113399,Dapur Utama,Diet Lunak,1,458,442
+113400,Dapur Utama,Diet Biasa,1,458,443
+113401,Dapur Utama,Diet Rendah Garam,1,465,424
+113402,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,470,428
+113403,Dapur Diet Khusus,Diet Diabetes,3,460,431
+113404,Dapur Utama,Diet Lunak,1,463,438
+113405,Dapur Diet Khusus,Diet Cair,2,458,449
+113406,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,456,444
+113407,Dapur Diet Khusus,Diet Biasa,2,466,423
+113408,Dapur Utama,Diet Biasa,1,459,441
+113409,Dapur Diet Khusus,Diet Diabetes,1,459,442
+113410,Dapur Utama,Diet Biasa,1,467,446
+113411,Dapur Utama,Diet Lunak,2,454,424
+113412,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,460,435
+113413,Dapur Diet Khusus,Diet Diabetes,1,466,429
+113414,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,469,430
+113415,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,456,446
+113416,Dapur Diet Khusus,Diet Biasa,1,456,444
+113417,Dapur Diet Khusus,Diet Biasa,3,451,424
+113418,Dapur Utama,Diet Biasa,2,462,423
+113419,Dapur Utama,Diet Biasa,1,458,444
+113420,Dapur Utama,Diet Rendah Garam,1,463,425
+113421,Dapur Utama,Diet Rendah Garam,3,462,447
+113422,Dapur Utama,Diet Rendah Garam,1,459,423
+113423,Dapur Utama,Diet Cair,3,452,429
+113424,Dapur Diet Khusus,Diet Diabetes,1,464,449
+113425,Dapur Diet Khusus,Diet Diabetes,2,460,441
+113426,Dapur Diet Khusus,Diet Cair,3,467,446
+113427,Dapur Utama,Diet Lunak,1,463,442
+113428,Dapur Utama,Diet Cair,1,465,438
+113429,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,464,438
+113430,Dapur Diet Khusus,Diet Lunak,1,460,427
+113431,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,467,448
+113432,Dapur Utama,Diet Lunak,3,463,443
+113433,Dapur Utama,Diet Diabetes,2,451,434
+113434,Dapur Diet Khusus,Diet Cair,1,454,429
+113435,Dapur Utama,Diet Lunak,2,453,447
+113436,Dapur Diet Khusus,Diet Diabetes,1,459,430
+113437,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,461,429
+113438,Dapur Utama,Diet Rendah Garam,3,463,430
+113439,Dapur Utama,Diet Biasa,1,459,434
+113440,Dapur Utama,Diet Diabetes,1,465,443
+113441,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,456,428
+113442,Dapur Diet Khusus,Diet Cair,2,459,422
+113443,Dapur Utama,Diet Biasa,3,467,436
+113444,Dapur Utama,Diet Diabetes,2,461,428
+113445,Dapur Diet Khusus,Diet Cair,2,465,436
+113446,Dapur Utama,Diet Rendah Garam,1,462,432
+113447,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,469,450
+113448,Dapur Utama,Diet Diabetes,3,465,445
+113449,Dapur Diet Khusus,Diet Diabetes,1,454,424
+113450,Dapur Utama,Diet Biasa,1,457,434
+113451,Dapur Diet Khusus,Diet Diabetes,2,462,421
+113452,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,457,445
+113453,Dapur Diet Khusus,Diet Rendah Garam,2,453,450
+113454,Dapur Utama,Diet Rendah Garam,2,469,436
+113455,Dapur Diet Khusus,Diet Rendah Garam,2,470,425
+113456,Dapur Diet Khusus,Diet Lunak,2,468,445
+114497,Dapur Utama,Diet Lunak,1,459,450
+113457,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,463,429
+113458,Dapur Diet Khusus,Diet Cair,3,465,423
+113459,Dapur Diet Khusus,Diet Diabetes,2,457,443
+113460,Dapur Diet Khusus,Diet Rendah Garam,2,458,423
+113461,Dapur Diet Khusus,Diet Diabetes,1,453,450
+113462,Dapur Utama,Diet Rendah Garam,3,451,448
+113463,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,461,425
+113464,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,455,439
+113465,Dapur Diet Khusus,Diet Biasa,3,451,421
+113466,Dapur Diet Khusus,Diet Cair,2,459,431
+113467,Dapur Utama,Diet Cair,3,466,434
+113468,Dapur Utama,Diet Cair,2,470,430
+113469,Dapur Diet Khusus,Diet Rendah Garam,2,461,445
+113470,Dapur Diet Khusus,Diet Rendah Garam,1,465,428
+113471,Dapur Utama,Diet Biasa,3,464,447
+113472,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,455,438
+113473,Dapur Diet Khusus,Diet Diabetes,1,456,437
+113474,Dapur Diet Khusus,Diet Diabetes,1,468,437
+113475,Dapur Diet Khusus,Diet Rendah Garam,2,462,428
+113476,Dapur Utama,Diet Diabetes,2,462,424
+113477,Dapur Diet Khusus,Diet Diabetes,2,458,439
+113478,Dapur Utama,Diet Diabetes,2,468,421
+113479,Dapur Utama,Diet Biasa,1,451,422
+113480,Dapur Utama,Diet Diabetes,2,466,446
+113481,Dapur Diet Khusus,Diet Rendah Garam,2,462,438
+113482,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,465,441
+113483,Dapur Utama,Diet Rendah Garam,2,454,443
+113484,Dapur Diet Khusus,Diet Cair,2,452,438
+113485,Dapur Utama,Diet Lunak,1,467,422
+113486,Dapur Utama,Diet Rendah Garam,1,456,443
+113487,Dapur Utama,Diet Cair,1,464,425
+113488,Dapur Utama,Diet Lunak,1,459,435
+113489,Dapur Utama,Diet Diabetes,3,467,428
+113490,Dapur Diet Khusus,Diet Lunak,2,456,447
+113491,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,452,431
+113492,Dapur Diet Khusus,Diet Rendah Garam,2,455,423
+113493,Dapur Utama,Diet Rendah Garam,2,470,423
+113494,Dapur Diet Khusus,Diet Diabetes,3,453,429
+113495,Dapur Utama,Diet Cair,1,461,427
+113496,Dapur Diet Khusus,Diet Cair,1,451,442
+113497,Dapur Diet Khusus,Diet Rendah Garam,1,457,445
+113498,Dapur Diet Khusus,Diet Rendah Garam,3,451,429
+113499,Dapur Utama,Diet Rendah Garam,1,456,439
+113500,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,451,433
+113501,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,464,426
+113502,Dapur Diet Khusus,Diet Diabetes,2,468,432
+113503,Dapur Utama,Diet Lunak,2,455,448
+113504,Dapur Utama,Diet Biasa,1,463,445
+113505,Dapur Utama,Diet Lunak,3,454,433
+113506,Dapur Diet Khusus,Diet Lunak,2,456,440
+113507,Dapur Diet Khusus,Diet Lunak,3,469,438
+113508,Dapur Diet Khusus,Diet Diabetes,3,461,441
+113509,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,458,434
+113510,Dapur Utama,Diet Diabetes,3,469,443
+113511,Dapur Diet Khusus,Diet Biasa,3,462,439
+113512,Dapur Diet Khusus,Diet Cair,2,461,432
+113513,Dapur Utama,Diet Cair,2,453,426
+113514,Dapur Diet Khusus,Diet Biasa,1,453,425
+113515,Dapur Diet Khusus,Diet Cair,2,466,427
+113516,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,467,449
+113517,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,466,428
+113518,Dapur Diet Khusus,Diet Lunak,1,462,438
+113519,Dapur Diet Khusus,Diet Cair,1,454,444
+113520,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,460,429
+113521,Dapur Utama,Diet Cair,2,454,439
+113522,Dapur Diet Khusus,Diet Cair,1,467,443
+113523,Dapur Utama,Diet Biasa,2,454,442
+113524,Dapur Utama,Diet Rendah Garam,1,464,432
+113525,Dapur Utama,Diet Lunak,3,457,424
+113526,Dapur Diet Khusus,Diet Diabetes,1,452,436
+113527,Dapur Utama,Diet Diabetes,3,455,431
+113528,Dapur Utama,Diet Lunak,2,452,421
+113529,Dapur Diet Khusus,Diet Cair,3,469,444
+113530,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,461,437
+113531,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,452,430
+113532,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,468,422
+113533,Dapur Diet Khusus,Diet Biasa,2,459,437
+113534,Dapur Diet Khusus,Diet Biasa,2,461,438
+113535,Dapur Diet Khusus,Diet Diabetes,3,454,426
+113536,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,455,429
+113537,Dapur Diet Khusus,Diet Biasa,1,470,447
+113538,Dapur Utama,Diet Biasa,2,454,442
+113539,Dapur Diet Khusus,Diet Diabetes,1,462,445
+113540,Dapur Diet Khusus,Diet Rendah Garam,3,460,446
+113541,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,465,422
+113542,Dapur Diet Khusus,Diet Cair,3,452,446
+113543,Dapur Diet Khusus,Diet Diabetes,1,464,423
+113544,Dapur Diet Khusus,Diet Diabetes,3,455,423
+113545,Dapur Utama,Diet Lunak,2,456,438
+113546,Dapur Utama,Diet Lunak,2,457,429
+113547,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,467,449
+113548,Dapur Diet Khusus,Diet Biasa,1,459,441
+113549,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,451,422
+113550,Dapur Diet Khusus,Diet Cair,1,464,432
+113551,Dapur Utama,Diet Biasa,1,469,437
+113552,Dapur Diet Khusus,Diet Lunak,1,451,422
+113553,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,456,428
+113554,Dapur Utama,Diet Cair,2,469,432
+113555,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,464,443
+113556,Dapur Utama,Diet Biasa,1,452,433
+113557,Dapur Utama,Diet Biasa,1,466,423
+113558,Dapur Diet Khusus,Diet Cair,2,459,435
+113559,Dapur Diet Khusus,Diet Rendah Garam,3,463,440
+113560,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,463,426
+113561,Dapur Diet Khusus,Diet Rendah Garam,2,466,426
+113562,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,452,443
+113563,Dapur Utama,Diet Diabetes,3,460,430
+113564,Dapur Diet Khusus,Diet Rendah Garam,1,459,440
+113565,Dapur Utama,Diet Cair,2,455,429
+113566,Dapur Utama,Diet Lunak,2,464,444
+113567,Dapur Diet Khusus,Diet Diabetes,3,454,426
+113568,Dapur Diet Khusus,Diet Biasa,1,452,421
+113569,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,469,422
+113570,Dapur Utama,Diet Biasa,3,457,432
+113571,Dapur Diet Khusus,Diet Rendah Garam,2,456,450
+113572,Dapur Diet Khusus,Diet Lunak,1,453,433
+113573,Dapur Utama,Diet Biasa,3,462,429
+113574,Dapur Utama,Diet Rendah Garam,1,451,423
+113575,Dapur Utama,Diet Biasa,3,461,449
+113576,Dapur Diet Khusus,Diet Cair,3,468,435
+113577,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,464,426
+113578,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,468,422
+113579,Dapur Diet Khusus,Diet Rendah Garam,3,461,443
+113580,Dapur Utama,Diet Cair,2,455,438
+113581,Dapur Diet Khusus,Diet Biasa,1,454,422
+113582,Dapur Utama,Diet Rendah Garam,2,463,434
+113583,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,453,442
+113584,Dapur Utama,Diet Rendah Garam,1,463,423
+113585,Dapur Utama,Diet Lunak,2,469,441
+113586,Dapur Diet Khusus,Diet Diabetes,2,465,441
+113587,Dapur Diet Khusus,Diet Cair,2,461,442
+113588,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,458,421
+113589,Dapur Diet Khusus,Diet Diabetes,1,469,442
+113590,Dapur Diet Khusus,Diet Biasa,1,453,433
+113591,Dapur Utama,Diet Lunak,1,463,430
+113592,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,467,440
+113593,Dapur Diet Khusus,Diet Biasa,3,467,435
+113594,Dapur Utama,Diet Cair,3,464,436
+113595,Dapur Diet Khusus,Diet Rendah Garam,1,463,424
+113596,Dapur Diet Khusus,Diet Rendah Garam,1,465,444
+113597,Dapur Diet Khusus,Diet Biasa,3,461,429
+113598,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,459,436
+113599,Dapur Utama,Diet Cair,2,467,423
+113600,Dapur Utama,Diet Rendah Garam,3,452,441
+113601,Dapur Utama,Diet Biasa,3,470,424
+113602,Dapur Utama,Diet Diabetes,3,462,431
+113603,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,452,426
+113604,Dapur Diet Khusus,Diet Cair,2,465,449
+113605,Dapur Utama,Diet Biasa,2,463,439
+113606,Dapur Diet Khusus,Diet Rendah Garam,1,467,430
+113607,Dapur Utama,Diet Rendah Garam,1,461,450
+113608,Dapur Diet Khusus,Diet Cair,3,451,444
+113609,Dapur Diet Khusus,Diet Rendah Garam,3,464,430
+113610,Dapur Utama,Diet Lunak,3,456,434
+113611,Dapur Utama,Diet Rendah Garam,3,454,428
+113612,Dapur Diet Khusus,Diet Diabetes,1,465,449
+113613,Dapur Diet Khusus,Diet Lunak,3,459,433
+113614,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,469,422
+113615,Dapur Utama,Diet Diabetes,3,461,435
+113616,Dapur Utama,Diet Lunak,1,467,434
+113617,Dapur Diet Khusus,Diet Diabetes,1,465,427
+113618,Dapur Diet Khusus,Diet Biasa,3,452,425
+113619,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,457,447
+113620,Dapur Utama,Diet Biasa,1,454,421
+113621,Dapur Diet Khusus,Diet Rendah Garam,1,467,424
+113622,Dapur Diet Khusus,Diet Lunak,3,454,431
+113623,Dapur Utama,Diet Biasa,2,466,446
+113624,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,452,441
+113625,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,456,430
+113626,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,452,429
+113627,Dapur Utama,Diet Biasa,1,468,430
+113628,Dapur Utama,Diet Diabetes,1,453,422
+113629,Dapur Diet Khusus,Diet Rendah Garam,2,451,424
+113630,Dapur Diet Khusus,Diet Rendah Garam,2,470,448
+113631,Dapur Utama,Diet Rendah Garam,3,459,444
+113632,Dapur Diet Khusus,Diet Lunak,2,469,427
+113633,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,466,425
+113634,Dapur Utama,Diet Lunak,1,451,435
+113635,Dapur Diet Khusus,Diet Biasa,1,468,437
+113636,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,469,446
+113637,Dapur Diet Khusus,Diet Lunak,3,458,445
+113638,Dapur Utama,Diet Lunak,2,458,445
+113639,Dapur Utama,Diet Cair,2,456,440
+113640,Dapur Diet Khusus,Diet Biasa,3,462,426
+113641,Dapur Utama,Diet Lunak,1,466,431
+113642,Dapur Utama,Diet Lunak,2,452,432
+113643,Dapur Diet Khusus,Diet Cair,2,462,433
+113644,Dapur Diet Khusus,Diet Lunak,1,452,424
+113645,Dapur Utama,Diet Biasa,2,459,447
+113646,Dapur Diet Khusus,Diet Lunak,3,461,425
+113647,Dapur Diet Khusus,Diet Biasa,1,455,435
+113648,Dapur Utama,Diet Lunak,2,462,441
+113649,Dapur Diet Khusus,Diet Biasa,1,451,449
+113650,Dapur Utama,Diet Cair,2,451,446
+113651,Dapur Diet Khusus,Diet Cair,1,468,448
+113652,Dapur Diet Khusus,Diet Rendah Garam,2,455,421
+113653,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,452,442
+113654,Dapur Utama,Diet Diabetes,1,454,432
+113655,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,453,435
+113656,Dapur Diet Khusus,Diet Diabetes,2,464,427
+113657,Dapur Utama,Diet Rendah Garam,2,456,447
+113658,Dapur Utama,Diet Rendah Garam,3,467,427
+113659,Dapur Utama,Diet Biasa,1,453,448
+113660,Dapur Utama,Diet Diabetes,1,463,444
+113661,Dapur Utama,Diet Biasa,2,463,426
+113662,Dapur Diet Khusus,Diet Rendah Garam,1,469,440
+113663,Dapur Utama,Diet Biasa,1,459,437
+113664,Dapur Utama,Diet Rendah Garam,3,464,426
+113665,Dapur Utama,Diet Cair,3,466,439
+113666,Dapur Utama,Diet Cair,3,455,430
+113667,Dapur Utama,Diet Biasa,1,454,431
+113668,Dapur Diet Khusus,Diet Diabetes,3,460,427
+113669,Dapur Diet Khusus,Diet Biasa,2,468,434
+113670,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,469,439
+113671,Dapur Utama,Diet Rendah Garam,1,465,450
+113672,Dapur Diet Khusus,Diet Biasa,2,462,442
+113673,Dapur Utama,Diet Biasa,2,465,442
+113674,Dapur Utama,Diet Rendah Garam,3,463,448
+113675,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,470,426
+113676,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,464,445
+113677,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,464,447
+113678,Dapur Utama,Diet Lunak,1,470,425
+113679,Dapur Utama,Diet Diabetes,3,467,437
+113680,Dapur Utama,Diet Lunak,3,470,447
+113681,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,468,439
+113682,Dapur Diet Khusus,Diet Cair,1,451,422
+113683,Dapur Diet Khusus,Diet Lunak,3,458,438
+113684,Dapur Diet Khusus,Diet Diabetes,3,466,423
+113685,Dapur Diet Khusus,Diet Lunak,2,455,429
+113686,Dapur Diet Khusus,Diet Lunak,3,462,445
+113687,Dapur Diet Khusus,Diet Rendah Garam,2,455,442
+113688,Dapur Diet Khusus,Diet Diabetes,3,452,443
+113689,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,469,430
+113690,Dapur Diet Khusus,Diet Cair,3,458,429
+113691,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,460,436
+113692,Dapur Utama,Diet Diabetes,2,465,427
+113693,Dapur Utama,Diet Diabetes,1,456,433
+113694,Dapur Diet Khusus,Diet Biasa,2,459,435
+113695,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,452,440
+113696,Dapur Diet Khusus,Diet Rendah Garam,3,452,432
+113697,Dapur Utama,Diet Cair,2,454,423
+113698,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,461,435
+113699,Dapur Utama,Diet Diabetes,1,457,450
+113700,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,454,438
+113701,Dapur Diet Khusus,Diet Biasa,2,467,437
+113702,Dapur Diet Khusus,Diet Rendah Garam,1,457,431
+113703,Dapur Diet Khusus,Diet Rendah Garam,3,470,438
+113704,Dapur Utama,Diet Lunak,3,469,434
+113705,Dapur Utama,Diet Cair,1,468,422
+113706,Dapur Diet Khusus,Diet Diabetes,3,455,423
+113707,Dapur Utama,Diet Lunak,1,457,442
+113708,Dapur Diet Khusus,Diet Biasa,1,469,446
+113709,Dapur Utama,Diet Rendah Garam,3,454,430
+113710,Dapur Utama,Diet Rendah Garam,1,452,429
+113711,Dapur Utama,Diet Cair,3,463,434
+113712,Dapur Utama,Diet Diabetes,3,452,421
+113713,Dapur Diet Khusus,Diet Rendah Garam,3,453,435
+113714,Dapur Diet Khusus,Diet Rendah Garam,3,453,428
+113715,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,464,445
+113716,Dapur Diet Khusus,Diet Lunak,2,466,428
+113717,Dapur Utama,Diet Diabetes,3,456,449
+113718,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,454,421
+113719,Dapur Diet Khusus,Diet Lunak,3,468,449
+113720,Dapur Utama,Diet Cair,1,457,440
+113721,Dapur Diet Khusus,Diet Lunak,3,464,423
+113722,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,461,443
+113723,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,469,439
+113724,Dapur Diet Khusus,Diet Lunak,2,455,429
+113725,Dapur Diet Khusus,Diet Lunak,1,454,431
+113726,Dapur Diet Khusus,Diet Diabetes,2,451,430
+113727,Dapur Utama,Diet Biasa,1,460,439
+113728,Dapur Utama,Diet Lunak,1,456,448
+113729,Dapur Diet Khusus,Diet Biasa,3,455,429
+113730,Dapur Diet Khusus,Diet Biasa,2,451,428
+113731,Dapur Utama,Diet Biasa,1,459,444
+113732,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,465,438
+113733,Dapur Utama,Diet Biasa,1,455,422
+113734,Dapur Utama,Diet Lunak,1,452,438
+113735,Dapur Utama,Diet Lunak,1,464,449
+113736,Dapur Utama,Diet Diabetes,1,463,437
+113737,Dapur Utama,Diet Rendah Garam,3,469,431
+113738,Dapur Utama,Diet Lunak,1,465,447
+113739,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,464,422
+113740,Dapur Utama,Diet Biasa,1,469,431
+113741,Dapur Utama,Diet Biasa,2,466,432
+113742,Dapur Diet Khusus,Diet Biasa,2,457,440
+113743,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,458,432
+113744,Dapur Diet Khusus,Diet Diabetes,3,470,440
+113745,Dapur Diet Khusus,Diet Diabetes,3,452,440
+113746,Dapur Utama,Diet Rendah Garam,2,452,438
+113747,Dapur Utama,Diet Diabetes,1,455,432
+113748,Dapur Diet Khusus,Diet Lunak,2,470,429
+113749,Dapur Diet Khusus,Diet Lunak,3,462,443
+113750,Dapur Diet Khusus,Diet Rendah Garam,2,453,431
+113751,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,465,435
+113752,Dapur Diet Khusus,Diet Rendah Garam,3,469,428
+113753,Dapur Utama,Diet Lunak,1,464,448
+113754,Dapur Diet Khusus,Diet Rendah Garam,3,466,450
+113755,Dapur Diet Khusus,Diet Cair,2,465,448
+113756,Dapur Diet Khusus,Diet Cair,1,452,439
+113757,Dapur Utama,Diet Biasa,2,467,441
+113758,Dapur Diet Khusus,Diet Biasa,3,469,429
+113759,Dapur Utama,Diet Rendah Garam,3,455,442
+113760,Dapur Utama,Diet Biasa,2,452,426
+113761,Dapur Utama,Diet Biasa,3,458,426
+113762,Dapur Diet Khusus,Diet Biasa,3,462,426
+113763,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,465,426
+113764,Dapur Utama,Diet Diabetes,2,454,445
+113765,Dapur Utama,Diet Lunak,3,466,439
+113766,Dapur Utama,Diet Cair,3,464,433
+113767,Dapur Diet Khusus,Diet Cair,3,469,437
+113769,Dapur Diet Khusus,Diet Cair,1,458,435
+113770,Dapur Diet Khusus,Diet Rendah Garam,2,463,427
+113771,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,463,436
+113772,Dapur Utama,Diet Diabetes,2,454,428
+113773,Dapur Diet Khusus,Diet Rendah Garam,3,454,426
+113774,Dapur Diet Khusus,Diet Lunak,1,457,437
+113775,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,454,435
+113776,Dapur Diet Khusus,Diet Biasa,2,453,423
+113777,Dapur Utama,Diet Lunak,2,452,446
+113778,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,466,444
+113779,Dapur Utama,Diet Biasa,2,468,442
+113780,Dapur Utama,Diet Cair,1,457,443
+113781,Dapur Utama,Diet Lunak,2,451,422
+113782,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,467,431
+113783,Dapur Diet Khusus,Diet Cair,1,460,427
+113784,Dapur Diet Khusus,Diet Cair,1,457,425
+113785,Dapur Utama,Diet Diabetes,2,469,450
+113786,Dapur Utama,Diet Cair,2,456,429
+113787,Dapur Diet Khusus,Diet Biasa,3,465,426
+113788,Dapur Diet Khusus,Diet Biasa,2,453,444
+113789,Dapur Utama,Diet Biasa,2,463,436
+113790,Dapur Utama,Diet Diabetes,1,458,427
+113791,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,470,450
+113792,Dapur Diet Khusus,Diet Lunak,2,460,422
+113793,Dapur Diet Khusus,Diet Diabetes,1,467,436
+113794,Dapur Diet Khusus,Diet Rendah Garam,3,463,422
+113795,Dapur Utama,Diet Rendah Garam,3,467,424
+113796,Dapur Utama,Diet Lunak,1,454,424
+113797,Dapur Utama,Diet Biasa,1,469,427
+113798,Dapur Diet Khusus,Diet Rendah Garam,2,468,429
+113799,Dapur Utama,Diet Rendah Garam,3,468,423
+113800,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,458,432
+113801,Dapur Utama,Diet Cair,2,466,439
+113802,Dapur Utama,Diet Biasa,1,461,435
+113803,Dapur Diet Khusus,Diet Lunak,2,469,426
+113804,Dapur Diet Khusus,Diet Cair,2,460,422
+113805,Dapur Utama,Diet Biasa,2,453,426
+113806,Dapur Diet Khusus,Diet Lunak,2,454,442
+113807,Dapur Diet Khusus,Diet Rendah Garam,2,468,425
+113808,Dapur Utama,Diet Cair,1,463,449
+113809,Dapur Diet Khusus,Diet Cair,2,455,431
+113810,Dapur Diet Khusus,Diet Lunak,2,462,432
+113811,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,457,431
+113812,Dapur Utama,Diet Rendah Garam,3,468,436
+113813,Dapur Utama,Diet Diabetes,2,459,430
+113814,Dapur Utama,Diet Diabetes,2,454,445
+113815,Dapur Utama,Diet Lunak,2,467,432
+113816,Dapur Diet Khusus,Diet Lunak,3,456,422
+113817,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,452,447
+113818,Dapur Utama,Diet Rendah Garam,2,467,450
+113819,Dapur Utama,Diet Lunak,3,452,443
+113820,Dapur Utama,Diet Diabetes,2,456,443
+113821,Dapur Diet Khusus,Diet Cair,2,457,432
+113822,Dapur Diet Khusus,Diet Diabetes,3,468,442
+113823,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,468,435
+113824,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,456,438
+113825,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,459,450
+113826,Dapur Diet Khusus,Diet Diabetes,3,462,432
+113827,Dapur Utama,Diet Rendah Garam,1,453,443
+113828,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,461,422
+113829,Dapur Utama,Diet Diabetes,1,451,435
+113830,Dapur Diet Khusus,Diet Biasa,3,465,430
+113831,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,456,443
+113832,Dapur Diet Khusus,Diet Biasa,1,458,421
+113833,Dapur Diet Khusus,Diet Cair,1,459,430
+113834,Dapur Utama,Diet Lunak,1,465,433
+113835,Dapur Utama,Diet Lunak,3,458,441
+113836,Dapur Diet Khusus,Diet Biasa,1,453,438
+113837,Dapur Diet Khusus,Diet Rendah Garam,3,465,426
+113838,Dapur Diet Khusus,Diet Lunak,1,455,447
+113839,Dapur Utama,Diet Cair,2,463,439
+113840,Dapur Utama,Diet Lunak,1,463,448
+113841,Dapur Diet Khusus,Diet Cair,3,455,426
+113842,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,465,441
+113843,Dapur Diet Khusus,Diet Cair,2,461,447
+113844,Dapur Diet Khusus,Diet Lunak,1,468,438
+113845,Dapur Diet Khusus,Diet Diabetes,2,451,439
+113846,Dapur Diet Khusus,Diet Diabetes,3,469,447
+113847,Dapur Diet Khusus,Diet Rendah Garam,1,462,448
+113848,Dapur Diet Khusus,Diet Rendah Garam,2,451,432
+113849,Dapur Utama,Diet Diabetes,2,451,427
+113850,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,457,438
+113851,Dapur Utama,Diet Diabetes,2,461,437
+113852,Dapur Diet Khusus,Diet Lunak,3,457,431
+113853,Dapur Utama,Diet Diabetes,3,466,421
+113854,Dapur Utama,Diet Rendah Garam,3,462,428
+113855,Dapur Utama,Diet Biasa,3,463,441
+113856,Dapur Diet Khusus,Diet Diabetes,3,465,421
+113857,Dapur Utama,Diet Biasa,3,469,431
+113858,Dapur Diet Khusus,Diet Diabetes,1,464,422
+113859,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,460,436
+113860,Dapur Utama,Diet Biasa,2,462,432
+113861,Dapur Utama,Diet Diabetes,2,460,426
+113862,Dapur Diet Khusus,Diet Lunak,2,455,428
+113863,Dapur Utama,Diet Cair,2,459,431
+113864,Dapur Diet Khusus,Diet Cair,3,455,426
+113865,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,469,438
+113866,Dapur Utama,Diet Lunak,3,459,450
+113867,Dapur Utama,Diet Cair,2,456,423
+113868,Dapur Utama,Diet Rendah Garam,3,453,421
+113869,Dapur Diet Khusus,Diet Lunak,2,458,423
+113870,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,470,445
+113871,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,469,444
+114498,Dapur Utama,Diet Biasa,3,469,450
+113872,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,451,425
+113873,Dapur Utama,Diet Lunak,1,452,440
+113874,Dapur Diet Khusus,Diet Lunak,2,458,450
+113875,Dapur Utama,Diet Biasa,1,454,442
+113876,Dapur Utama,Diet Biasa,1,459,431
+113877,Dapur Utama,Diet Lunak,1,470,434
+113878,Dapur Utama,Diet Rendah Garam,2,455,440
+113879,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,470,447
+113880,Dapur Diet Khusus,Diet Cair,1,461,421
+113881,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,455,432
+113882,Dapur Utama,Diet Biasa,3,459,445
+113883,Dapur Utama,Diet Diabetes,1,453,432
+113884,Dapur Diet Khusus,Diet Cair,2,451,438
+113885,Dapur Utama,Diet Cair,2,468,435
+113886,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,461,438
+113887,Dapur Diet Khusus,Diet Biasa,3,455,443
+113888,Dapur Utama,Diet Cair,1,468,445
+113889,Dapur Diet Khusus,Diet Biasa,1,459,422
+113890,Dapur Diet Khusus,Diet Diabetes,2,469,438
+113891,Dapur Utama,Diet Lunak,1,469,447
+113892,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,462,438
+113893,Dapur Utama,Diet Biasa,3,467,427
+113894,Dapur Diet Khusus,Diet Cair,2,451,441
+113895,Dapur Utama,Diet Rendah Garam,1,457,425
+113896,Dapur Utama,Diet Biasa,3,467,443
+113897,Dapur Diet Khusus,Diet Rendah Garam,2,452,424
+113898,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,454,432
+113899,Dapur Diet Khusus,Diet Diabetes,1,453,449
+113900,Dapur Diet Khusus,Diet Biasa,2,460,429
+113901,Dapur Utama,Diet Diabetes,3,469,438
+113902,Dapur Diet Khusus,Diet Cair,3,469,431
+113903,Dapur Diet Khusus,Diet Lunak,1,463,443
+113904,Dapur Utama,Diet Diabetes,1,456,425
+113905,Dapur Utama,Diet Biasa,1,468,449
+113906,Dapur Diet Khusus,Diet Cair,3,451,440
+113907,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,470,438
+113908,Dapur Diet Khusus,Diet Diabetes,2,459,434
+113909,Dapur Diet Khusus,Diet Diabetes,1,468,441
+113910,Dapur Utama,Diet Lunak,2,453,428
+113911,Dapur Diet Khusus,Diet Rendah Garam,3,457,423
+113912,Dapur Utama,Diet Diabetes,3,469,427
+113913,Dapur Utama,Diet Biasa,3,457,437
+113914,Dapur Diet Khusus,Diet Biasa,3,468,448
+113915,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,462,431
+113916,Dapur Utama,Diet Lunak,3,455,426
+113917,Dapur Utama,Diet Biasa,2,466,430
+113918,Dapur Utama,Diet Biasa,1,451,438
+113919,Dapur Diet Khusus,Diet Lunak,2,455,431
+113920,Dapur Diet Khusus,Diet Rendah Garam,2,462,438
+113921,Dapur Diet Khusus,Diet Diabetes,1,462,434
+113922,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,464,424
+113923,Dapur Diet Khusus,Diet Lunak,3,468,436
+113924,Dapur Diet Khusus,Diet Rendah Garam,3,454,446
+113925,Dapur Diet Khusus,Diet Diabetes,1,470,447
+113926,Dapur Diet Khusus,Diet Cair,3,465,434
+113927,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,454,437
+113928,Dapur Diet Khusus,Diet Rendah Garam,1,452,433
+113929,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,460,437
+113930,Dapur Utama,Diet Lunak,2,468,423
+113931,Dapur Utama,Diet Rendah Garam,2,462,438
+113932,Dapur Utama,Diet Diabetes,2,464,449
+113933,Dapur Diet Khusus,Diet Cair,2,469,431
+113934,Dapur Utama,Diet Cair,2,470,426
+113935,Dapur Utama,Diet Diabetes,3,460,425
+113936,Dapur Diet Khusus,Diet Diabetes,2,451,432
+113937,Dapur Diet Khusus,Diet Diabetes,3,468,443
+113938,Dapur Diet Khusus,Diet Lunak,2,464,442
+113939,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,463,447
+113940,Dapur Utama,Diet Cair,1,460,449
+113941,Dapur Utama,Diet Lunak,1,470,427
+113942,Dapur Utama,Diet Cair,1,469,450
+113943,Dapur Diet Khusus,Diet Diabetes,1,470,432
+113944,Dapur Utama,Diet Diabetes,1,463,444
+113945,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,461,448
+113946,Dapur Utama,Diet Biasa,2,466,433
+113947,Dapur Diet Khusus,Diet Cair,3,470,424
+113948,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,456,429
+113949,Dapur Utama,Diet Cair,2,460,423
+113950,Dapur Utama,Diet Rendah Garam,2,460,428
+113951,Dapur Utama,Diet Rendah Garam,2,462,441
+113952,Dapur Utama,Diet Diabetes,2,461,436
+113953,Dapur Diet Khusus,Diet Cair,2,465,427
+113954,Dapur Utama,Diet Biasa,2,469,421
+113955,Dapur Diet Khusus,Diet Diabetes,1,459,430
+113956,Dapur Utama,Diet Diabetes,2,464,436
+113957,Dapur Utama,Diet Diabetes,1,463,447
+113958,Dapur Diet Khusus,Diet Cair,2,451,422
+113959,Dapur Diet Khusus,Diet Biasa,2,456,445
+113960,Dapur Utama,Diet Cair,1,468,445
+113961,Dapur Utama,Diet Lunak,2,468,433
+113962,Dapur Utama,Diet Biasa,2,457,440
+113963,Dapur Diet Khusus,Diet Diabetes,3,456,438
+113964,Dapur Utama,Diet Cair,2,467,428
+113965,Dapur Diet Khusus,Diet Diabetes,1,463,444
+113966,Dapur Diet Khusus,Diet Rendah Garam,1,469,447
+113967,Dapur Utama,Diet Rendah Garam,3,457,442
+113968,Dapur Diet Khusus,Diet Biasa,3,465,434
+113969,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,468,425
+113970,Dapur Diet Khusus,Diet Lunak,1,467,428
+113971,Dapur Utama,Diet Cair,3,467,431
+113972,Dapur Diet Khusus,Diet Rendah Garam,1,465,433
+113973,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,465,430
+113974,Dapur Utama,Diet Cair,2,451,446
+113975,Dapur Diet Khusus,Diet Diabetes,3,460,440
+113976,Dapur Diet Khusus,Diet Lunak,2,454,438
+113977,Dapur Utama,Diet Diabetes,2,466,426
+113978,Dapur Diet Khusus,Diet Cair,1,470,426
+113979,Dapur Diet Khusus,Diet Rendah Garam,3,467,431
+113980,Dapur Diet Khusus,Diet Rendah Garam,2,451,440
+113981,Dapur Diet Khusus,Diet Lunak,1,455,441
+113982,Dapur Utama,Diet Biasa,1,459,436
+113983,Dapur Diet Khusus,Diet Biasa,2,469,430
+113984,Dapur Utama,Diet Rendah Garam,1,460,431
+113985,Dapur Diet Khusus,Diet Diabetes,3,454,437
+113986,Dapur Utama,Diet Cair,3,466,436
+113987,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,465,426
+113988,Dapur Diet Khusus,Diet Diabetes,2,454,439
+113989,Dapur Utama,Diet Lunak,1,457,443
+113990,Dapur Utama,Diet Biasa,3,456,434
+113991,Dapur Diet Khusus,Diet Diabetes,1,455,423
+113992,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,470,422
+113993,Dapur Diet Khusus,Diet Diabetes,3,465,446
+113994,Dapur Diet Khusus,Diet Diabetes,1,460,431
+113995,Dapur Diet Khusus,Diet Biasa,3,469,434
+113996,Dapur Utama,Diet Diabetes,3,455,437
+113997,Dapur Utama,Diet Lunak,3,452,443
+113998,Dapur Utama,Diet Lunak,2,458,425
+113999,Dapur Diet Khusus,Diet Rendah Garam,2,458,441
+114000,Dapur Diet Khusus,Diet Cair,3,459,440
+114001,Dapur Utama,Diet Rendah Garam,3,466,427
+114002,Dapur Utama,Diet Rendah Garam,1,468,434
+114003,Dapur Diet Khusus,Diet Diabetes,3,462,439
+114004,Dapur Utama,Diet Diabetes,3,457,423
+114005,Dapur Diet Khusus,Diet Biasa,1,452,425
+114006,Dapur Utama,Diet Cair,1,463,448
+114007,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,466,432
+114008,Dapur Diet Khusus,Diet Rendah Garam,2,452,424
+114009,Dapur Diet Khusus,Diet Biasa,2,458,445
+114010,Dapur Diet Khusus,Diet Diabetes,2,452,441
+114011,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,457,434
+114012,Dapur Diet Khusus,Diet Cair,1,464,442
+114013,Dapur Utama,Diet Rendah Garam,2,456,432
+114014,Dapur Diet Khusus,Diet Rendah Garam,2,458,446
+114015,Dapur Diet Khusus,Diet Biasa,1,459,445
+114016,Dapur Utama,Diet Lunak,2,466,439
+114017,Dapur Utama,Diet Diabetes,2,455,441
+114018,Dapur Utama,Diet Cair,2,465,449
+114019,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,454,445
+114020,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,458,436
+114021,Dapur Diet Khusus,Diet Lunak,1,455,441
+114022,Dapur Utama,Diet Lunak,2,465,437
+114023,Dapur Diet Khusus,Diet Biasa,3,465,437
+114024,Dapur Utama,Diet Diabetes,2,453,445
+114025,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,457,430
+114026,Dapur Diet Khusus,Diet Lunak,1,462,426
+114027,Dapur Diet Khusus,Diet Lunak,1,462,422
+114028,Dapur Utama,Diet Diabetes,2,462,446
+114029,Dapur Diet Khusus,Diet Biasa,3,454,424
+114030,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,464,434
+114031,Dapur Diet Khusus,Diet Lunak,2,452,438
+114032,Dapur Diet Khusus,Diet Lunak,2,462,432
+114033,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,462,438
+114034,Dapur Diet Khusus,Diet Biasa,3,457,427
+114035,Dapur Utama,Diet Rendah Garam,2,454,440
+114036,Dapur Utama,Diet Cair,2,470,424
+114037,Dapur Diet Khusus,Diet Biasa,1,470,430
+114038,Dapur Diet Khusus,Diet Biasa,3,457,436
+114039,Dapur Utama,Diet Rendah Garam,3,454,422
+114040,Dapur Utama,Diet Biasa,1,454,428
+114041,Dapur Diet Khusus,Diet Lunak,3,456,435
+114042,Dapur Diet Khusus,Diet Biasa,2,468,426
+114043,Dapur Diet Khusus,Diet Lunak,2,462,422
+114044,Dapur Diet Khusus,Diet Lunak,3,466,442
+114045,Dapur Utama,Diet Cair,1,464,441
+114046,Dapur Diet Khusus,Diet Cair,3,452,428
+114047,Dapur Diet Khusus,Diet Biasa,3,462,431
+114048,Dapur Diet Khusus,Diet Cair,2,470,425
+114049,Dapur Diet Khusus,Diet Rendah Garam,1,456,422
+114050,Dapur Diet Khusus,Diet Lunak,3,455,425
+114051,Dapur Utama,Diet Cair,3,456,446
+114052,Dapur Diet Khusus,Diet Lunak,2,455,450
+114053,Dapur Diet Khusus,Diet Diabetes,3,461,430
+114054,Dapur Diet Khusus,Diet Biasa,1,467,422
+114055,Dapur Utama,Diet Biasa,3,455,439
+114056,Dapur Diet Khusus,Diet Diabetes,3,467,437
+114057,Dapur Utama,Diet Biasa,1,453,447
+114058,Dapur Utama,Diet Lunak,1,453,436
+114059,Dapur Diet Khusus,Diet Cair,2,453,424
+114060,Dapur Diet Khusus,Diet Lunak,1,460,441
+114061,Dapur Diet Khusus,Diet Lunak,2,461,430
+114062,Dapur Diet Khusus,Diet Diabetes,1,463,439
+114063,Dapur Utama,Diet Diabetes,1,454,434
+114064,Dapur Utama,Diet Cair,2,467,436
+114065,Dapur Diet Khusus,Diet Cair,1,470,449
+114066,Dapur Diet Khusus,Diet Rendah Garam,1,465,440
+114067,Dapur Utama,Diet Biasa,1,454,426
+114068,Dapur Utama,Diet Diabetes,3,467,442
+114069,Dapur Diet Khusus,Diet Cair,2,462,446
+114070,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,459,431
+114071,Dapur Diet Khusus,Diet Biasa,2,457,434
+114072,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,459,432
+114073,Dapur Utama,Diet Cair,2,468,437
+114074,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,457,442
+114075,Dapur Diet Khusus,Diet Rendah Garam,3,470,431
+114076,Dapur Diet Khusus,Diet Diabetes,1,464,445
+114077,Dapur Diet Khusus,Diet Biasa,3,470,437
+114078,Dapur Utama,Diet Lunak,2,466,426
+114079,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,470,431
+114080,Dapur Diet Khusus,Diet Cair,3,466,450
+114081,Dapur Diet Khusus,Diet Cair,2,464,436
+114082,Dapur Diet Khusus,Diet Diabetes,1,464,422
+114084,Dapur Diet Khusus,Diet Rendah Garam,1,469,431
+114085,Dapur Utama,Diet Diabetes,1,452,428
+114086,Dapur Diet Khusus,Diet Rendah Garam,1,465,435
+114087,Dapur Diet Khusus,Diet Lunak,3,466,445
+114088,Dapur Utama,Diet Lunak,1,470,422
+114089,Dapur Diet Khusus,Diet Biasa,3,465,449
+114090,Dapur Diet Khusus,Diet Cair,3,467,447
+114091,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,461,445
+114092,Dapur Utama,Diet Lunak,3,467,429
+114093,Dapur Utama,Diet Lunak,1,455,446
+114094,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,452,427
+114095,Dapur Utama,Diet Biasa,3,462,448
+114096,Dapur Diet Khusus,Diet Biasa,1,461,433
+114097,Dapur Diet Khusus,Diet Cair,3,465,421
+114098,Dapur Utama,Diet Rendah Garam,1,452,445
+114099,Dapur Diet Khusus,Diet Cair,3,451,442
+114100,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,469,424
+114101,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,461,432
+114102,Dapur Diet Khusus,Diet Lunak,1,468,450
+114103,Dapur Utama,Diet Cair,3,457,425
+114104,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,456,430
+114105,Dapur Utama,Diet Biasa,3,459,445
+114106,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,462,445
+114107,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,460,432
+114108,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,465,442
+114109,Dapur Diet Khusus,Diet Diabetes,2,457,440
+114110,Dapur Diet Khusus,Diet Cair,3,458,422
+114111,Dapur Utama,Diet Diabetes,3,457,427
+114112,Dapur Utama,Diet Lunak,2,461,449
+114113,Dapur Diet Khusus,Diet Biasa,3,454,442
+114114,Dapur Diet Khusus,Diet Rendah Garam,2,451,437
+114115,Dapur Diet Khusus,Diet Cair,2,451,427
+114116,Dapur Diet Khusus,Diet Cair,1,460,441
+114117,Dapur Diet Khusus,Diet Biasa,2,459,435
+114118,Dapur Diet Khusus,Diet Cair,1,457,445
+114119,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,462,430
+114120,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,461,429
+114121,Dapur Diet Khusus,Diet Cair,1,454,442
+114122,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,459,423
+114123,Dapur Diet Khusus,Diet Rendah Garam,2,465,422
+114124,Dapur Diet Khusus,Diet Lunak,1,460,436
+114125,Dapur Diet Khusus,Diet Diabetes,2,454,438
+114126,Dapur Diet Khusus,Diet Rendah Garam,3,452,425
+114127,Dapur Utama,Diet Cair,2,456,442
+114128,Dapur Diet Khusus,Diet Biasa,3,464,421
+114129,Dapur Diet Khusus,Diet Cair,2,463,439
+114130,Dapur Utama,Diet Cair,1,462,440
+114131,Dapur Utama,Diet Biasa,2,452,427
+114132,Dapur Utama,Diet Rendah Garam,3,465,441
+114133,Dapur Diet Khusus,Diet Rendah Garam,2,453,442
+114134,Dapur Utama,Diet Lunak,1,463,448
+114135,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,453,438
+114136,Dapur Utama,Diet Lunak,3,455,448
+114137,Dapur Utama,Diet Rendah Garam,2,460,425
+114138,Dapur Utama,Diet Diabetes,3,470,446
+114139,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,454,431
+114140,Dapur Diet Khusus,Diet Diabetes,1,463,436
+114141,Dapur Diet Khusus,Diet Biasa,1,458,444
+114142,Dapur Utama,Diet Diabetes,1,457,437
+114143,Dapur Diet Khusus,Diet Cair,2,455,440
+114144,Dapur Utama,Diet Diabetes,3,454,446
+114145,Dapur Diet Khusus,Diet Rendah Garam,3,464,427
+114146,Dapur Diet Khusus,Diet Diabetes,2,463,440
+114147,Dapur Diet Khusus,Diet Biasa,2,459,435
+114148,Dapur Utama,Diet Lunak,1,469,424
+114149,Dapur Diet Khusus,Diet Rendah Garam,1,464,439
+114150,Dapur Utama,Diet Lunak,2,460,440
+114151,Dapur Utama,Diet Rendah Garam,1,459,422
+114152,Dapur Utama,Diet Biasa,3,462,438
+114153,Dapur Diet Khusus,Diet Diabetes,3,458,439
+114154,Dapur Utama,Diet Lunak,1,469,434
+114155,Dapur Utama,Diet Diabetes,1,461,428
+114156,Dapur Diet Khusus,Diet Rendah Garam,2,465,440
+114157,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,454,450
+114158,Dapur Utama,Diet Biasa,2,451,429
+114159,Dapur Diet Khusus,Diet Biasa,1,454,450
+114160,Dapur Diet Khusus,Diet Lunak,2,463,443
+114161,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,467,443
+114162,Dapur Utama,Diet Lunak,1,469,430
+114163,Dapur Diet Khusus,Diet Cair,3,468,432
+114164,Dapur Diet Khusus,Diet Diabetes,1,456,428
+114165,Dapur Diet Khusus,Diet Cair,2,468,450
+114166,Dapur Utama,Diet Rendah Garam,2,460,440
+114167,Dapur Diet Khusus,Diet Rendah Garam,3,467,424
+114168,Dapur Utama,Diet Rendah Garam,2,455,428
+114169,Dapur Diet Khusus,Diet Cair,2,458,443
+114170,Dapur Diet Khusus,Diet Biasa,1,463,428
+114171,Dapur Utama,Diet Lunak,2,467,438
+114172,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,457,431
+114173,Dapur Utama,Diet Lunak,3,468,423
+114174,Dapur Utama,Diet Lunak,3,453,438
+114175,Dapur Utama,Diet Biasa,2,460,429
+114176,Dapur Diet Khusus,Diet Rendah Garam,3,455,438
+114177,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,462,447
+114178,Dapur Utama,Diet Lunak,1,459,440
+114179,Dapur Diet Khusus,Diet Rendah Garam,2,462,434
+114180,Dapur Diet Khusus,Diet Lunak,1,467,428
+114181,Dapur Utama,Diet Diabetes,1,467,433
+114182,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,462,445
+114183,Dapur Utama,Diet Diabetes,3,469,448
+114184,Dapur Diet Khusus,Diet Diabetes,3,457,431
+114185,Dapur Diet Khusus,Diet Biasa,1,470,438
+114186,Dapur Diet Khusus,Diet Biasa,1,461,439
+114187,Dapur Diet Khusus,Diet Cair,1,452,422
+114188,Dapur Diet Khusus,Diet Lunak,1,456,435
+114189,Dapur Utama,Diet Cair,3,453,436
+114190,Dapur Utama,Diet Biasa,1,458,450
+114191,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,467,448
+114192,Dapur Diet Khusus,Diet Cair,3,454,447
+114193,Dapur Diet Khusus,Diet Biasa,1,461,421
+114194,Dapur Diet Khusus,Diet Rendah Garam,2,470,428
+114195,Dapur Diet Khusus,Diet Rendah Garam,2,462,435
+114196,Dapur Utama,Diet Cair,1,458,428
+114197,Dapur Diet Khusus,Diet Biasa,1,462,443
+114198,Dapur Diet Khusus,Diet Diabetes,3,469,435
+114199,Dapur Utama,Diet Diabetes,2,460,448
+114200,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,465,426
+114201,Dapur Diet Khusus,Diet Biasa,3,455,424
+114202,Dapur Diet Khusus,Diet Cair,3,460,426
+114203,Dapur Diet Khusus,Diet Cair,3,467,432
+114204,Dapur Diet Khusus,Diet Rendah Garam,2,460,432
+114205,Dapur Diet Khusus,Diet Rendah Garam,2,460,429
+114206,Dapur Diet Khusus,Diet Rendah Garam,1,464,435
+114207,Dapur Diet Khusus,Diet Biasa,2,453,447
+114208,Dapur Utama,Diet Diabetes,3,461,440
+114209,Dapur Utama,Diet Biasa,2,461,446
+114210,Dapur Diet Khusus,Diet Lunak,1,464,443
+114211,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,467,431
+114212,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,461,441
+114213,Dapur Utama,Diet Rendah Garam,1,465,447
+114214,Dapur Diet Khusus,Diet Cair,2,462,442
+114215,Dapur Diet Khusus,Diet Biasa,1,451,422
+114216,Dapur Utama,Diet Cair,1,453,434
+114217,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,464,448
+114218,Dapur Utama,Diet Diabetes,2,463,440
+114219,Dapur Diet Khusus,Diet Rendah Garam,3,457,441
+114220,Dapur Utama,Diet Biasa,2,457,424
+114221,Dapur Utama,Diet Lunak,3,453,435
+114222,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,455,444
+114223,Dapur Utama,Diet Biasa,3,464,438
+114224,Dapur Utama,Diet Biasa,1,455,449
+114225,Dapur Diet Khusus,Diet Biasa,1,470,421
+114226,Dapur Diet Khusus,Diet Biasa,2,470,434
+114227,Dapur Utama,Diet Lunak,2,459,435
+114228,Dapur Diet Khusus,Diet Rendah Garam,1,453,426
+114229,Dapur Utama,Diet Lunak,1,457,427
+114230,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,467,439
+114231,Dapur Diet Khusus,Diet Lunak,2,460,442
+114232,Dapur Diet Khusus,Diet Diabetes,3,456,440
+114233,Dapur Utama,Diet Diabetes,1,453,422
+114234,Dapur Diet Khusus,Diet Cair,1,463,444
+114235,Dapur Utama,Diet Rendah Garam,1,457,424
+114236,Dapur Utama,Diet Diabetes,2,463,435
+114237,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,470,441
+114238,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,456,441
+114239,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,463,422
+114240,Dapur Utama,Diet Lunak,1,466,434
+114241,Dapur Diet Khusus,Diet Lunak,3,464,427
+114242,Dapur Utama,Diet Diabetes,1,454,422
+114243,Dapur Diet Khusus,Diet Lunak,1,462,435
+114244,Dapur Utama,Diet Biasa,2,451,445
+114245,Dapur Diet Khusus,Diet Biasa,1,466,445
+114246,Dapur Diet Khusus,Diet Rendah Garam,3,455,428
+114247,Dapur Utama,Diet Diabetes,2,462,431
+114248,Dapur Diet Khusus,Diet Lunak,1,462,435
+114249,Dapur Diet Khusus,Diet Biasa,1,452,444
+114250,Dapur Utama,Diet Cair,3,451,441
+114251,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,469,440
+114252,Dapur Diet Khusus,Diet Cair,2,468,424
+114253,Dapur Utama,Diet Lunak,1,470,439
+114254,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,451,446
+114255,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,463,421
+114256,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,451,435
+114257,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,464,447
+114258,Dapur Utama,Diet Diabetes,1,465,424
+114259,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,452,427
+114260,Dapur Diet Khusus,Diet Lunak,3,460,438
+114261,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,462,449
+114262,Dapur Diet Khusus,Diet Lunak,3,455,441
+114263,Dapur Utama,Diet Biasa,2,457,440
+114264,Dapur Utama,Diet Rendah Garam,2,470,448
+114265,Dapur Utama,Diet Cair,3,455,435
+114266,Dapur Diet Khusus,Diet Lunak,1,455,447
+114267,Dapur Utama,Diet Lunak,1,459,439
+114268,Dapur Diet Khusus,Diet Rendah Garam,1,452,431
+114269,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,461,423
+114270,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,467,438
+114271,Dapur Diet Khusus,Diet Lunak,3,455,441
+114272,Dapur Utama,Diet Rendah Garam,1,467,429
+114273,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,467,427
+114274,Dapur Utama,Diet Cair,3,467,424
+114275,Dapur Utama,Diet Biasa,3,461,432
+114276,Dapur Diet Khusus,Diet Biasa,3,461,423
+114277,Dapur Utama,Diet Biasa,3,463,445
+114278,Dapur Utama,Diet Diabetes,3,460,431
+114279,Dapur Utama,Diet Rendah Garam,2,462,449
+114280,Dapur Utama,Diet Biasa,1,469,424
+114281,Dapur Utama,Diet Rendah Garam,3,470,427
+114282,Dapur Diet Khusus,Diet Rendah Garam,1,460,422
+114283,Dapur Diet Khusus,Diet Biasa,1,452,427
+114284,Dapur Diet Khusus,Diet Biasa,2,456,428
+114285,Dapur Utama,Diet Rendah Garam,3,468,434
+114286,Dapur Utama,Diet Rendah Garam,3,459,444
+114287,Dapur Diet Khusus,Diet Rendah Garam,3,458,447
+114288,Dapur Diet Khusus,Diet Lunak,3,465,449
+114289,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,462,427
+114290,Dapur Diet Khusus,Diet Cair,2,465,440
+114291,Dapur Utama,Diet Lunak,3,456,449
+114292,Dapur Diet Khusus,Diet Diabetes,3,455,436
+114293,Dapur Utama,Diet Cair,1,465,445
+114294,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,466,424
+114295,Dapur Utama,Diet Biasa,2,452,440
+114296,Dapur Diet Khusus,Diet Rendah Garam,1,467,437
+114297,Dapur Diet Khusus,Diet Rendah Garam,3,461,425
+114298,Dapur Diet Khusus,Diet Cair,3,456,432
+114299,Dapur Diet Khusus,Diet Biasa,2,470,450
+114300,Dapur Diet Khusus,Diet Rendah Garam,3,458,429
+114301,Dapur Utama,Diet Diabetes,3,460,432
+114302,Dapur Utama,Diet Diabetes,1,453,437
+114303,Dapur Utama,Diet Biasa,3,457,442
+114304,Dapur Diet Khusus,Diet Diabetes,1,465,438
+114305,Dapur Utama,Diet Diabetes,1,462,422
+114306,Dapur Diet Khusus,Diet Cair,2,458,426
+114307,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,466,438
+114308,Dapur Utama,Diet Rendah Garam,3,451,421
+114309,Dapur Diet Khusus,Diet Cair,2,462,421
+114310,Dapur Diet Khusus,Diet Lunak,3,461,431
+114311,Dapur Diet Khusus,Diet Cair,2,460,433
+114312,Dapur Diet Khusus,Diet Diabetes,3,465,434
+114313,Dapur Diet Khusus,Diet Cair,1,464,421
+114314,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,454,430
+114315,Dapur Diet Khusus,Diet Diabetes,1,451,434
+114316,Dapur Utama,Diet Diabetes,3,468,433
+114317,Dapur Utama,Diet Cair,3,455,422
+114318,Dapur Utama,Diet Rendah Garam,1,461,441
+114319,Dapur Diet Khusus,Diet Diabetes,2,459,429
+114320,Dapur Diet Khusus,Diet Diabetes,3,457,442
+114321,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,461,444
+114322,Dapur Utama,Diet Rendah Garam,3,459,431
+114323,Dapur Diet Khusus,Diet Diabetes,2,461,440
+114324,Dapur Diet Khusus,Diet Biasa,3,466,425
+114325,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,466,436
+114326,Dapur Utama,Diet Biasa,1,462,432
+114327,Dapur Utama,Diet Biasa,3,470,442
+114328,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,470,443
+114329,Dapur Diet Khusus,Diet Cair,3,468,421
+114330,Dapur Diet Khusus,Diet Lunak,1,463,441
+114331,Dapur Diet Khusus,Diet Rendah Garam,1,453,428
+114332,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,466,450
+114333,Dapur Utama,Diet Diabetes,1,466,429
+114334,Dapur Diet Khusus,Diet Cair,3,467,436
+114335,Dapur Diet Khusus,Diet Rendah Garam,2,456,422
+114336,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,466,421
+114337,Dapur Utama,Diet Diabetes,2,459,437
+114338,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,466,434
+114339,Dapur Diet Khusus,Diet Lunak,1,470,448
+114340,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,459,442
+114341,Dapur Utama,Diet Cair,2,456,440
+114342,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,461,444
+114343,Dapur Utama,Diet Biasa,2,457,447
+114344,Dapur Utama,Diet Rendah Garam,2,468,422
+114345,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,470,423
+114346,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,461,438
+114347,Dapur Diet Khusus,Diet Biasa,1,461,434
+114348,Dapur Diet Khusus,Diet Diabetes,3,459,444
+114349,Dapur Utama,Diet Diabetes,1,465,422
+114350,Dapur Utama,Diet Diabetes,1,461,421
+114351,Dapur Utama,Diet Biasa,3,461,437
+114352,Dapur Utama,Diet Lunak,2,467,429
+114353,Dapur Diet Khusus,Diet Lunak,1,459,437
+114354,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,455,450
+114355,Dapur Utama,Diet Diabetes,1,459,444
+114356,Dapur Diet Khusus,Diet Rendah Garam,2,452,431
+114357,Dapur Diet Khusus,Diet Biasa,3,454,439
+114358,Dapur Diet Khusus,Diet Cair,3,464,448
+114359,Dapur Utama,Diet Cair,2,467,434
+114360,Dapur Utama,Diet Lunak,3,451,434
+114361,Dapur Diet Khusus,Diet Lunak,1,458,426
+114362,Dapur Diet Khusus,Diet Lunak,3,461,450
+114363,Dapur Utama,Diet Cair,3,452,440
+114364,Dapur Utama,Diet Lunak,2,455,437
+114365,Dapur Utama,Diet Cair,3,468,442
+114366,Dapur Diet Khusus,Diet Lunak,3,462,448
+114367,Dapur Diet Khusus,Diet Rendah Garam,2,451,425
+114368,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,466,439
+114369,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,461,425
+114370,Dapur Utama,Diet Diabetes,2,463,447
+114371,Dapur Utama,Diet Lunak,3,462,447
+114372,Dapur Utama,Diet Rendah Garam,2,461,423
+114373,Dapur Utama,Diet Lunak,2,466,447
+114374,Dapur Utama,Diet Rendah Garam,1,451,435
+114375,Dapur Utama,Diet Biasa,3,458,441
+114376,Dapur Utama,Diet Rendah Garam,3,469,426
+114377,Dapur Diet Khusus,Diet Rendah Garam,1,463,447
+114378,Dapur Utama,Diet Diabetes,3,463,444
+114379,Dapur Utama,Diet Diabetes,1,457,431
+114380,Dapur Diet Khusus,Diet Cair,3,456,424
+114381,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,457,439
+114382,Dapur Utama,Diet Lunak,3,466,428
+114383,Dapur Utama,Diet Lunak,1,458,436
+114384,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,464,436
+114385,Dapur Utama,Diet Lunak,3,460,435
+114386,Dapur Utama,Diet Biasa,2,464,433
+114387,Dapur Diet Khusus,Diet Biasa,2,470,427
+114388,Dapur Diet Khusus,Diet Biasa,2,460,445
+114389,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,456,438
+114390,Dapur Utama,Diet Rendah Garam,2,468,443
+114391,Dapur Utama,Diet Cair,3,470,430
+114392,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,468,425
+114393,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,451,449
+114394,Dapur Utama,Diet Cair,2,463,429
+114395,Dapur Diet Khusus,Diet Biasa,2,451,426
+114396,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,452,434
+114397,Dapur Utama,Diet Rendah Garam,3,461,428
+114398,Dapur Utama,Diet Diabetes,1,452,446
+114399,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,468,426
+114400,Dapur Utama,Diet Cair,2,458,446
+114401,Dapur Utama,Diet Cair,2,465,435
+114402,Dapur Utama,Diet Lunak,1,470,443
+114403,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,454,428
+114404,Dapur Diet Khusus,Diet Biasa,2,464,449
+114405,Dapur Diet Khusus,Diet Lunak,3,457,429
+114406,Dapur Diet Khusus,Diet Lunak,2,453,438
+114407,Dapur Utama,Diet Diabetes,1,460,436
+114408,Dapur Utama,Diet Rendah Garam,2,452,442
+114409,Dapur Utama,Diet Cair,1,457,437
+114410,Dapur Diet Khusus,Diet Biasa,1,454,421
+114411,Dapur Utama,Diet Rendah Garam,1,457,424
+114412,Dapur Utama,Diet Lunak,2,461,440
+114413,Dapur Utama,Diet Diabetes,3,453,427
+114414,Dapur Diet Khusus,Diet Diabetes,2,466,448
+114415,Dapur Utama,Diet Cair,1,465,430
+114416,Dapur Diet Khusus,Diet Biasa,1,469,433
+114417,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,451,430
+114418,Dapur Diet Khusus,Diet Cair,2,460,432
+114419,Dapur Utama,Diet Diabetes,1,452,425
+114420,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,466,423
+114421,Dapur Diet Khusus,Diet Biasa,3,461,436
+114422,Dapur Diet Khusus,Diet Diabetes,2,467,427
+114423,Dapur Utama,Diet Cair,3,469,449
+114424,Dapur Diet Khusus,Diet Lunak,1,454,431
+114425,Dapur Diet Khusus,Diet Cair,1,456,442
+114426,Dapur Utama,Diet Diabetes,2,459,421
+114427,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,462,438
+114428,Dapur Diet Khusus,Diet Lunak,1,456,433
+114429,Dapur Utama,Diet Diabetes,1,456,423
+114430,Dapur Utama,Diet Cair,3,451,436
+114431,Dapur Diet Khusus,Diet Biasa,3,459,448
+114432,Dapur Utama,Diet Cair,2,467,432
+114433,Dapur Diet Khusus,Diet Cair,3,463,427
+114434,Dapur Diet Khusus,Diet Biasa,1,459,435
+114435,Dapur Utama,Diet Cair,1,461,437
+114436,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,453,422
+114437,Dapur Utama,Diet Diabetes,2,453,425
+114438,Dapur Utama,Diet Biasa,2,464,443
+114439,Dapur Utama,Diet Lunak,2,453,435
+114440,Dapur Diet Khusus,Diet Lunak,3,470,445
+114441,Dapur Diet Khusus,Diet Diabetes,3,468,434
+114442,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,456,441
+114443,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,458,430
+114444,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,455,426
+114445,Dapur Utama,Diet Lunak,1,451,450
+114446,Dapur Diet Khusus,Diet Diabetes,3,465,423
+114447,Dapur Diet Khusus,Diet Rendah Garam,2,451,437
+114448,Dapur Diet Khusus,Diet Lunak,3,464,439
+114449,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,470,431
+114450,Dapur Diet Khusus,Diet Lunak,1,460,444
+114451,Dapur Utama,Diet Biasa,3,470,445
+114452,Dapur Utama,Diet Diabetes,3,465,427
+114453,Dapur Utama,Diet Rendah Garam,2,465,442
+114454,Dapur Diet Khusus,Diet Cair,3,457,423
+114455,Dapur Utama,Diet Biasa,1,458,430
+114456,Dapur Utama,Diet Diabetes,2,468,444
+114457,Dapur Utama,Diet Diabetes,2,458,436
+114458,Dapur Utama,Diet Lunak,3,463,444
+114459,Dapur Utama,Diet Biasa,1,460,447
+114460,Dapur Diet Khusus,Diet Cair,2,465,430
+114461,Dapur Utama,Diet Rendah Garam,2,456,447
+114462,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,451,441
+114463,Dapur Utama,Diet Cair,1,463,434
+114464,Dapur Utama,Diet Biasa,1,452,437
+114465,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,453,435
+114466,Dapur Utama,Diet Lunak,3,451,450
+114467,Dapur Utama,Diet Lunak,2,468,436
+114468,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,452,433
+114469,Dapur Utama,Diet Cair,2,465,424
+114470,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,469,444
+114471,Dapur Diet Khusus,Diet Rendah Garam,3,466,422
+114472,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,451,423
+114473,Dapur Diet Khusus,Diet Diabetes,2,467,428
+114474,Dapur Diet Khusus,Diet Lunak,2,454,436
+114475,Dapur Utama,Diet Rendah Garam,2,454,423
+114476,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,462,433
+114477,Dapur Utama,Diet Cair,1,454,438
+114478,Dapur Diet Khusus,Diet Rendah Garam,1,460,447
+114479,Dapur Diet Khusus,Diet Lunak,1,464,439
+114480,Dapur Diet Khusus,Diet Lunak,3,451,445
+114481,Dapur Utama,Diet Cair,1,457,442
+114482,Dapur Diet Khusus,Diet Cair,2,465,437
+114483,Dapur Utama,Diet Lunak,2,466,448
+114484,Dapur Utama,Diet Lunak,2,455,443
+114485,Dapur Diet Khusus,Diet Cair,2,458,440
+114486,Dapur Utama,Diet Diabetes,3,466,432
+114487,Dapur Utama,Diet Rendah Garam,1,465,432
+114488,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,454,441
+114489,Dapur Diet Khusus,Diet Cair,2,461,440
+114490,Dapur Diet Khusus,Diet Lunak,1,464,442
+114491,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,455,428
+114492,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,458,447
+114493,Dapur Diet Khusus,Diet Biasa,3,454,443
+114494,Dapur Diet Khusus,Diet Lunak,2,466,430
+114495,Dapur Diet Khusus,Diet Biasa,2,469,443
+114496,Dapur Diet Khusus,Diet Lunak,2,452,448
+114499,Dapur Diet Khusus,Diet Cair,2,468,438
+114500,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,466,431
+114501,Dapur Diet Khusus,Diet Diabetes,3,469,442
+114502,Dapur Utama,Diet Rendah Garam,2,469,432
+114503,Dapur Diet Khusus,Diet Diabetes,3,451,429
+114504,Dapur Diet Khusus,Diet Diabetes,3,470,441
+114505,Dapur Utama,Diet Biasa,2,460,446
+114506,Dapur Diet Khusus,Diet Diabetes,3,461,444
+114507,Dapur Diet Khusus,Diet Biasa,3,451,448
+114508,Dapur Diet Khusus,Diet Rendah Garam,1,460,432
+114509,Dapur Utama,Diet Biasa,3,463,434
+114510,Dapur Utama,Diet Lunak,1,457,437
+114511,Dapur Utama,Diet Lunak,1,467,447
+114512,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,453,422
+114513,Dapur Utama,Diet Diabetes,3,452,433
+114514,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,457,446
+114515,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,456,446
+114516,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,454,425
+114517,Dapur Diet Khusus,Diet Biasa,2,462,424
+114518,Dapur Diet Khusus,Diet Lunak,2,464,424
+114519,Dapur Diet Khusus,Diet Lunak,2,468,428
+114520,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,457,427
+114521,Dapur Diet Khusus,Diet Rendah Garam,2,464,440
+114522,Dapur Utama,Diet Cair,3,456,421
+114523,Dapur Diet Khusus,Diet Lunak,3,454,429
+114524,Dapur Diet Khusus,Diet Rendah Garam,2,469,421
+114525,Dapur Diet Khusus,Diet Rendah Garam,2,457,427
+114526,Dapur Utama,Diet Cair,3,469,442
+114527,Dapur Utama,Diet Lunak,1,458,423
+114528,Dapur Utama,Diet Cair,1,465,441
+114529,Dapur Utama,Diet Cair,1,452,430
+114530,Dapur Utama,Diet Diabetes,3,464,435
+114531,Dapur Utama,Diet Rendah Garam,1,452,445
+114532,Dapur Utama,Diet Lunak,2,469,450
+114533,Dapur Diet Khusus,Diet Cair,3,451,431
+114534,Dapur Diet Khusus,Diet Biasa,2,469,424
+114535,Dapur Diet Khusus,Diet Cair,3,467,436
+114536,Dapur Utama,Diet Biasa,3,466,438
+114537,Dapur Utama,Diet Cair,1,455,434
+114538,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,470,448
+114539,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,467,426
+114540,Dapur Diet Khusus,Diet Cair,1,463,426
+114541,Dapur Diet Khusus,Diet Biasa,1,458,439
+114542,Dapur Utama,Diet Diabetes,2,466,442
+114543,Dapur Utama,Diet Biasa,3,452,448
+114544,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,2,469,436
+114545,Dapur Diet Khusus,Diet Lunak,3,460,448
+114546,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,458,432
+114547,Dapur Utama,Diet Cair,3,453,439
+114548,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,1,467,441
+114549,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,465,438
+114550,Dapur Utama,Diet Lunak,3,451,437
+114551,Dapur Diet Khusus,Diet Biasa,2,461,440
+114552,Dapur Utama,Diet Diabetes,3,461,436
+114553,Dapur Utama,Diet Rendah Garam,3,454,425
+114554,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,460,431
+114555,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,3,467,439
+114556,Dapur Diet Khusus,Diet Cair,2,463,427
+114557,Dapur Utama,Diet Rendah Garam,1,464,435
+114558,Dapur Diet Khusus,Diet Lunak,1,464,445
+114559,Dapur Utama,Diet Biasa,1,465,431
+114560,Dapur Utama,Diet Rendah Garam,3,464,443
+114561,Dapur Utama,Diet Cair,2,452,422
+114562,Dapur Diet Khusus,Diet Rendah Garam,3,458,433
+114563,Dapur Utama,Diet Tinggi Kalori Tinggi Protein,3,457,428
+114564,Dapur Utama,Diet Diabetes,3,463,440
+114565,Dapur Utama,Diet Diabetes,2,457,445
+114566,Dapur Utama,Diet Diabetes,1,469,444
+114567,Dapur Diet Khusus,Diet Rendah Garam,3,468,434
+114568,Dapur Diet Khusus,Diet Lunak,3,462,426
+114569,Dapur Utama,Diet Cair,1,457,435
+114570,Dapur Diet Khusus,Diet Lunak,2,465,432
+114571,Dapur Diet Khusus,Diet Diabetes,2,454,441
+114572,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,1,451,426
+114573,Dapur Diet Khusus,Diet Biasa,3,459,431
+114574,Dapur Utama,Diet Rendah Garam,1,466,442
+114575,Dapur Utama,Diet Lunak,1,466,442
+114576,Dapur Diet Khusus,Diet Lunak,2,461,423
+114577,Dapur Diet Khusus,Diet Rendah Garam,3,455,425
+114578,Dapur Diet Khusus,Diet Lunak,3,453,432
+114579,Dapur Utama,Diet Rendah Garam,2,459,446
+114580,Dapur Diet Khusus,Diet Cair,3,469,441
+114581,Dapur Diet Khusus,Diet Biasa,1,461,440
+114582,Dapur Diet Khusus,Diet Biasa,1,460,426
+114583,Dapur Utama,Diet Biasa,3,463,421
+114584,Dapur Diet Khusus,Diet Diabetes,3,451,442
+114585,Dapur Diet Khusus,Diet Tinggi Kalori Tinggi Protein,2,462,430
+114586,Dapur Diet Khusus,Diet Rendah Garam,1,458,442

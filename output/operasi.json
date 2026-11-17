@@ -1,0 +1,6827 @@
+[
+  {
+    "id_pelayanan_medis": "58049",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-02 11:32:55.494626",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "134",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "157",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "181",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "287",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58050",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-02 11:50:33.405497",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "152",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "175",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "129",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "205",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58051",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-02 17:50:12",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "182",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "135",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "159",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "342",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58052",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-03 01:14:10",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "128",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "151",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "175",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "260",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58053",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-02 15:19:04",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "121",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "144",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "168",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "274",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58054",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-03 01:57:02",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "189",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "142",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "166",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "231",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58055",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-02 10:19:11",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "179",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "132",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "156",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "236",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58056",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-02 03:29:57",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "177",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "130",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "154",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "345",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58057",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-03 11:55:43.011612",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "156",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "179",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "133",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "281",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58058",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-03 13:20:20.141624",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "128",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "151",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "175",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "286",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58059",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-03 11:47:57.653987",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "130",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "153",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "177",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "257",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58060",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-03 12:25:36.429718",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "135",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "158",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "182",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "284",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58061",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-03 17:11:07",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "157",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "180",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "134",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "243",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58062",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-03 06:36:41",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "128",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "151",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "175",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "271",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58063",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-03 05:57:14",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "153",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "176",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "130",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "230",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58064",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-03 06:00:09",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "147",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "170",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "124",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "248",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58065",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-03 10:35:25",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "147",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "170",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "124",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "284",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58066",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-04 07:54:08",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "159",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "182",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "136",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "319",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58067",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-04 11:39:27",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "155",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "178",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "132",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "258",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58068",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-04 15:01:54",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "148",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "171",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "125",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "243",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58069",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-05 09:21:30",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "181",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "134",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "158",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "321",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58070",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-06 01:34:16",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "172",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "125",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "149",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "251",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58071",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-05 12:30:47",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "141",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "164",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "188",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "195",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58072",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-06 02:11:38",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "184",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "137",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "161",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "242",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58073",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-06 11:36:52.465604",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "171",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "124",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "148",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "339",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58074",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-06 11:25:36.862138",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "159",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "182",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "136",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "333",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58075",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-06 10:00:23.682771",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "147",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "170",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "124",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "251",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58076",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-06 12:31:07.42309",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "146",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "169",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "123",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "224",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58077",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-06 05:18:05",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "150",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "173",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "127",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "312",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58078",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-06 07:49:40",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "130",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "153",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "177",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "235",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58079",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-06 10:34:54",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "132",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "155",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "179",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "235",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58080",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-06 22:06:48",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "183",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "136",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "160",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "287",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58081",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-06 06:42:48",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "130",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "153",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "177",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "346",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58082",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-06 22:48:00",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "132",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "155",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "179",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "306",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58083",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-06 07:04:44",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "121",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "144",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "168",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "327",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58084",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-06 21:35:17",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "185",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "138",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "162",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "198",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58085",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-07 12:03:46.39656",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "170",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "123",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "147",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "280",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58086",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-07 10:03:50.628518",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "169",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "122",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "146",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "236",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58087",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-07 10:00:26.731678",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "157",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "180",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "134",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "200",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58088",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-07 12:52:30.825825",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "175",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "128",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "152",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "257",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58089",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-07 10:30:33",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "186",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "139",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "163",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "313",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58090",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-07 03:24:55",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "121",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "144",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "168",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "214",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58091",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-07 15:46:56",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "150",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "173",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "127",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "202",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58092",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-07 13:15:13",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "176",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "129",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "153",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "311",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58093",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-08 11:43:15.776818",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "157",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "180",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "134",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "308",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58094",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-08 10:55:17.002821",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "121",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "144",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "168",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "216",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58095",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-08 13:01:42.945422",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "139",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "162",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "186",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "306",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58096",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-08 13:04:07.969971",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "159",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "182",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "136",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "221",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58097",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-08 13:51:59",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "145",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "168",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "122",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "239",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58098",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-08 18:37:28",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "140",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "163",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "187",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "337",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58099",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-08 12:14:44",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "140",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "163",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "187",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "215",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58100",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-08 13:57:38",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "188",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "141",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "165",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "240",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58101",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-08 19:21:25",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "146",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "169",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "123",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "285",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58102",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-09 10:00:38.960701",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "150",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "173",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "127",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "198",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58103",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-09 12:26:24.55871",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "127",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "150",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "174",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "216",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58104",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-09 10:09:20.583337",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "146",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "169",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "123",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "191",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58105",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-09 10:11:56.298573",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "131",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "154",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "178",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "264",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58106",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-10 01:23:48",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "160",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "183",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "137",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "242",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58107",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-09 12:21:09",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "167",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "190",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "144",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "272",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58108",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-09 17:10:49",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "136",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "159",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "183",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "303",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58109",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-09 13:07:42",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "171",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "124",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "148",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "202",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58110",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-09 10:21:40",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "179",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "132",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "156",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "240",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58111",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-09 15:58:35",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "154",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "177",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "131",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "313",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58112",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-10 14:01:48.208761",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "130",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "153",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "177",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "245",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58113",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-10 10:15:11.037428",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "172",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "125",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "149",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "215",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58114",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-10 13:21:14.596933",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "142",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "165",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "189",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "305",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58115",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-10 11:48:21.268593",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "187",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "140",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "164",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "289",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58116",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-10 10:14:55.293159",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "121",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "144",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "168",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "264",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58117",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-10 18:12:51",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "153",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "176",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "130",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "288",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58118",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-10 13:47:53",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "159",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "182",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "136",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "254",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58119",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-10 03:36:31",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "147",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "170",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "124",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "264",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58120",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-10 10:24:14",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "185",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "138",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "162",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "270",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58121",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-11 00:58:26",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "124",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "147",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "171",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "293",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58122",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-11 02:48:38",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "154",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "177",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "131",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "242",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58123",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-11 10:01:43",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "142",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "165",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "189",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "243",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58124",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-11 15:00:28",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "138",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "161",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "185",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "197",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58125",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-11 20:25:08",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "188",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "141",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "165",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "214",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58126",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-12 01:21:50",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "128",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "151",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "175",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "267",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58127",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-11 03:11:09",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "124",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "147",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "171",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "229",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58128",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-11 07:16:43",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "146",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "169",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "123",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "223",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58129",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-11 14:51:40",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "124",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "147",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "171",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "324",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58130",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-11 17:45:37",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "181",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "134",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "158",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "227",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58131",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-12 12:34:10",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "123",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "146",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "170",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "325",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58132",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-12 04:27:56",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "167",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "190",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "144",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "264",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58133",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-12 16:29:28",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "141",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "164",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "188",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "229",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58134",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-12 18:04:32",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "160",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "183",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "137",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "203",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58135",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-12 18:58:26",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "142",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "165",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "189",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "311",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58136",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-13 01:02:37",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "150",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "173",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "127",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "248",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58137",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-13 10:12:38.836561",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "127",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "150",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "174",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "305",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58138",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-13 10:20:01.147024",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "167",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "190",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "144",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "337",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58139",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-13 11:37:42.37933",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "174",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "127",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "151",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "311",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58140",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-13 10:31:58.022537",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "178",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "131",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "155",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "245",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58141",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-13 14:41:08.029057",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "164",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "187",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "141",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "301",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58142",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-13 11:00:47.227396",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "150",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "173",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "127",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "259",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58143",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-13 13:41:26",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "139",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "162",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "186",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "287",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58144",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-13 08:56:48",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "183",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "136",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "160",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "333",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58145",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-13 22:20:22",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "168",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "121",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "145",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "240",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58146",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-14 10:53:28.420651",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "124",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "147",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "171",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "289",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58147",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-14 11:38:05.316503",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "129",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "152",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "176",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "341",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58148",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-14 10:43:00.974385",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "131",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "154",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "178",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "261",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58149",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-14 10:47:40.588135",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "156",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "179",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "133",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "344",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58150",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-14 10:00:17.49369",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "166",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "189",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "143",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "321",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58151",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-14 06:56:06",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "176",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "129",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "153",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "219",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58152",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-14 05:44:39",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "155",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "178",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "132",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "194",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58153",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-14 16:39:46",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "129",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "152",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "176",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "284",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58154",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-14 16:31:16",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "165",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "188",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "142",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "219",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58155",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-14 16:28:59",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "150",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "173",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "127",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "239",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58156",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-15 02:34:40",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "142",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "165",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "189",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "310",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58157",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-15 14:56:52.160264",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "157",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "180",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "134",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "262",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58158",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-15 10:31:13.865563",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "138",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "161",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "185",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "226",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58159",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-15 10:30:17.755391",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "136",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "159",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "183",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "279",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58160",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-15 11:10:20.582868",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "125",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "148",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "172",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "288",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58161",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-15 11:59:34.448288",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "151",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "174",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "128",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "219",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58162",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-15 15:08:16",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "149",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "172",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "126",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "242",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58163",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-15 12:24:41",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "164",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "187",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "141",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "228",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58164",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-15 07:11:55",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "152",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "175",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "129",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "305",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58165",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-15 17:18:20",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "189",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "142",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "166",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "341",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58166",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-16 10:20:39.984716",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "126",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "149",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "173",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "236",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58167",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-16 10:01:54.595489",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "142",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "165",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "189",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "209",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58168",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-16 14:54:46.769235",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "160",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "183",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "137",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "294",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58169",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-16 12:32:29.536045",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "160",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "183",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "137",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "215",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58170",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-16 12:36:40.33043",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "184",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "137",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "161",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "279",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58171",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-16 20:14:55",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "140",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "163",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "187",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "223",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58172",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-16 14:21:31",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "125",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "148",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "172",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "315",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58173",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-16 09:32:28",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "146",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "169",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "123",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "308",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58174",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-16 12:19:22",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "152",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "175",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "129",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "249",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58175",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-16 03:23:49",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "180",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "133",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "157",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "311",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58176",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-16 18:51:38",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "151",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "174",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "128",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "295",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58177",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-16 12:51:36",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "135",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "158",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "182",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "194",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58178",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-16 18:21:29",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "188",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "141",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "165",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "342",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58179",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-16 13:56:37",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "155",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "178",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "132",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "212",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58180",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-16 07:47:04",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "184",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "137",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "161",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "293",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58181",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-17 00:45:37",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "139",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "162",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "186",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "307",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58182",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-17 13:35:38.926777",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "180",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "133",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "157",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "293",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58183",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-17 10:02:43.055122",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "162",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "185",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "139",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "222",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58184",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-17 11:48:55.747399",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "126",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "149",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "173",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "283",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58185",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-17 23:10:54",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "147",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "170",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "124",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "292",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58186",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-17 07:37:54",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "161",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "184",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "138",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "300",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58187",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-17 03:44:47",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "163",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "186",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "140",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "315",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58188",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-17 14:12:53",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "188",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "141",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "165",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "344",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58189",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-17 18:21:33",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "125",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "148",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "172",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "284",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58190",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-18 20:21:47",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "126",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "149",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "173",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "330",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58191",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-19 15:56:12",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "143",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "166",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "190",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "213",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58192",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-19 16:06:49",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "177",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "130",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "154",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "268",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58193",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-20 01:42:27",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "131",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "154",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "178",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "232",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58194",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-19 14:52:53",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "164",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "187",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "141",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "232",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58195",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-19 15:42:11",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "133",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "156",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "180",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "327",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58196",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-19 22:59:05",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "157",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "180",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "134",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "344",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58197",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-19 20:50:22",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "179",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "132",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "156",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "313",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58198",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-19 21:10:50",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "151",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "174",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "128",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "318",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58199",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-19 10:44:17",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "139",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "162",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "186",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "212",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58200",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-19 22:47:39",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "138",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "161",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "185",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "234",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58201",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-19 06:56:40",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "155",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "178",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "132",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "283",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58202",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-20 13:27:14.860822",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "161",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "184",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "138",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "216",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58203",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-20 11:18:17.940603",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "147",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "170",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "124",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "300",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58204",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-20 14:19:25.19272",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "161",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "184",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "138",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "291",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58205",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-20 10:10:26.828651",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "126",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "149",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "173",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "283",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58206",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-20 11:51:50.828526",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "171",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "124",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "148",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "274",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58207",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-20 12:08:09.796889",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "128",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "151",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "175",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "267",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58208",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-20 10:01:56.544397",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "153",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "176",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "130",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "274",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58209",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-20 14:10:19.246643",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "176",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "129",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "153",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "217",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58210",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-20 14:53:45.967262",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "141",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "164",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "188",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "191",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58211",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-20 10:23:35.789224",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "126",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "149",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "173",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "255",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58212",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-20 13:08:54.660281",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "122",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "145",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "169",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "241",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58213",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-21 00:24:41",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "171",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "124",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "148",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "336",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58214",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-20 11:44:24",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "154",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "177",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "131",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "204",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58215",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-21 12:22:24.4628",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "169",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "122",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "146",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "236",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58216",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-21 13:47:12.457359",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "146",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "169",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "123",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "346",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58217",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-21 12:49:31.934351",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "123",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "146",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "170",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "213",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58218",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-21 13:15:00.734307",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "148",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "171",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "125",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "191",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58219",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-21 11:54:28.778998",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "186",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "139",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "163",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "223",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58220",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-21 10:01:24.6635",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "138",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "161",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "185",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "219",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58221",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-22 02:52:06",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "126",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "149",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "173",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "316",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58222",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-21 21:41:13",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "175",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "128",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "152",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "281",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58223",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-21 21:51:26",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "174",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "127",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "151",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "340",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58224",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-22 00:46:46",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "121",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "144",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "168",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "267",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58225",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-21 14:31:30",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "164",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "187",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "141",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "287",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58226",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-21 03:55:44",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "133",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "156",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "180",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "274",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58227",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-22 22:08:49",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "125",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "148",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "172",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "193",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58228",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-22 12:41:06",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "151",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "174",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "128",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "315",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58229",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-22 10:12:16",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "188",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "141",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "165",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "246",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58230",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-23 12:30:50.74235",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "152",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "175",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "129",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "245",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58231",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-23 10:00:25.183495",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "181",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "134",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "158",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "345",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58232",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-23 11:18:25.518963",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "139",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "162",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "186",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "203",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58233",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-23 11:23:05.950885",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "163",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "186",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "140",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "348",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58234",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-23 14:14:01.31208",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "189",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "142",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "166",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "321",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58235",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-23 15:32:10",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "122",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "145",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "169",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "303",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58236",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-23 20:52:22",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "186",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "139",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "163",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "341",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58237",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-24 10:14:14.664651",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "189",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "142",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "166",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "226",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58238",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-24 10:15:03.670345",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "140",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "163",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "187",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "306",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58239",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-24 12:50:48.209729",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "142",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "165",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "189",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "204",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58240",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-24 11:25:00.960763",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "159",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "182",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "136",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "211",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58241",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-24 19:59:25",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "157",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "180",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "134",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "237",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58242",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-24 22:52:45",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "127",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "150",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "174",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "231",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58243",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-24 10:28:51",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "164",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "187",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "141",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "227",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58244",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-24 20:42:11",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "150",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "173",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "127",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "265",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58245",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-24 19:44:39",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "159",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "182",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "136",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "215",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58246",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-24 11:06:26",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "157",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "180",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "134",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "220",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58247",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-24 23:11:44",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "169",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "122",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "146",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "247",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58248",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-24 12:31:55",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "121",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "144",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "168",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "265",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58249",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-25 21:58:12",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "175",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "128",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "152",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "295",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58250",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-25 20:17:56",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "171",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "124",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "148",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "284",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58251",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-26 01:44:55",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "128",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "151",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "175",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "311",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58252",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-25 11:59:23",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "125",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "148",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "172",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "316",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58253",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-25 16:01:59",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "130",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "153",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "177",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "276",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58254",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-26 07:44:52",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "167",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "190",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "144",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "225",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58255",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-26 23:56:28",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "174",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "127",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "151",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "332",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58256",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-26 15:30:41",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "166",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "189",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "143",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "236",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58257",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-26 14:36:21",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "184",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "137",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "161",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "193",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58258",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-26 18:08:16",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "188",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "141",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "165",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "215",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58259",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-27 10:20:55.670325",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "126",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "149",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "173",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "338",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58260",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-27 10:44:19.209097",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "129",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "152",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "176",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "316",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58261",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-27 10:09:59.672341",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "148",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "171",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "125",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "323",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58262",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-27 13:16:59",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "161",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "184",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "138",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "282",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58263",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-27 16:53:45",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "178",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "131",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "155",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "229",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58264",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-27 07:23:39",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "133",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "156",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "180",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "196",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58265",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-27 20:48:34",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "126",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "149",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "173",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "320",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58266",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-28 11:26:28.970053",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "125",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "148",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "172",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "197",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58267",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-28 12:45:22.437349",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "176",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "129",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "153",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "227",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58268",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-28 13:30:52.655362",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "144",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "167",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "121",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "318",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58269",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-28 13:55:05.908525",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "174",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "127",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "151",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "304",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58270",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-28 10:18:14.293112",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "148",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "171",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "125",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "262",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58271",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-28 14:12:50.510199",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "166",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "189",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "143",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "315",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58272",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-28 14:18:41.618418",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "128",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "151",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "175",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "299",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58273",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-28 10:00:52.750664",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "121",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "144",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "168",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "278",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58274",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-28 14:15:35.089426",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "131",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "154",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "178",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "259",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58275",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-28 21:38:49",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "147",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "170",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "124",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "319",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58276",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-28 07:13:06",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "157",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "180",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "134",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "228",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58277",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-28 12:48:49",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "126",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "149",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "173",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "208",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58278",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-29 11:10:40.423259",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "172",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "125",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "149",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "318",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58279",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-29 11:33:46.677431",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "158",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "181",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "135",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "349",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58280",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-29 10:57:59.503077",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "153",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "176",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "130",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "228",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58281",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-29 12:56:20.5799",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "130",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "153",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "177",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "283",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58282",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-29 11:02:53.97483",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "163",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "186",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "140",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "239",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58283",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-29 11:21:38.575737",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "153",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "176",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "130",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "221",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58284",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-29 13:53:13.322567",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "182",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "135",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "159",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "250",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58285",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-29 11:55:59.901388",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "128",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "151",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "175",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "333",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58286",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-29 12:06:56.515631",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "170",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "123",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "147",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "233",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58287",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-29 11:09:10.429588",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "139",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "162",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "186",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "244",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58288",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-29 18:27:48",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "183",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "136",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "160",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "316",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58289",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-30 02:47:38",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "167",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "190",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "144",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "349",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58290",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-29 13:07:31",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "159",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "182",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "136",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "211",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58291",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-29 21:23:40",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "145",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "168",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "122",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "256",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58292",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-30 10:23:23.488224",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "121",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "144",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "168",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "270",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58293",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-30 11:03:44.221192",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "177",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "130",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "154",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "228",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58294",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-30 13:12:17.338861",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "158",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "181",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "135",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "198",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58295",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-30 10:18:25.376479",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "175",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "128",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "152",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "198",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58296",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-30 23:03:43",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "188",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "141",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "165",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "332",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58297",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-30 06:54:25",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "169",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "122",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "146",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "314",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58298",
+    "jenis_operasi": "Laparotomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-30 11:05:29",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "163",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "186",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "140",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "217",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58299",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-30 08:18:21",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "138",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "161",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "185",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "271",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58300",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-31 11:20:02.030653",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "155",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "178",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "132",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "196",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58301",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-31 13:16:46.952293",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "150",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "173",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "127",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "302",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58302",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-31 10:39:28.63327",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "156",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "179",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "133",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "311",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58303",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-31 10:47:17.246829",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "169",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "122",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "146",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "314",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58304",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-31 11:39:46.083365",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "159",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "182",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "136",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "319",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58305",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-31 13:30:44.576245",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "186",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "139",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "163",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "290",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58306",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-31 11:38:19.165265",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "141",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "164",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "188",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "332",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58307",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-31 07:12:12",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "122",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "145",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "169",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "281",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58308",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-31 12:42:02",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "153",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "176",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "130",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "288",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58309",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-31 13:37:43",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "175",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "128",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "152",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "257",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58310",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-11-01 01:54:14",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "158",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "181",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "135",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "321",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58311",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-10-31 19:16:20",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "127",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "150",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "174",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "312",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58312",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-10-31 19:45:23",
+    "hasil_operasi": "Operasi berjalan lancar",
+    "tim_operasi": [
+      {
+        "id_pegawai": "164",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "187",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "141",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "198",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58313",
+    "jenis_operasi": "Kolesistektomi",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-10-31 13:49:47",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "128",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "151",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "175",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "219",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58314",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-10-31 07:57:25",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "130",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "153",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "177",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "348",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58315",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-11-01 14:22:07",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "167",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "190",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "144",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "313",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58316",
+    "jenis_operasi": "Herniotomi",
+    "ruang_operasi": "OK 3",
+    "tanggal_waktu_operasi": "2026-11-01 03:55:54",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "167",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "190",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "144",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "192",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58317",
+    "jenis_operasi": "ORIF",
+    "ruang_operasi": "OK 2",
+    "tanggal_waktu_operasi": "2026-11-01 05:37:13",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "154",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "177",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "131",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "285",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58318",
+    "jenis_operasi": "Debridement",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-11-01 16:18:10",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "136",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "159",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "183",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "327",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58319",
+    "jenis_operasi": "Sectio Caesarea",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-11-01 13:14:43",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "130",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "153",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "177",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "350",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58320",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 4",
+    "tanggal_waktu_operasi": "2026-11-01 22:57:51",
+    "hasil_operasi": "Pasien dipindah ke ICU untuk observasi",
+    "tim_operasi": [
+      {
+        "id_pegawai": "164",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "187",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "141",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "284",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  },
+  {
+    "id_pelayanan_medis": "58321",
+    "jenis_operasi": "Apendektomi",
+    "ruang_operasi": "OK 1",
+    "tanggal_waktu_operasi": "2026-11-01 22:51:29",
+    "hasil_operasi": "Operasi lancar, perdarahan minimal",
+    "tim_operasi": [
+      {
+        "id_pegawai": "152",
+        "peran": "Operator"
+      },
+      {
+        "id_pegawai": "175",
+        "peran": "Asisten"
+      },
+      {
+        "id_pegawai": "129",
+        "peran": "Anestesi"
+      },
+      {
+        "id_pegawai": "245",
+        "peran": "Perawat Instrumen"
+      }
+    ]
+  }
+]

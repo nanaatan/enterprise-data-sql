@@ -1,0 +1,3152 @@
+[
+  {
+    "id_jadwal": "1",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "21",
+    "id_pegawai": "121",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "6",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "32",
+    "id_pegawai": "122",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "11",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "24",
+    "id_pegawai": "123",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "16",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "30",
+    "id_pegawai": "124",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "21",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "23",
+    "id_pegawai": "125",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "26",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "39",
+    "id_pegawai": "126",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "31",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "26",
+    "id_pegawai": "127",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "36",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "37",
+    "id_pegawai": "128",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "41",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "30",
+    "id_pegawai": "129",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "46",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "25",
+    "id_pegawai": "130",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "51",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "30",
+    "id_pegawai": "131",
+    "id_unit": "12"
+  },
+  {
+    "id_jadwal": "56",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "20",
+    "id_pegawai": "132",
+    "id_unit": "13"
+  },
+  {
+    "id_jadwal": "61",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "21",
+    "id_pegawai": "133",
+    "id_unit": "14"
+  },
+  {
+    "id_jadwal": "66",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "28",
+    "id_pegawai": "134",
+    "id_unit": "15"
+  },
+  {
+    "id_jadwal": "71",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "21",
+    "id_pegawai": "135",
+    "id_unit": "16"
+  },
+  {
+    "id_jadwal": "76",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "29",
+    "id_pegawai": "136",
+    "id_unit": "17"
+  },
+  {
+    "id_jadwal": "81",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "23",
+    "id_pegawai": "137",
+    "id_unit": "18"
+  },
+  {
+    "id_jadwal": "86",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "40",
+    "id_pegawai": "138",
+    "id_unit": "19"
+  },
+  {
+    "id_jadwal": "91",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "30",
+    "id_pegawai": "139",
+    "id_unit": "20"
+  },
+  {
+    "id_jadwal": "96",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "32",
+    "id_pegawai": "140",
+    "id_unit": "1"
+  },
+  {
+    "id_jadwal": "101",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "40",
+    "id_pegawai": "141",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "106",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "39",
+    "id_pegawai": "142",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "111",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "33",
+    "id_pegawai": "143",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "116",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "38",
+    "id_pegawai": "144",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "121",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "35",
+    "id_pegawai": "145",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "126",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "35",
+    "id_pegawai": "146",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "131",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "25",
+    "id_pegawai": "147",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "136",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "22",
+    "id_pegawai": "148",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "141",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "28",
+    "id_pegawai": "149",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "146",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "24",
+    "id_pegawai": "150",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "151",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "22",
+    "id_pegawai": "151",
+    "id_unit": "12"
+  },
+  {
+    "id_jadwal": "156",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "38",
+    "id_pegawai": "152",
+    "id_unit": "13"
+  },
+  {
+    "id_jadwal": "161",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "36",
+    "id_pegawai": "153",
+    "id_unit": "14"
+  },
+  {
+    "id_jadwal": "166",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "35",
+    "id_pegawai": "154",
+    "id_unit": "15"
+  },
+  {
+    "id_jadwal": "171",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "22",
+    "id_pegawai": "155",
+    "id_unit": "16"
+  },
+  {
+    "id_jadwal": "176",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "23",
+    "id_pegawai": "156",
+    "id_unit": "17"
+  },
+  {
+    "id_jadwal": "181",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "34",
+    "id_pegawai": "157",
+    "id_unit": "18"
+  },
+  {
+    "id_jadwal": "186",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "27",
+    "id_pegawai": "158",
+    "id_unit": "19"
+  },
+  {
+    "id_jadwal": "191",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "39",
+    "id_pegawai": "159",
+    "id_unit": "20"
+  },
+  {
+    "id_jadwal": "196",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "26",
+    "id_pegawai": "160",
+    "id_unit": "1"
+  },
+  {
+    "id_jadwal": "201",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "31",
+    "id_pegawai": "161",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "206",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "21",
+    "id_pegawai": "162",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "211",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "39",
+    "id_pegawai": "163",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "216",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "33",
+    "id_pegawai": "164",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "221",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "23",
+    "id_pegawai": "165",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "226",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "24",
+    "id_pegawai": "166",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "231",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "30",
+    "id_pegawai": "167",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "236",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "36",
+    "id_pegawai": "168",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "241",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "34",
+    "id_pegawai": "169",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "246",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "27",
+    "id_pegawai": "170",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "251",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "32",
+    "id_pegawai": "171",
+    "id_unit": "12"
+  },
+  {
+    "id_jadwal": "256",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "31",
+    "id_pegawai": "172",
+    "id_unit": "13"
+  },
+  {
+    "id_jadwal": "261",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "25",
+    "id_pegawai": "173",
+    "id_unit": "14"
+  },
+  {
+    "id_jadwal": "266",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "32",
+    "id_pegawai": "174",
+    "id_unit": "15"
+  },
+  {
+    "id_jadwal": "271",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "35",
+    "id_pegawai": "175",
+    "id_unit": "16"
+  },
+  {
+    "id_jadwal": "276",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "23",
+    "id_pegawai": "176",
+    "id_unit": "17"
+  },
+  {
+    "id_jadwal": "281",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "30",
+    "id_pegawai": "177",
+    "id_unit": "18"
+  },
+  {
+    "id_jadwal": "286",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "26",
+    "id_pegawai": "178",
+    "id_unit": "19"
+  },
+  {
+    "id_jadwal": "291",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "36",
+    "id_pegawai": "179",
+    "id_unit": "20"
+  },
+  {
+    "id_jadwal": "296",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "25",
+    "id_pegawai": "180",
+    "id_unit": "1"
+  },
+  {
+    "id_jadwal": "301",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "31",
+    "id_pegawai": "181",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "306",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "25",
+    "id_pegawai": "182",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "311",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "20",
+    "id_pegawai": "183",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "316",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "38",
+    "id_pegawai": "184",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "321",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "24",
+    "id_pegawai": "185",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "326",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "37",
+    "id_pegawai": "186",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "331",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "27",
+    "id_pegawai": "187",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "336",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "20",
+    "id_pegawai": "188",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "341",
+    "hari": "Senin",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "27",
+    "id_pegawai": "189",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "346",
+    "hari": "Senin",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "33",
+    "id_pegawai": "190",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "2",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "40",
+    "id_pegawai": "121",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "7",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "38",
+    "id_pegawai": "122",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "12",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "27",
+    "id_pegawai": "123",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "17",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "26",
+    "id_pegawai": "124",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "22",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "20",
+    "id_pegawai": "125",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "27",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "22",
+    "id_pegawai": "126",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "32",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "30",
+    "id_pegawai": "127",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "37",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "24",
+    "id_pegawai": "128",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "42",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "21",
+    "id_pegawai": "129",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "47",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "34",
+    "id_pegawai": "130",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "52",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "32",
+    "id_pegawai": "131",
+    "id_unit": "12"
+  },
+  {
+    "id_jadwal": "57",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "24",
+    "id_pegawai": "132",
+    "id_unit": "13"
+  },
+  {
+    "id_jadwal": "62",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "23",
+    "id_pegawai": "133",
+    "id_unit": "14"
+  },
+  {
+    "id_jadwal": "67",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "33",
+    "id_pegawai": "134",
+    "id_unit": "15"
+  },
+  {
+    "id_jadwal": "72",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "25",
+    "id_pegawai": "135",
+    "id_unit": "16"
+  },
+  {
+    "id_jadwal": "77",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "22",
+    "id_pegawai": "136",
+    "id_unit": "17"
+  },
+  {
+    "id_jadwal": "82",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "30",
+    "id_pegawai": "137",
+    "id_unit": "18"
+  },
+  {
+    "id_jadwal": "87",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "23",
+    "id_pegawai": "138",
+    "id_unit": "19"
+  },
+  {
+    "id_jadwal": "92",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "34",
+    "id_pegawai": "139",
+    "id_unit": "20"
+  },
+  {
+    "id_jadwal": "97",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "27",
+    "id_pegawai": "140",
+    "id_unit": "1"
+  },
+  {
+    "id_jadwal": "102",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "31",
+    "id_pegawai": "141",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "107",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "31",
+    "id_pegawai": "142",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "112",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "29",
+    "id_pegawai": "143",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "117",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "31",
+    "id_pegawai": "144",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "122",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "27",
+    "id_pegawai": "145",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "127",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "24",
+    "id_pegawai": "146",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "132",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "31",
+    "id_pegawai": "147",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "137",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "25",
+    "id_pegawai": "148",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "142",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "36",
+    "id_pegawai": "149",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "147",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "38",
+    "id_pegawai": "150",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "152",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "20",
+    "id_pegawai": "151",
+    "id_unit": "12"
+  },
+  {
+    "id_jadwal": "157",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "23",
+    "id_pegawai": "152",
+    "id_unit": "13"
+  },
+  {
+    "id_jadwal": "162",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "32",
+    "id_pegawai": "153",
+    "id_unit": "14"
+  },
+  {
+    "id_jadwal": "167",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "32",
+    "id_pegawai": "154",
+    "id_unit": "15"
+  },
+  {
+    "id_jadwal": "172",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "21",
+    "id_pegawai": "155",
+    "id_unit": "16"
+  },
+  {
+    "id_jadwal": "177",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "36",
+    "id_pegawai": "156",
+    "id_unit": "17"
+  },
+  {
+    "id_jadwal": "182",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "28",
+    "id_pegawai": "157",
+    "id_unit": "18"
+  },
+  {
+    "id_jadwal": "187",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "29",
+    "id_pegawai": "158",
+    "id_unit": "19"
+  },
+  {
+    "id_jadwal": "192",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "36",
+    "id_pegawai": "159",
+    "id_unit": "20"
+  },
+  {
+    "id_jadwal": "197",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "20",
+    "id_pegawai": "160",
+    "id_unit": "1"
+  },
+  {
+    "id_jadwal": "202",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "38",
+    "id_pegawai": "161",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "207",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "26",
+    "id_pegawai": "162",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "212",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "39",
+    "id_pegawai": "163",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "217",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "20",
+    "id_pegawai": "164",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "222",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "34",
+    "id_pegawai": "165",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "227",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "22",
+    "id_pegawai": "166",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "232",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "37",
+    "id_pegawai": "167",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "237",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "28",
+    "id_pegawai": "168",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "242",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "24",
+    "id_pegawai": "169",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "247",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "33",
+    "id_pegawai": "170",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "252",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "27",
+    "id_pegawai": "171",
+    "id_unit": "12"
+  },
+  {
+    "id_jadwal": "257",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "35",
+    "id_pegawai": "172",
+    "id_unit": "13"
+  },
+  {
+    "id_jadwal": "262",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "22",
+    "id_pegawai": "173",
+    "id_unit": "14"
+  },
+  {
+    "id_jadwal": "267",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "21",
+    "id_pegawai": "174",
+    "id_unit": "15"
+  },
+  {
+    "id_jadwal": "272",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "34",
+    "id_pegawai": "175",
+    "id_unit": "16"
+  },
+  {
+    "id_jadwal": "277",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "25",
+    "id_pegawai": "176",
+    "id_unit": "17"
+  },
+  {
+    "id_jadwal": "282",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "20",
+    "id_pegawai": "177",
+    "id_unit": "18"
+  },
+  {
+    "id_jadwal": "287",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "38",
+    "id_pegawai": "178",
+    "id_unit": "19"
+  },
+  {
+    "id_jadwal": "292",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "24",
+    "id_pegawai": "179",
+    "id_unit": "20"
+  },
+  {
+    "id_jadwal": "297",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "25",
+    "id_pegawai": "180",
+    "id_unit": "1"
+  },
+  {
+    "id_jadwal": "302",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "34",
+    "id_pegawai": "181",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "307",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "37",
+    "id_pegawai": "182",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "312",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "22",
+    "id_pegawai": "183",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "317",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "23",
+    "id_pegawai": "184",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "322",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "37",
+    "id_pegawai": "185",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "327",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "37",
+    "id_pegawai": "186",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "332",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "30",
+    "id_pegawai": "187",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "337",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "33",
+    "id_pegawai": "188",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "342",
+    "hari": "Selasa",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "25",
+    "id_pegawai": "189",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "347",
+    "hari": "Selasa",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "35",
+    "id_pegawai": "190",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "3",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "30",
+    "id_pegawai": "121",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "8",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "33",
+    "id_pegawai": "122",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "13",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "27",
+    "id_pegawai": "123",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "18",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "38",
+    "id_pegawai": "124",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "23",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "28",
+    "id_pegawai": "125",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "28",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "29",
+    "id_pegawai": "126",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "33",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "26",
+    "id_pegawai": "127",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "38",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "21",
+    "id_pegawai": "128",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "43",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "38",
+    "id_pegawai": "129",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "48",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "36",
+    "id_pegawai": "130",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "53",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "30",
+    "id_pegawai": "131",
+    "id_unit": "12"
+  },
+  {
+    "id_jadwal": "58",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "35",
+    "id_pegawai": "132",
+    "id_unit": "13"
+  },
+  {
+    "id_jadwal": "63",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "30",
+    "id_pegawai": "133",
+    "id_unit": "14"
+  },
+  {
+    "id_jadwal": "68",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "27",
+    "id_pegawai": "134",
+    "id_unit": "15"
+  },
+  {
+    "id_jadwal": "73",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "39",
+    "id_pegawai": "135",
+    "id_unit": "16"
+  },
+  {
+    "id_jadwal": "78",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "40",
+    "id_pegawai": "136",
+    "id_unit": "17"
+  },
+  {
+    "id_jadwal": "83",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "35",
+    "id_pegawai": "137",
+    "id_unit": "18"
+  },
+  {
+    "id_jadwal": "88",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "22",
+    "id_pegawai": "138",
+    "id_unit": "19"
+  },
+  {
+    "id_jadwal": "93",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "40",
+    "id_pegawai": "139",
+    "id_unit": "20"
+  },
+  {
+    "id_jadwal": "98",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "31",
+    "id_pegawai": "140",
+    "id_unit": "1"
+  },
+  {
+    "id_jadwal": "103",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "28",
+    "id_pegawai": "141",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "108",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "36",
+    "id_pegawai": "142",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "113",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "25",
+    "id_pegawai": "143",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "118",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "25",
+    "id_pegawai": "144",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "123",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "27",
+    "id_pegawai": "145",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "128",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "39",
+    "id_pegawai": "146",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "133",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "31",
+    "id_pegawai": "147",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "138",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "40",
+    "id_pegawai": "148",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "143",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "26",
+    "id_pegawai": "149",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "148",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "33",
+    "id_pegawai": "150",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "153",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "22",
+    "id_pegawai": "151",
+    "id_unit": "12"
+  },
+  {
+    "id_jadwal": "158",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "39",
+    "id_pegawai": "152",
+    "id_unit": "13"
+  },
+  {
+    "id_jadwal": "163",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "23",
+    "id_pegawai": "153",
+    "id_unit": "14"
+  },
+  {
+    "id_jadwal": "168",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "36",
+    "id_pegawai": "154",
+    "id_unit": "15"
+  },
+  {
+    "id_jadwal": "173",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "20",
+    "id_pegawai": "155",
+    "id_unit": "16"
+  },
+  {
+    "id_jadwal": "178",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "34",
+    "id_pegawai": "156",
+    "id_unit": "17"
+  },
+  {
+    "id_jadwal": "183",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "24",
+    "id_pegawai": "157",
+    "id_unit": "18"
+  },
+  {
+    "id_jadwal": "188",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "28",
+    "id_pegawai": "158",
+    "id_unit": "19"
+  },
+  {
+    "id_jadwal": "193",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "35",
+    "id_pegawai": "159",
+    "id_unit": "20"
+  },
+  {
+    "id_jadwal": "198",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "34",
+    "id_pegawai": "160",
+    "id_unit": "1"
+  },
+  {
+    "id_jadwal": "203",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "25",
+    "id_pegawai": "161",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "208",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "40",
+    "id_pegawai": "162",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "213",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "21",
+    "id_pegawai": "163",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "218",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "31",
+    "id_pegawai": "164",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "223",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "21",
+    "id_pegawai": "165",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "228",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "25",
+    "id_pegawai": "166",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "233",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "33",
+    "id_pegawai": "167",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "238",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "22",
+    "id_pegawai": "168",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "243",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "38",
+    "id_pegawai": "169",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "248",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "25",
+    "id_pegawai": "170",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "253",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "38",
+    "id_pegawai": "171",
+    "id_unit": "12"
+  },
+  {
+    "id_jadwal": "258",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "30",
+    "id_pegawai": "172",
+    "id_unit": "13"
+  },
+  {
+    "id_jadwal": "263",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "33",
+    "id_pegawai": "173",
+    "id_unit": "14"
+  },
+  {
+    "id_jadwal": "268",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "28",
+    "id_pegawai": "174",
+    "id_unit": "15"
+  },
+  {
+    "id_jadwal": "273",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "35",
+    "id_pegawai": "175",
+    "id_unit": "16"
+  },
+  {
+    "id_jadwal": "278",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "29",
+    "id_pegawai": "176",
+    "id_unit": "17"
+  },
+  {
+    "id_jadwal": "283",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "22",
+    "id_pegawai": "177",
+    "id_unit": "18"
+  },
+  {
+    "id_jadwal": "288",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "30",
+    "id_pegawai": "178",
+    "id_unit": "19"
+  },
+  {
+    "id_jadwal": "293",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "21",
+    "id_pegawai": "179",
+    "id_unit": "20"
+  },
+  {
+    "id_jadwal": "298",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "39",
+    "id_pegawai": "180",
+    "id_unit": "1"
+  },
+  {
+    "id_jadwal": "303",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "20",
+    "id_pegawai": "181",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "308",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "23",
+    "id_pegawai": "182",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "313",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "28",
+    "id_pegawai": "183",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "318",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "38",
+    "id_pegawai": "184",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "323",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "27",
+    "id_pegawai": "185",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "328",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "21",
+    "id_pegawai": "186",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "333",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "27",
+    "id_pegawai": "187",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "338",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "35",
+    "id_pegawai": "188",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "343",
+    "hari": "Rabu",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "35",
+    "id_pegawai": "189",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "348",
+    "hari": "Rabu",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "27",
+    "id_pegawai": "190",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "4",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "20",
+    "id_pegawai": "121",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "9",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "37",
+    "id_pegawai": "122",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "14",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "31",
+    "id_pegawai": "123",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "19",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "27",
+    "id_pegawai": "124",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "24",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "36",
+    "id_pegawai": "125",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "29",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "39",
+    "id_pegawai": "126",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "34",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "37",
+    "id_pegawai": "127",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "39",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "33",
+    "id_pegawai": "128",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "44",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "31",
+    "id_pegawai": "129",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "49",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "32",
+    "id_pegawai": "130",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "54",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "33",
+    "id_pegawai": "131",
+    "id_unit": "12"
+  },
+  {
+    "id_jadwal": "59",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "27",
+    "id_pegawai": "132",
+    "id_unit": "13"
+  },
+  {
+    "id_jadwal": "64",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "36",
+    "id_pegawai": "133",
+    "id_unit": "14"
+  },
+  {
+    "id_jadwal": "69",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "21",
+    "id_pegawai": "134",
+    "id_unit": "15"
+  },
+  {
+    "id_jadwal": "74",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "23",
+    "id_pegawai": "135",
+    "id_unit": "16"
+  },
+  {
+    "id_jadwal": "79",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "30",
+    "id_pegawai": "136",
+    "id_unit": "17"
+  },
+  {
+    "id_jadwal": "84",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "27",
+    "id_pegawai": "137",
+    "id_unit": "18"
+  },
+  {
+    "id_jadwal": "89",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "22",
+    "id_pegawai": "138",
+    "id_unit": "19"
+  },
+  {
+    "id_jadwal": "94",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "37",
+    "id_pegawai": "139",
+    "id_unit": "20"
+  },
+  {
+    "id_jadwal": "99",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "27",
+    "id_pegawai": "140",
+    "id_unit": "1"
+  },
+  {
+    "id_jadwal": "104",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "23",
+    "id_pegawai": "141",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "109",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "31",
+    "id_pegawai": "142",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "114",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "30",
+    "id_pegawai": "143",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "119",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "29",
+    "id_pegawai": "144",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "124",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "28",
+    "id_pegawai": "145",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "129",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "27",
+    "id_pegawai": "146",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "134",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "26",
+    "id_pegawai": "147",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "139",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "38",
+    "id_pegawai": "148",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "144",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "28",
+    "id_pegawai": "149",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "149",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "20",
+    "id_pegawai": "150",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "154",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "38",
+    "id_pegawai": "151",
+    "id_unit": "12"
+  },
+  {
+    "id_jadwal": "159",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "31",
+    "id_pegawai": "152",
+    "id_unit": "13"
+  },
+  {
+    "id_jadwal": "164",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "29",
+    "id_pegawai": "153",
+    "id_unit": "14"
+  },
+  {
+    "id_jadwal": "169",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "35",
+    "id_pegawai": "154",
+    "id_unit": "15"
+  },
+  {
+    "id_jadwal": "174",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "27",
+    "id_pegawai": "155",
+    "id_unit": "16"
+  },
+  {
+    "id_jadwal": "179",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "36",
+    "id_pegawai": "156",
+    "id_unit": "17"
+  },
+  {
+    "id_jadwal": "184",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "32",
+    "id_pegawai": "157",
+    "id_unit": "18"
+  },
+  {
+    "id_jadwal": "189",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "33",
+    "id_pegawai": "158",
+    "id_unit": "19"
+  },
+  {
+    "id_jadwal": "194",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "28",
+    "id_pegawai": "159",
+    "id_unit": "20"
+  },
+  {
+    "id_jadwal": "199",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "32",
+    "id_pegawai": "160",
+    "id_unit": "1"
+  },
+  {
+    "id_jadwal": "204",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "28",
+    "id_pegawai": "161",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "209",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "29",
+    "id_pegawai": "162",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "214",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "36",
+    "id_pegawai": "163",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "219",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "40",
+    "id_pegawai": "164",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "224",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "21",
+    "id_pegawai": "165",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "229",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "28",
+    "id_pegawai": "166",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "234",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "35",
+    "id_pegawai": "167",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "239",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "31",
+    "id_pegawai": "168",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "244",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "34",
+    "id_pegawai": "169",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "249",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "22",
+    "id_pegawai": "170",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "254",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "27",
+    "id_pegawai": "171",
+    "id_unit": "12"
+  },
+  {
+    "id_jadwal": "259",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "38",
+    "id_pegawai": "172",
+    "id_unit": "13"
+  },
+  {
+    "id_jadwal": "264",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "34",
+    "id_pegawai": "173",
+    "id_unit": "14"
+  },
+  {
+    "id_jadwal": "269",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "29",
+    "id_pegawai": "174",
+    "id_unit": "15"
+  },
+  {
+    "id_jadwal": "274",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "36",
+    "id_pegawai": "175",
+    "id_unit": "16"
+  },
+  {
+    "id_jadwal": "279",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "35",
+    "id_pegawai": "176",
+    "id_unit": "17"
+  },
+  {
+    "id_jadwal": "284",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "20",
+    "id_pegawai": "177",
+    "id_unit": "18"
+  },
+  {
+    "id_jadwal": "289",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "37",
+    "id_pegawai": "178",
+    "id_unit": "19"
+  },
+  {
+    "id_jadwal": "294",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "37",
+    "id_pegawai": "179",
+    "id_unit": "20"
+  },
+  {
+    "id_jadwal": "299",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "28",
+    "id_pegawai": "180",
+    "id_unit": "1"
+  },
+  {
+    "id_jadwal": "304",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "39",
+    "id_pegawai": "181",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "309",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "30",
+    "id_pegawai": "182",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "314",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "33",
+    "id_pegawai": "183",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "319",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "27",
+    "id_pegawai": "184",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "324",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "29",
+    "id_pegawai": "185",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "329",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "23",
+    "id_pegawai": "186",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "334",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "39",
+    "id_pegawai": "187",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "339",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "40",
+    "id_pegawai": "188",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "344",
+    "hari": "Kamis",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "30",
+    "id_pegawai": "189",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "349",
+    "hari": "Kamis",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "24",
+    "id_pegawai": "190",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "5",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "20",
+    "id_pegawai": "121",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "10",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "28",
+    "id_pegawai": "122",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "15",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "29",
+    "id_pegawai": "123",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "20",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "28",
+    "id_pegawai": "124",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "25",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "23",
+    "id_pegawai": "125",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "30",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "23",
+    "id_pegawai": "126",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "35",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "20",
+    "id_pegawai": "127",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "40",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "23",
+    "id_pegawai": "128",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "45",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "37",
+    "id_pegawai": "129",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "50",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "38",
+    "id_pegawai": "130",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "55",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "27",
+    "id_pegawai": "131",
+    "id_unit": "12"
+  },
+  {
+    "id_jadwal": "60",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "40",
+    "id_pegawai": "132",
+    "id_unit": "13"
+  },
+  {
+    "id_jadwal": "65",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "38",
+    "id_pegawai": "133",
+    "id_unit": "14"
+  },
+  {
+    "id_jadwal": "70",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "29",
+    "id_pegawai": "134",
+    "id_unit": "15"
+  },
+  {
+    "id_jadwal": "75",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "25",
+    "id_pegawai": "135",
+    "id_unit": "16"
+  },
+  {
+    "id_jadwal": "80",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "26",
+    "id_pegawai": "136",
+    "id_unit": "17"
+  },
+  {
+    "id_jadwal": "85",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "30",
+    "id_pegawai": "137",
+    "id_unit": "18"
+  },
+  {
+    "id_jadwal": "90",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "26",
+    "id_pegawai": "138",
+    "id_unit": "19"
+  },
+  {
+    "id_jadwal": "95",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "35",
+    "id_pegawai": "139",
+    "id_unit": "20"
+  },
+  {
+    "id_jadwal": "100",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "33",
+    "id_pegawai": "140",
+    "id_unit": "1"
+  },
+  {
+    "id_jadwal": "105",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "32",
+    "id_pegawai": "141",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "110",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "36",
+    "id_pegawai": "142",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "115",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "24",
+    "id_pegawai": "143",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "120",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "26",
+    "id_pegawai": "144",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "125",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "30",
+    "id_pegawai": "145",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "130",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "33",
+    "id_pegawai": "146",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "135",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "36",
+    "id_pegawai": "147",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "140",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "27",
+    "id_pegawai": "148",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "145",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "26",
+    "id_pegawai": "149",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "150",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "36",
+    "id_pegawai": "150",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "155",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "30",
+    "id_pegawai": "151",
+    "id_unit": "12"
+  },
+  {
+    "id_jadwal": "160",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "21",
+    "id_pegawai": "152",
+    "id_unit": "13"
+  },
+  {
+    "id_jadwal": "165",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "32",
+    "id_pegawai": "153",
+    "id_unit": "14"
+  },
+  {
+    "id_jadwal": "170",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "26",
+    "id_pegawai": "154",
+    "id_unit": "15"
+  },
+  {
+    "id_jadwal": "175",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "31",
+    "id_pegawai": "155",
+    "id_unit": "16"
+  },
+  {
+    "id_jadwal": "180",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "25",
+    "id_pegawai": "156",
+    "id_unit": "17"
+  },
+  {
+    "id_jadwal": "185",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "37",
+    "id_pegawai": "157",
+    "id_unit": "18"
+  },
+  {
+    "id_jadwal": "190",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "32",
+    "id_pegawai": "158",
+    "id_unit": "19"
+  },
+  {
+    "id_jadwal": "195",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "21",
+    "id_pegawai": "159",
+    "id_unit": "20"
+  },
+  {
+    "id_jadwal": "200",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "38",
+    "id_pegawai": "160",
+    "id_unit": "1"
+  },
+  {
+    "id_jadwal": "205",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "26",
+    "id_pegawai": "161",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "210",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "38",
+    "id_pegawai": "162",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "215",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "35",
+    "id_pegawai": "163",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "220",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "37",
+    "id_pegawai": "164",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "225",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "38",
+    "id_pegawai": "165",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "230",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "38",
+    "id_pegawai": "166",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "235",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "25",
+    "id_pegawai": "167",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "240",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "39",
+    "id_pegawai": "168",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "245",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "25",
+    "id_pegawai": "169",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "250",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "32",
+    "id_pegawai": "170",
+    "id_unit": "11"
+  },
+  {
+    "id_jadwal": "255",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "26",
+    "id_pegawai": "171",
+    "id_unit": "12"
+  },
+  {
+    "id_jadwal": "260",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "27",
+    "id_pegawai": "172",
+    "id_unit": "13"
+  },
+  {
+    "id_jadwal": "265",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "35",
+    "id_pegawai": "173",
+    "id_unit": "14"
+  },
+  {
+    "id_jadwal": "270",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "30",
+    "id_pegawai": "174",
+    "id_unit": "15"
+  },
+  {
+    "id_jadwal": "275",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "35",
+    "id_pegawai": "175",
+    "id_unit": "16"
+  },
+  {
+    "id_jadwal": "280",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "31",
+    "id_pegawai": "176",
+    "id_unit": "17"
+  },
+  {
+    "id_jadwal": "285",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "39",
+    "id_pegawai": "177",
+    "id_unit": "18"
+  },
+  {
+    "id_jadwal": "290",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "36",
+    "id_pegawai": "178",
+    "id_unit": "19"
+  },
+  {
+    "id_jadwal": "295",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "28",
+    "id_pegawai": "179",
+    "id_unit": "20"
+  },
+  {
+    "id_jadwal": "300",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "27",
+    "id_pegawai": "180",
+    "id_unit": "1"
+  },
+  {
+    "id_jadwal": "305",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "20",
+    "id_pegawai": "181",
+    "id_unit": "2"
+  },
+  {
+    "id_jadwal": "310",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "25",
+    "id_pegawai": "182",
+    "id_unit": "3"
+  },
+  {
+    "id_jadwal": "315",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "35",
+    "id_pegawai": "183",
+    "id_unit": "4"
+  },
+  {
+    "id_jadwal": "320",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "37",
+    "id_pegawai": "184",
+    "id_unit": "5"
+  },
+  {
+    "id_jadwal": "325",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "25",
+    "id_pegawai": "185",
+    "id_unit": "6"
+  },
+  {
+    "id_jadwal": "330",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "30",
+    "id_pegawai": "186",
+    "id_unit": "7"
+  },
+  {
+    "id_jadwal": "335",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "25",
+    "id_pegawai": "187",
+    "id_unit": "8"
+  },
+  {
+    "id_jadwal": "340",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "32",
+    "id_pegawai": "188",
+    "id_unit": "9"
+  },
+  {
+    "id_jadwal": "345",
+    "hari": "Jumat",
+    "jam_mulai": "13:00:00",
+    "jam_selesai": "16:00:00",
+    "kuota": "23",
+    "id_pegawai": "189",
+    "id_unit": "10"
+  },
+  {
+    "id_jadwal": "350",
+    "hari": "Jumat",
+    "jam_mulai": "08:00:00",
+    "jam_selesai": "12:00:00",
+    "kuota": "27",
+    "id_pegawai": "190",
+    "id_unit": "11"
+  }
+]

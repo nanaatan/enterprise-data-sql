@@ -1,0 +1,202 @@
+[
+  {
+    "id_unit": "1",
+    "ruang_unit": "Poli Penyakit Dalam",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "2",
+    "ruang_unit": "Poli Anak",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "3",
+    "ruang_unit": "Poli Obstetri dan Ginekologi",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "4",
+    "ruang_unit": "Poli Bedah Umum",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "5",
+    "ruang_unit": "Poli Neurologi",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "6",
+    "ruang_unit": "Poli Kardiologi",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "7",
+    "ruang_unit": "Poli Pulmonologi",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "8",
+    "ruang_unit": "Poli Mata",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "9",
+    "ruang_unit": "Poli THT",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "10",
+    "ruang_unit": "Poli Kulit dan Kelamin",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "11",
+    "ruang_unit": "Poli Psikiatri",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "12",
+    "ruang_unit": "Poli Gigi dan Mulut",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "13",
+    "ruang_unit": "Poli Ortopedi",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "14",
+    "ruang_unit": "Poli Urologi",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "15",
+    "ruang_unit": "Poli Rehabilitasi Medik",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "16",
+    "ruang_unit": "Poli Anestesiologi",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "17",
+    "ruang_unit": "Poli Radiologi",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "18",
+    "ruang_unit": "Poli Patologi Klinik",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "19",
+    "ruang_unit": "Poli Umum",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "20",
+    "ruang_unit": "Poli Geriatri",
+    "departemen": "Rawat Jalan"
+  },
+  {
+    "id_unit": "21",
+    "ruang_unit": "Instalasi Gawat Darurat",
+    "departemen": "Gawat Darurat"
+  },
+  {
+    "id_unit": "22",
+    "ruang_unit": "Ruang Melati",
+    "departemen": "Rawat Inap"
+  },
+  {
+    "id_unit": "23",
+    "ruang_unit": "Ruang Mawar",
+    "departemen": "Rawat Inap"
+  },
+  {
+    "id_unit": "24",
+    "ruang_unit": "Ruang Anggrek",
+    "departemen": "Rawat Inap"
+  },
+  {
+    "id_unit": "25",
+    "ruang_unit": "Ruang Dahlia",
+    "departemen": "Rawat Inap"
+  },
+  {
+    "id_unit": "26",
+    "ruang_unit": "Ruang Kenanga",
+    "departemen": "Rawat Inap"
+  },
+  {
+    "id_unit": "27",
+    "ruang_unit": "Ruang Cempaka",
+    "departemen": "Rawat Inap"
+  },
+  {
+    "id_unit": "28",
+    "ruang_unit": "Ruang Flamboyan",
+    "departemen": "Rawat Inap"
+  },
+  {
+    "id_unit": "29",
+    "ruang_unit": "Ruang Teratai",
+    "departemen": "Rawat Inap"
+  },
+  {
+    "id_unit": "30",
+    "ruang_unit": "Ruang Seruni",
+    "departemen": "Rawat Inap"
+  },
+  {
+    "id_unit": "31",
+    "ruang_unit": "Ruang Bougenville",
+    "departemen": "Rawat Inap"
+  },
+  {
+    "id_unit": "32",
+    "ruang_unit": "Laboratorium Patologi Klinik",
+    "departemen": "Penunjang Medis"
+  },
+  {
+    "id_unit": "33",
+    "ruang_unit": "Laboratorium Patologi Anatomi",
+    "departemen": "Penunjang Medis"
+  },
+  {
+    "id_unit": "34",
+    "ruang_unit": "Instalasi Radiologi",
+    "departemen": "Penunjang Medis"
+  },
+  {
+    "id_unit": "35",
+    "ruang_unit": "Farmasi Rawat Jalan",
+    "departemen": "Farmasi"
+  },
+  {
+    "id_unit": "36",
+    "ruang_unit": "Farmasi Rawat Inap",
+    "departemen": "Farmasi"
+  },
+  {
+    "id_unit": "37",
+    "ruang_unit": "Instalasi Gizi",
+    "departemen": "Gizi"
+  },
+  {
+    "id_unit": "38",
+    "ruang_unit": "Instalasi Bedah Sentral",
+    "departemen": "Bedah"
+  },
+  {
+    "id_unit": "39",
+    "ruang_unit": "ICU",
+    "departemen": "Intensif"
+  },
+  {
+    "id_unit": "40",
+    "ruang_unit": "Unit Hemodialisa",
+    "departemen": "Rawat Jalan"
+  }
+]

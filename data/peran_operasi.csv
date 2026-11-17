@@ -1,0 +1,1093 @@
+id_pelayanan_medis,id_pegawai,peran
+58049,134,Operator
+58050,152,Operator
+58051,182,Operator
+58052,128,Operator
+58053,121,Operator
+58054,189,Operator
+58055,179,Operator
+58056,177,Operator
+58057,156,Operator
+58058,128,Operator
+58059,130,Operator
+58060,135,Operator
+58061,157,Operator
+58062,128,Operator
+58063,153,Operator
+58064,147,Operator
+58065,147,Operator
+58066,159,Operator
+58067,155,Operator
+58068,148,Operator
+58069,181,Operator
+58070,172,Operator
+58071,141,Operator
+58072,184,Operator
+58073,171,Operator
+58074,159,Operator
+58075,147,Operator
+58076,146,Operator
+58077,150,Operator
+58078,130,Operator
+58079,132,Operator
+58080,183,Operator
+58081,130,Operator
+58082,132,Operator
+58083,121,Operator
+58084,185,Operator
+58085,170,Operator
+58086,169,Operator
+58087,157,Operator
+58088,175,Operator
+58089,186,Operator
+58090,121,Operator
+58091,150,Operator
+58092,176,Operator
+58093,157,Operator
+58094,121,Operator
+58095,139,Operator
+58096,159,Operator
+58097,145,Operator
+58098,140,Operator
+58099,140,Operator
+58100,188,Operator
+58101,146,Operator
+58102,150,Operator
+58103,127,Operator
+58104,146,Operator
+58105,131,Operator
+58106,160,Operator
+58107,167,Operator
+58108,136,Operator
+58109,171,Operator
+58110,179,Operator
+58111,154,Operator
+58112,130,Operator
+58113,172,Operator
+58114,142,Operator
+58115,187,Operator
+58116,121,Operator
+58117,153,Operator
+58118,159,Operator
+58119,147,Operator
+58120,185,Operator
+58121,124,Operator
+58122,154,Operator
+58123,142,Operator
+58124,138,Operator
+58125,188,Operator
+58126,128,Operator
+58127,124,Operator
+58128,146,Operator
+58129,124,Operator
+58130,181,Operator
+58131,123,Operator
+58132,167,Operator
+58133,141,Operator
+58134,160,Operator
+58135,142,Operator
+58136,150,Operator
+58137,127,Operator
+58138,167,Operator
+58139,174,Operator
+58140,178,Operator
+58141,164,Operator
+58142,150,Operator
+58143,139,Operator
+58144,183,Operator
+58145,168,Operator
+58146,124,Operator
+58147,129,Operator
+58148,131,Operator
+58149,156,Operator
+58150,166,Operator
+58151,176,Operator
+58152,155,Operator
+58153,129,Operator
+58154,165,Operator
+58155,150,Operator
+58156,142,Operator
+58157,157,Operator
+58158,138,Operator
+58159,136,Operator
+58160,125,Operator
+58161,151,Operator
+58162,149,Operator
+58163,164,Operator
+58164,152,Operator
+58165,189,Operator
+58166,126,Operator
+58167,142,Operator
+58168,160,Operator
+58169,160,Operator
+58170,184,Operator
+58171,140,Operator
+58172,125,Operator
+58173,146,Operator
+58174,152,Operator
+58175,180,Operator
+58176,151,Operator
+58177,135,Operator
+58178,188,Operator
+58179,155,Operator
+58180,184,Operator
+58181,139,Operator
+58182,180,Operator
+58183,162,Operator
+58184,126,Operator
+58185,147,Operator
+58186,161,Operator
+58187,163,Operator
+58188,188,Operator
+58189,125,Operator
+58190,126,Operator
+58191,143,Operator
+58192,177,Operator
+58193,131,Operator
+58194,164,Operator
+58195,133,Operator
+58196,157,Operator
+58197,179,Operator
+58198,151,Operator
+58199,139,Operator
+58200,138,Operator
+58201,155,Operator
+58202,161,Operator
+58203,147,Operator
+58204,161,Operator
+58205,126,Operator
+58206,171,Operator
+58207,128,Operator
+58208,153,Operator
+58209,176,Operator
+58210,141,Operator
+58211,126,Operator
+58212,122,Operator
+58213,171,Operator
+58214,154,Operator
+58215,169,Operator
+58216,146,Operator
+58217,123,Operator
+58218,148,Operator
+58219,186,Operator
+58220,138,Operator
+58221,126,Operator
+58222,175,Operator
+58223,174,Operator
+58224,121,Operator
+58225,164,Operator
+58226,133,Operator
+58227,125,Operator
+58228,151,Operator
+58229,188,Operator
+58230,152,Operator
+58231,181,Operator
+58232,139,Operator
+58233,163,Operator
+58234,189,Operator
+58235,122,Operator
+58236,186,Operator
+58237,189,Operator
+58238,140,Operator
+58239,142,Operator
+58240,159,Operator
+58241,157,Operator
+58242,127,Operator
+58243,164,Operator
+58244,150,Operator
+58245,159,Operator
+58246,157,Operator
+58247,169,Operator
+58248,121,Operator
+58249,175,Operator
+58250,171,Operator
+58251,128,Operator
+58252,125,Operator
+58253,130,Operator
+58254,167,Operator
+58255,174,Operator
+58256,166,Operator
+58257,184,Operator
+58258,188,Operator
+58259,126,Operator
+58260,129,Operator
+58261,148,Operator
+58262,161,Operator
+58263,178,Operator
+58264,133,Operator
+58265,126,Operator
+58266,125,Operator
+58267,176,Operator
+58268,144,Operator
+58269,174,Operator
+58270,148,Operator
+58271,166,Operator
+58272,128,Operator
+58273,121,Operator
+58274,131,Operator
+58275,147,Operator
+58276,157,Operator
+58277,126,Operator
+58278,172,Operator
+58279,158,Operator
+58280,153,Operator
+58281,130,Operator
+58282,163,Operator
+58283,153,Operator
+58284,182,Operator
+58285,128,Operator
+58286,170,Operator
+58287,139,Operator
+58288,183,Operator
+58289,167,Operator
+58290,159,Operator
+58291,145,Operator
+58292,121,Operator
+58293,177,Operator
+58294,158,Operator
+58295,175,Operator
+58296,188,Operator
+58297,169,Operator
+58298,163,Operator
+58299,138,Operator
+58300,155,Operator
+58301,150,Operator
+58302,156,Operator
+58303,169,Operator
+58304,159,Operator
+58305,186,Operator
+58306,141,Operator
+58307,122,Operator
+58308,153,Operator
+58309,175,Operator
+58310,158,Operator
+58311,127,Operator
+58312,164,Operator
+58313,128,Operator
+58314,130,Operator
+58315,167,Operator
+58316,167,Operator
+58317,154,Operator
+58318,136,Operator
+58319,130,Operator
+58320,164,Operator
+58321,152,Operator
+58049,157,Asisten
+58050,175,Asisten
+58051,135,Asisten
+58052,151,Asisten
+58053,144,Asisten
+58054,142,Asisten
+58055,132,Asisten
+58056,130,Asisten
+58057,179,Asisten
+58058,151,Asisten
+58059,153,Asisten
+58060,158,Asisten
+58061,180,Asisten
+58062,151,Asisten
+58063,176,Asisten
+58064,170,Asisten
+58065,170,Asisten
+58066,182,Asisten
+58067,178,Asisten
+58068,171,Asisten
+58069,134,Asisten
+58070,125,Asisten
+58071,164,Asisten
+58072,137,Asisten
+58073,124,Asisten
+58074,182,Asisten
+58075,170,Asisten
+58076,169,Asisten
+58077,173,Asisten
+58078,153,Asisten
+58079,155,Asisten
+58080,136,Asisten
+58081,153,Asisten
+58082,155,Asisten
+58083,144,Asisten
+58084,138,Asisten
+58085,123,Asisten
+58086,122,Asisten
+58087,180,Asisten
+58088,128,Asisten
+58089,139,Asisten
+58090,144,Asisten
+58091,173,Asisten
+58092,129,Asisten
+58093,180,Asisten
+58094,144,Asisten
+58095,162,Asisten
+58096,182,Asisten
+58097,168,Asisten
+58098,163,Asisten
+58099,163,Asisten
+58100,141,Asisten
+58101,169,Asisten
+58102,173,Asisten
+58103,150,Asisten
+58104,169,Asisten
+58105,154,Asisten
+58106,183,Asisten
+58107,190,Asisten
+58108,159,Asisten
+58109,124,Asisten
+58110,132,Asisten
+58111,177,Asisten
+58112,153,Asisten
+58113,125,Asisten
+58114,165,Asisten
+58115,140,Asisten
+58116,144,Asisten
+58117,176,Asisten
+58118,182,Asisten
+58119,170,Asisten
+58120,138,Asisten
+58121,147,Asisten
+58122,177,Asisten
+58123,165,Asisten
+58124,161,Asisten
+58125,141,Asisten
+58126,151,Asisten
+58127,147,Asisten
+58128,169,Asisten
+58129,147,Asisten
+58130,134,Asisten
+58131,146,Asisten
+58132,190,Asisten
+58133,164,Asisten
+58134,183,Asisten
+58135,165,Asisten
+58136,173,Asisten
+58137,150,Asisten
+58138,190,Asisten
+58139,127,Asisten
+58140,131,Asisten
+58141,187,Asisten
+58142,173,Asisten
+58143,162,Asisten
+58144,136,Asisten
+58145,121,Asisten
+58146,147,Asisten
+58147,152,Asisten
+58148,154,Asisten
+58149,179,Asisten
+58150,189,Asisten
+58151,129,Asisten
+58152,178,Asisten
+58153,152,Asisten
+58154,188,Asisten
+58155,173,Asisten
+58156,165,Asisten
+58157,180,Asisten
+58158,161,Asisten
+58159,159,Asisten
+58160,148,Asisten
+58161,174,Asisten
+58162,172,Asisten
+58163,187,Asisten
+58164,175,Asisten
+58165,142,Asisten
+58166,149,Asisten
+58167,165,Asisten
+58168,183,Asisten
+58169,183,Asisten
+58170,137,Asisten
+58171,163,Asisten
+58172,148,Asisten
+58173,169,Asisten
+58174,175,Asisten
+58175,133,Asisten
+58176,174,Asisten
+58177,158,Asisten
+58178,141,Asisten
+58179,178,Asisten
+58180,137,Asisten
+58181,162,Asisten
+58182,133,Asisten
+58183,185,Asisten
+58184,149,Asisten
+58185,170,Asisten
+58186,184,Asisten
+58187,186,Asisten
+58188,141,Asisten
+58189,148,Asisten
+58190,149,Asisten
+58191,166,Asisten
+58192,130,Asisten
+58193,154,Asisten
+58194,187,Asisten
+58195,156,Asisten
+58196,180,Asisten
+58197,132,Asisten
+58198,174,Asisten
+58199,162,Asisten
+58200,161,Asisten
+58201,178,Asisten
+58202,184,Asisten
+58203,170,Asisten
+58204,184,Asisten
+58205,149,Asisten
+58206,124,Asisten
+58207,151,Asisten
+58208,176,Asisten
+58209,129,Asisten
+58210,164,Asisten
+58211,149,Asisten
+58212,145,Asisten
+58213,124,Asisten
+58214,177,Asisten
+58215,122,Asisten
+58216,169,Asisten
+58217,146,Asisten
+58218,171,Asisten
+58219,139,Asisten
+58220,161,Asisten
+58221,149,Asisten
+58222,128,Asisten
+58223,127,Asisten
+58224,144,Asisten
+58225,187,Asisten
+58226,156,Asisten
+58227,148,Asisten
+58228,174,Asisten
+58229,141,Asisten
+58230,175,Asisten
+58231,134,Asisten
+58232,162,Asisten
+58233,186,Asisten
+58234,142,Asisten
+58235,145,Asisten
+58236,139,Asisten
+58237,142,Asisten
+58238,163,Asisten
+58239,165,Asisten
+58240,182,Asisten
+58241,180,Asisten
+58242,150,Asisten
+58243,187,Asisten
+58244,173,Asisten
+58245,182,Asisten
+58246,180,Asisten
+58247,122,Asisten
+58248,144,Asisten
+58249,128,Asisten
+58250,124,Asisten
+58251,151,Asisten
+58252,148,Asisten
+58253,153,Asisten
+58254,190,Asisten
+58255,127,Asisten
+58256,189,Asisten
+58257,137,Asisten
+58258,141,Asisten
+58259,149,Asisten
+58260,152,Asisten
+58261,171,Asisten
+58262,184,Asisten
+58263,131,Asisten
+58264,156,Asisten
+58265,149,Asisten
+58266,148,Asisten
+58267,129,Asisten
+58268,167,Asisten
+58269,127,Asisten
+58270,171,Asisten
+58271,189,Asisten
+58272,151,Asisten
+58273,144,Asisten
+58274,154,Asisten
+58275,170,Asisten
+58276,180,Asisten
+58277,149,Asisten
+58278,125,Asisten
+58279,181,Asisten
+58280,176,Asisten
+58281,153,Asisten
+58282,186,Asisten
+58283,176,Asisten
+58284,135,Asisten
+58285,151,Asisten
+58286,123,Asisten
+58287,162,Asisten
+58288,136,Asisten
+58289,190,Asisten
+58290,182,Asisten
+58291,168,Asisten
+58292,144,Asisten
+58293,130,Asisten
+58294,181,Asisten
+58295,128,Asisten
+58296,141,Asisten
+58297,122,Asisten
+58298,186,Asisten
+58299,161,Asisten
+58300,178,Asisten
+58301,173,Asisten
+58302,179,Asisten
+58303,122,Asisten
+58304,182,Asisten
+58305,139,Asisten
+58306,164,Asisten
+58307,145,Asisten
+58308,176,Asisten
+58309,128,Asisten
+58310,181,Asisten
+58311,150,Asisten
+58312,187,Asisten
+58313,151,Asisten
+58314,153,Asisten
+58315,190,Asisten
+58316,190,Asisten
+58317,177,Asisten
+58318,159,Asisten
+58319,153,Asisten
+58320,187,Asisten
+58321,175,Asisten
+58049,181,Anestesi
+58050,129,Anestesi
+58051,159,Anestesi
+58052,175,Anestesi
+58053,168,Anestesi
+58054,166,Anestesi
+58055,156,Anestesi
+58056,154,Anestesi
+58057,133,Anestesi
+58058,175,Anestesi
+58059,177,Anestesi
+58060,182,Anestesi
+58061,134,Anestesi
+58062,175,Anestesi
+58063,130,Anestesi
+58064,124,Anestesi
+58065,124,Anestesi
+58066,136,Anestesi
+58067,132,Anestesi
+58068,125,Anestesi
+58069,158,Anestesi
+58070,149,Anestesi
+58071,188,Anestesi
+58072,161,Anestesi
+58073,148,Anestesi
+58074,136,Anestesi
+58075,124,Anestesi
+58076,123,Anestesi
+58077,127,Anestesi
+58078,177,Anestesi
+58079,179,Anestesi
+58080,160,Anestesi
+58081,177,Anestesi
+58082,179,Anestesi
+58083,168,Anestesi
+58084,162,Anestesi
+58085,147,Anestesi
+58086,146,Anestesi
+58087,134,Anestesi
+58088,152,Anestesi
+58089,163,Anestesi
+58090,168,Anestesi
+58091,127,Anestesi
+58092,153,Anestesi
+58093,134,Anestesi
+58094,168,Anestesi
+58095,186,Anestesi
+58096,136,Anestesi
+58097,122,Anestesi
+58098,187,Anestesi
+58099,187,Anestesi
+58100,165,Anestesi
+58101,123,Anestesi
+58102,127,Anestesi
+58103,174,Anestesi
+58104,123,Anestesi
+58105,178,Anestesi
+58106,137,Anestesi
+58107,144,Anestesi
+58108,183,Anestesi
+58109,148,Anestesi
+58110,156,Anestesi
+58111,131,Anestesi
+58112,177,Anestesi
+58113,149,Anestesi
+58114,189,Anestesi
+58115,164,Anestesi
+58116,168,Anestesi
+58117,130,Anestesi
+58118,136,Anestesi
+58119,124,Anestesi
+58120,162,Anestesi
+58121,171,Anestesi
+58122,131,Anestesi
+58123,189,Anestesi
+58124,185,Anestesi
+58125,165,Anestesi
+58126,175,Anestesi
+58127,171,Anestesi
+58128,123,Anestesi
+58129,171,Anestesi
+58130,158,Anestesi
+58131,170,Anestesi
+58132,144,Anestesi
+58133,188,Anestesi
+58134,137,Anestesi
+58135,189,Anestesi
+58136,127,Anestesi
+58137,174,Anestesi
+58138,144,Anestesi
+58139,151,Anestesi
+58140,155,Anestesi
+58141,141,Anestesi
+58142,127,Anestesi
+58143,186,Anestesi
+58144,160,Anestesi
+58145,145,Anestesi
+58146,171,Anestesi
+58147,176,Anestesi
+58148,178,Anestesi
+58149,133,Anestesi
+58150,143,Anestesi
+58151,153,Anestesi
+58152,132,Anestesi
+58153,176,Anestesi
+58154,142,Anestesi
+58155,127,Anestesi
+58156,189,Anestesi
+58157,134,Anestesi
+58158,185,Anestesi
+58159,183,Anestesi
+58160,172,Anestesi
+58161,128,Anestesi
+58162,126,Anestesi
+58163,141,Anestesi
+58164,129,Anestesi
+58165,166,Anestesi
+58166,173,Anestesi
+58167,189,Anestesi
+58168,137,Anestesi
+58169,137,Anestesi
+58170,161,Anestesi
+58171,187,Anestesi
+58172,172,Anestesi
+58173,123,Anestesi
+58174,129,Anestesi
+58175,157,Anestesi
+58176,128,Anestesi
+58177,182,Anestesi
+58178,165,Anestesi
+58179,132,Anestesi
+58180,161,Anestesi
+58181,186,Anestesi
+58182,157,Anestesi
+58183,139,Anestesi
+58184,173,Anestesi
+58185,124,Anestesi
+58186,138,Anestesi
+58187,140,Anestesi
+58188,165,Anestesi
+58189,172,Anestesi
+58190,173,Anestesi
+58191,190,Anestesi
+58192,154,Anestesi
+58193,178,Anestesi
+58194,141,Anestesi
+58195,180,Anestesi
+58196,134,Anestesi
+58197,156,Anestesi
+58198,128,Anestesi
+58199,186,Anestesi
+58200,185,Anestesi
+58201,132,Anestesi
+58202,138,Anestesi
+58203,124,Anestesi
+58204,138,Anestesi
+58205,173,Anestesi
+58206,148,Anestesi
+58207,175,Anestesi
+58208,130,Anestesi
+58209,153,Anestesi
+58210,188,Anestesi
+58211,173,Anestesi
+58212,169,Anestesi
+58213,148,Anestesi
+58214,131,Anestesi
+58215,146,Anestesi
+58216,123,Anestesi
+58217,170,Anestesi
+58218,125,Anestesi
+58219,163,Anestesi
+58220,185,Anestesi
+58221,173,Anestesi
+58222,152,Anestesi
+58223,151,Anestesi
+58224,168,Anestesi
+58225,141,Anestesi
+58226,180,Anestesi
+58227,172,Anestesi
+58228,128,Anestesi
+58229,165,Anestesi
+58230,129,Anestesi
+58231,158,Anestesi
+58232,186,Anestesi
+58233,140,Anestesi
+58234,166,Anestesi
+58235,169,Anestesi
+58236,163,Anestesi
+58237,166,Anestesi
+58238,187,Anestesi
+58239,189,Anestesi
+58240,136,Anestesi
+58241,134,Anestesi
+58242,174,Anestesi
+58243,141,Anestesi
+58244,127,Anestesi
+58245,136,Anestesi
+58246,134,Anestesi
+58247,146,Anestesi
+58248,168,Anestesi
+58249,152,Anestesi
+58250,148,Anestesi
+58251,175,Anestesi
+58252,172,Anestesi
+58253,177,Anestesi
+58254,144,Anestesi
+58255,151,Anestesi
+58256,143,Anestesi
+58257,161,Anestesi
+58258,165,Anestesi
+58259,173,Anestesi
+58260,176,Anestesi
+58261,125,Anestesi
+58262,138,Anestesi
+58263,155,Anestesi
+58264,180,Anestesi
+58265,173,Anestesi
+58266,172,Anestesi
+58267,153,Anestesi
+58268,121,Anestesi
+58269,151,Anestesi
+58270,125,Anestesi
+58271,143,Anestesi
+58272,175,Anestesi
+58273,168,Anestesi
+58274,178,Anestesi
+58275,124,Anestesi
+58276,134,Anestesi
+58277,173,Anestesi
+58278,149,Anestesi
+58279,135,Anestesi
+58280,130,Anestesi
+58281,177,Anestesi
+58282,140,Anestesi
+58283,130,Anestesi
+58284,159,Anestesi
+58285,175,Anestesi
+58286,147,Anestesi
+58287,186,Anestesi
+58288,160,Anestesi
+58289,144,Anestesi
+58290,136,Anestesi
+58291,122,Anestesi
+58292,168,Anestesi
+58293,154,Anestesi
+58294,135,Anestesi
+58295,152,Anestesi
+58296,165,Anestesi
+58297,146,Anestesi
+58298,140,Anestesi
+58299,185,Anestesi
+58300,132,Anestesi
+58301,127,Anestesi
+58302,133,Anestesi
+58303,146,Anestesi
+58304,136,Anestesi
+58305,163,Anestesi
+58306,188,Anestesi
+58307,169,Anestesi
+58308,130,Anestesi
+58309,152,Anestesi
+58310,135,Anestesi
+58311,174,Anestesi
+58312,141,Anestesi
+58313,175,Anestesi
+58314,177,Anestesi
+58315,144,Anestesi
+58316,144,Anestesi
+58317,131,Anestesi
+58318,183,Anestesi
+58319,177,Anestesi
+58320,141,Anestesi
+58321,129,Anestesi
+58049,287,Perawat Instrumen
+58050,205,Perawat Instrumen
+58051,342,Perawat Instrumen
+58052,260,Perawat Instrumen
+58053,274,Perawat Instrumen
+58054,231,Perawat Instrumen
+58055,236,Perawat Instrumen
+58056,345,Perawat Instrumen
+58057,281,Perawat Instrumen
+58058,286,Perawat Instrumen
+58059,257,Perawat Instrumen
+58060,284,Perawat Instrumen
+58061,243,Perawat Instrumen
+58062,271,Perawat Instrumen
+58063,230,Perawat Instrumen
+58064,248,Perawat Instrumen
+58065,284,Perawat Instrumen
+58066,319,Perawat Instrumen
+58067,258,Perawat Instrumen
+58068,243,Perawat Instrumen
+58069,321,Perawat Instrumen
+58070,251,Perawat Instrumen
+58071,195,Perawat Instrumen
+58072,242,Perawat Instrumen
+58073,339,Perawat Instrumen
+58074,333,Perawat Instrumen
+58075,251,Perawat Instrumen
+58076,224,Perawat Instrumen
+58077,312,Perawat Instrumen
+58078,235,Perawat Instrumen
+58079,235,Perawat Instrumen
+58080,287,Perawat Instrumen
+58081,346,Perawat Instrumen
+58082,306,Perawat Instrumen
+58083,327,Perawat Instrumen
+58084,198,Perawat Instrumen
+58085,280,Perawat Instrumen
+58086,236,Perawat Instrumen
+58087,200,Perawat Instrumen
+58088,257,Perawat Instrumen
+58089,313,Perawat Instrumen
+58090,214,Perawat Instrumen
+58091,202,Perawat Instrumen
+58092,311,Perawat Instrumen
+58093,308,Perawat Instrumen
+58094,216,Perawat Instrumen
+58095,306,Perawat Instrumen
+58096,221,Perawat Instrumen
+58097,239,Perawat Instrumen
+58098,337,Perawat Instrumen
+58099,215,Perawat Instrumen
+58100,240,Perawat Instrumen
+58101,285,Perawat Instrumen
+58102,198,Perawat Instrumen
+58103,216,Perawat Instrumen
+58104,191,Perawat Instrumen
+58105,264,Perawat Instrumen
+58106,242,Perawat Instrumen
+58107,272,Perawat Instrumen
+58108,303,Perawat Instrumen
+58109,202,Perawat Instrumen
+58110,240,Perawat Instrumen
+58111,313,Perawat Instrumen
+58112,245,Perawat Instrumen
+58113,215,Perawat Instrumen
+58114,305,Perawat Instrumen
+58115,289,Perawat Instrumen
+58116,264,Perawat Instrumen
+58117,288,Perawat Instrumen
+58118,254,Perawat Instrumen
+58119,264,Perawat Instrumen
+58120,270,Perawat Instrumen
+58121,293,Perawat Instrumen
+58122,242,Perawat Instrumen
+58123,243,Perawat Instrumen
+58124,197,Perawat Instrumen
+58125,214,Perawat Instrumen
+58126,267,Perawat Instrumen
+58127,229,Perawat Instrumen
+58128,223,Perawat Instrumen
+58129,324,Perawat Instrumen
+58130,227,Perawat Instrumen
+58131,325,Perawat Instrumen
+58132,264,Perawat Instrumen
+58133,229,Perawat Instrumen
+58134,203,Perawat Instrumen
+58135,311,Perawat Instrumen
+58136,248,Perawat Instrumen
+58137,305,Perawat Instrumen
+58138,337,Perawat Instrumen
+58139,311,Perawat Instrumen
+58140,245,Perawat Instrumen
+58141,301,Perawat Instrumen
+58142,259,Perawat Instrumen
+58143,287,Perawat Instrumen
+58144,333,Perawat Instrumen
+58145,240,Perawat Instrumen
+58146,289,Perawat Instrumen
+58147,341,Perawat Instrumen
+58148,261,Perawat Instrumen
+58149,344,Perawat Instrumen
+58150,321,Perawat Instrumen
+58151,219,Perawat Instrumen
+58152,194,Perawat Instrumen
+58153,284,Perawat Instrumen
+58154,219,Perawat Instrumen
+58155,239,Perawat Instrumen
+58156,310,Perawat Instrumen
+58157,262,Perawat Instrumen
+58158,226,Perawat Instrumen
+58159,279,Perawat Instrumen
+58160,288,Perawat Instrumen
+58161,219,Perawat Instrumen
+58162,242,Perawat Instrumen
+58163,228,Perawat Instrumen
+58164,305,Perawat Instrumen
+58165,341,Perawat Instrumen
+58166,236,Perawat Instrumen
+58167,209,Perawat Instrumen
+58168,294,Perawat Instrumen
+58169,215,Perawat Instrumen
+58170,279,Perawat Instrumen
+58171,223,Perawat Instrumen
+58172,315,Perawat Instrumen
+58173,308,Perawat Instrumen
+58174,249,Perawat Instrumen
+58175,311,Perawat Instrumen
+58176,295,Perawat Instrumen
+58177,194,Perawat Instrumen
+58178,342,Perawat Instrumen
+58179,212,Perawat Instrumen
+58180,293,Perawat Instrumen
+58181,307,Perawat Instrumen
+58182,293,Perawat Instrumen
+58183,222,Perawat Instrumen
+58184,283,Perawat Instrumen
+58185,292,Perawat Instrumen
+58186,300,Perawat Instrumen
+58187,315,Perawat Instrumen
+58188,344,Perawat Instrumen
+58189,284,Perawat Instrumen
+58190,330,Perawat Instrumen
+58191,213,Perawat Instrumen
+58192,268,Perawat Instrumen
+58193,232,Perawat Instrumen
+58194,232,Perawat Instrumen
+58195,327,Perawat Instrumen
+58196,344,Perawat Instrumen
+58197,313,Perawat Instrumen
+58198,318,Perawat Instrumen
+58199,212,Perawat Instrumen
+58200,234,Perawat Instrumen
+58201,283,Perawat Instrumen
+58202,216,Perawat Instrumen
+58203,300,Perawat Instrumen
+58204,291,Perawat Instrumen
+58205,283,Perawat Instrumen
+58206,274,Perawat Instrumen
+58207,267,Perawat Instrumen
+58208,274,Perawat Instrumen
+58209,217,Perawat Instrumen
+58210,191,Perawat Instrumen
+58211,255,Perawat Instrumen
+58212,241,Perawat Instrumen
+58213,336,Perawat Instrumen
+58214,204,Perawat Instrumen
+58215,236,Perawat Instrumen
+58216,346,Perawat Instrumen
+58217,213,Perawat Instrumen
+58218,191,Perawat Instrumen
+58219,223,Perawat Instrumen
+58220,219,Perawat Instrumen
+58221,316,Perawat Instrumen
+58222,281,Perawat Instrumen
+58223,340,Perawat Instrumen
+58224,267,Perawat Instrumen
+58225,287,Perawat Instrumen
+58226,274,Perawat Instrumen
+58227,193,Perawat Instrumen
+58228,315,Perawat Instrumen
+58229,246,Perawat Instrumen
+58230,245,Perawat Instrumen
+58231,345,Perawat Instrumen
+58232,203,Perawat Instrumen
+58233,348,Perawat Instrumen
+58234,321,Perawat Instrumen
+58235,303,Perawat Instrumen
+58236,341,Perawat Instrumen
+58237,226,Perawat Instrumen
+58238,306,Perawat Instrumen
+58239,204,Perawat Instrumen
+58240,211,Perawat Instrumen
+58241,237,Perawat Instrumen
+58242,231,Perawat Instrumen
+58243,227,Perawat Instrumen
+58244,265,Perawat Instrumen
+58245,215,Perawat Instrumen
+58246,220,Perawat Instrumen
+58247,247,Perawat Instrumen
+58248,265,Perawat Instrumen
+58249,295,Perawat Instrumen
+58250,284,Perawat Instrumen
+58251,311,Perawat Instrumen
+58252,316,Perawat Instrumen
+58253,276,Perawat Instrumen
+58254,225,Perawat Instrumen
+58255,332,Perawat Instrumen
+58256,236,Perawat Instrumen
+58257,193,Perawat Instrumen
+58258,215,Perawat Instrumen
+58259,338,Perawat Instrumen
+58260,316,Perawat Instrumen
+58261,323,Perawat Instrumen
+58262,282,Perawat Instrumen
+58263,229,Perawat Instrumen
+58264,196,Perawat Instrumen
+58265,320,Perawat Instrumen
+58266,197,Perawat Instrumen
+58267,227,Perawat Instrumen
+58268,318,Perawat Instrumen
+58269,304,Perawat Instrumen
+58270,262,Perawat Instrumen
+58271,315,Perawat Instrumen
+58272,299,Perawat Instrumen
+58273,278,Perawat Instrumen
+58274,259,Perawat Instrumen
+58275,319,Perawat Instrumen
+58276,228,Perawat Instrumen
+58277,208,Perawat Instrumen
+58278,318,Perawat Instrumen
+58279,349,Perawat Instrumen
+58280,228,Perawat Instrumen
+58281,283,Perawat Instrumen
+58282,239,Perawat Instrumen
+58283,221,Perawat Instrumen
+58284,250,Perawat Instrumen
+58285,333,Perawat Instrumen
+58286,233,Perawat Instrumen
+58287,244,Perawat Instrumen
+58288,316,Perawat Instrumen
+58289,349,Perawat Instrumen
+58290,211,Perawat Instrumen
+58291,256,Perawat Instrumen
+58292,270,Perawat Instrumen
+58293,228,Perawat Instrumen
+58294,198,Perawat Instrumen
+58295,198,Perawat Instrumen
+58296,332,Perawat Instrumen
+58297,314,Perawat Instrumen
+58298,217,Perawat Instrumen
+58299,271,Perawat Instrumen
+58300,196,Perawat Instrumen
+58301,302,Perawat Instrumen
+58302,311,Perawat Instrumen
+58303,314,Perawat Instrumen
+58304,319,Perawat Instrumen
+58305,290,Perawat Instrumen
+58306,332,Perawat Instrumen
+58307,281,Perawat Instrumen
+58308,288,Perawat Instrumen
+58309,257,Perawat Instrumen
+58310,321,Perawat Instrumen
+58311,312,Perawat Instrumen
+58312,198,Perawat Instrumen
+58313,219,Perawat Instrumen
+58314,348,Perawat Instrumen
+58315,313,Perawat Instrumen
+58316,192,Perawat Instrumen
+58317,285,Perawat Instrumen
+58318,327,Perawat Instrumen
+58319,350,Perawat Instrumen
+58320,284,Perawat Instrumen
+58321,245,Perawat Instrumen

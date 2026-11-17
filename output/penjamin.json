@@ -1,0 +1,146 @@
+[
+  {
+    "id_penjamin": "1",
+    "nama_penjamin": "BPJS Kesehatan",
+    "jenis_penjamin": "JKN",
+    "jalan": "Jl. Merdeka No. 10",
+    "rt": "001",
+    "rw": "002",
+    "kota": "Kota Bandung",
+    "provinsi": "Jawa Barat",
+    "kontak": [
+      {
+        "kontak": "022-7001371"
+      },
+      {
+        "kontak": "klaim1@penjamin.example"
+      }
+    ]
+  },
+  {
+    "id_penjamin": "2",
+    "nama_penjamin": "Jamkesda Provinsi",
+    "jenis_penjamin": "Pemerintah Daerah",
+    "jalan": "Jl. Diponegoro No. 22",
+    "rt": "003",
+    "rw": "001",
+    "kota": "Kota Bandung",
+    "provinsi": "Jawa Barat",
+    "kontak": [
+      {
+        "kontak": "022-7002742"
+      },
+      {
+        "kontak": "klaim2@penjamin.example"
+      }
+    ]
+  },
+  {
+    "id_penjamin": "3",
+    "nama_penjamin": "Umum / Mandiri",
+    "jenis_penjamin": "Pribadi",
+    "jalan": "Jl. Raya No. 1",
+    "rt": "001",
+    "rw": "001",
+    "kota": "Kab. Sukabumi",
+    "provinsi": "Jawa Barat",
+    "kontak": [
+      {
+        "kontak": "022-7004113"
+      },
+      {
+        "kontak": "klaim3@penjamin.example"
+      }
+    ]
+  },
+  {
+    "id_penjamin": "4",
+    "nama_penjamin": "Asuransi Sehat Sentosa",
+    "jenis_penjamin": "Swasta",
+    "jalan": "Jl. Sudirman No. 5",
+    "rt": "002",
+    "rw": "004",
+    "kota": "Kota Bandung",
+    "provinsi": "Jawa Barat",
+    "kontak": [
+      {
+        "kontak": "022-7005484"
+      },
+      {
+        "kontak": "klaim4@penjamin.example"
+      }
+    ]
+  },
+  {
+    "id_penjamin": "5",
+    "nama_penjamin": "Asuransi Medika Prima",
+    "jenis_penjamin": "Swasta",
+    "jalan": "Jl. Pajajaran No. 8",
+    "rt": "005",
+    "rw": "003",
+    "kota": "Kota Bogor",
+    "provinsi": "Jawa Barat",
+    "kontak": [
+      {
+        "kontak": "022-7006855"
+      },
+      {
+        "kontak": "klaim5@penjamin.example"
+      }
+    ]
+  },
+  {
+    "id_penjamin": "6",
+    "nama_penjamin": "Asuransi Bina Husada",
+    "jenis_penjamin": "Swasta",
+    "jalan": "Jl. Veteran No. 12",
+    "rt": "004",
+    "rw": "002",
+    "kota": "Kota Bekasi",
+    "provinsi": "Jawa Barat",
+    "kontak": [
+      {
+        "kontak": "022-7008226"
+      },
+      {
+        "kontak": "klaim6@penjamin.example"
+      }
+    ]
+  },
+  {
+    "id_penjamin": "7",
+    "nama_penjamin": "Asuransi Karyawan Nusantara",
+    "jenis_penjamin": "Swasta",
+    "jalan": "Jl. Ahmad Yani No. 3",
+    "rt": "002",
+    "rw": "006",
+    "kota": "Kota Depok",
+    "provinsi": "Jawa Barat",
+    "kontak": [
+      {
+        "kontak": "022-7009597"
+      },
+      {
+        "kontak": "klaim7@penjamin.example"
+      }
+    ]
+  },
+  {
+    "id_penjamin": "8",
+    "nama_penjamin": "Asuransi Pelita Jaya",
+    "jenis_penjamin": "Swasta",
+    "jalan": "Jl. Kartini No. 17",
+    "rt": "001",
+    "rw": "005",
+    "kota": "Kota Cimahi",
+    "provinsi": "Jawa Barat",
+    "kontak": [
+      {
+        "kontak": "022-7010968"
+      },
+      {
+        "kontak": "klaim8@penjamin.example"
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id_kelas": "1",
+    "versi_harga": "2024",
+    "harga_per_malam": "1500000.00",
+    "berlaku_dari": "2024-01-01",
+    "berlaku_sampai": "2024-12-31"
+  },
+  {
+    "id_kelas": "2",
+    "versi_harga": "2024",
+    "harga_per_malam": "900000.00",
+    "berlaku_dari": "2024-01-01",
+    "berlaku_sampai": "2024-12-31"
+  },
+  {
+    "id_kelas": "3",
+    "versi_harga": "2024",
+    "harga_per_malam": "500000.00",
+    "berlaku_dari": "2024-01-01",
+    "berlaku_sampai": "2024-12-31"
+  },
+  {
+    "id_kelas": "4",
+    "versi_harga": "2024",
+    "harga_per_malam": "300000.00",
+    "berlaku_dari": "2024-01-01",
+    "berlaku_sampai": "2024-12-31"
+  },
+  {
+    "id_kelas": "5",
+    "versi_harga": "2024",
+    "harga_per_malam": "150000.00",
+    "berlaku_dari": "2024-01-01",
+    "berlaku_sampai": "2024-12-31"
+  },
+  {
+    "id_kelas": "1",
+    "versi_harga": "2025",
+    "harga_per_malam": "1575000.00",
+    "berlaku_dari": "2025-01-01",
+    "berlaku_sampai": "2025-12-31"
+  },
+  {
+    "id_kelas": "2",
+    "versi_harga": "2025",
+    "harga_per_malam": "945000.00",
+    "berlaku_dari": "2025-01-01",
+    "berlaku_sampai": "2025-12-31"
+  },
+  {
+    "id_kelas": "3",
+    "versi_harga": "2025",
+    "harga_per_malam": "525000.00",
+    "berlaku_dari": "2025-01-01",
+    "berlaku_sampai": "2025-12-31"
+  },
+  {
+    "id_kelas": "4",
+    "versi_harga": "2025",
+    "harga_per_malam": "315000.00",
+    "berlaku_dari": "2025-01-01",
+    "berlaku_sampai": "2025-12-31"
+  },
+  {
+    "id_kelas": "5",
+    "versi_harga": "2025",
+    "harga_per_malam": "158000.00",
+    "berlaku_dari": "2025-01-01",
+    "berlaku_sampai": "2025-12-31"
+  },
+  {
+    "id_kelas": "1",
+    "versi_harga": "2026",
+    "harga_per_malam": "1654000.00",
+    "berlaku_dari": "2026-01-01",
+    "berlaku_sampai": null
+  },
+  {
+    "id_kelas": "2",
+    "versi_harga": "2026",
+    "harga_per_malam": "992000.00",
+    "berlaku_dari": "2026-01-01",
+    "berlaku_sampai": null
+  },
+  {
+    "id_kelas": "3",
+    "versi_harga": "2026",
+    "harga_per_malam": "551000.00",
+    "berlaku_dari": "2026-01-01",
+    "berlaku_sampai": null
+  },
+  {
+    "id_kelas": "4",
+    "versi_harga": "2026",
+    "harga_per_malam": "331000.00",
+    "berlaku_dari": "2026-01-01",
+    "berlaku_sampai": null
+  },
+  {
+    "id_kelas": "5",
+    "versi_harga": "2026",
+    "harga_per_malam": "165000.00",
+    "berlaku_dari": "2026-01-01",
+    "berlaku_sampai": null
+  }
+]

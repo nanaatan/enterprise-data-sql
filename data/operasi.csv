@@ -1,0 +1,274 @@
+id_pelayanan_medis,jenis_operasi,ruang_operasi,tanggal_waktu_operasi,hasil_operasi
+58049,ORIF,OK 1,2026-10-02 11:32:55.494626,Pasien dipindah ke ICU untuk observasi
+58050,Debridement,OK 4,2026-10-02 11:50:33.405497,"Operasi lancar, perdarahan minimal"
+58051,Kolesistektomi,OK 1,2026-10-02 17:50:12,Operasi berjalan lancar
+58052,Debridement,OK 1,2026-10-03 01:14:10,Pasien dipindah ke ICU untuk observasi
+58053,Debridement,OK 1,2026-10-02 15:19:04,"Operasi lancar, perdarahan minimal"
+58054,Sectio Caesarea,OK 2,2026-10-03 01:57:02,Operasi berjalan lancar
+58055,ORIF,OK 3,2026-10-02 10:19:11,Operasi berjalan lancar
+58056,Laparotomi,OK 1,2026-10-02 03:29:57,Operasi berjalan lancar
+58057,Herniotomi,OK 1,2026-10-03 11:55:43.011612,"Operasi lancar, perdarahan minimal"
+58058,Kolesistektomi,OK 2,2026-10-03 13:20:20.141624,"Operasi lancar, perdarahan minimal"
+58059,Debridement,OK 1,2026-10-03 11:47:57.653987,Pasien dipindah ke ICU untuk observasi
+58060,Debridement,OK 1,2026-10-03 12:25:36.429718,Operasi berjalan lancar
+58061,ORIF,OK 1,2026-10-03 17:11:07,Pasien dipindah ke ICU untuk observasi
+58062,Kolesistektomi,OK 1,2026-10-03 06:36:41,Operasi berjalan lancar
+58063,Apendektomi,OK 1,2026-10-03 05:57:14,Pasien dipindah ke ICU untuk observasi
+58064,Sectio Caesarea,OK 4,2026-10-03 06:00:09,Operasi berjalan lancar
+58065,Apendektomi,OK 4,2026-10-03 10:35:25,Operasi berjalan lancar
+58066,Laparotomi,OK 1,2026-10-04 07:54:08,Operasi berjalan lancar
+58067,Sectio Caesarea,OK 3,2026-10-04 11:39:27,Pasien dipindah ke ICU untuk observasi
+58068,Herniotomi,OK 1,2026-10-04 15:01:54,Pasien dipindah ke ICU untuk observasi
+58069,Debridement,OK 4,2026-10-05 09:21:30,Pasien dipindah ke ICU untuk observasi
+58070,Debridement,OK 3,2026-10-06 01:34:16,Operasi berjalan lancar
+58071,Herniotomi,OK 4,2026-10-05 12:30:47,"Operasi lancar, perdarahan minimal"
+58072,Sectio Caesarea,OK 4,2026-10-06 02:11:38,Operasi berjalan lancar
+58073,Apendektomi,OK 4,2026-10-06 11:36:52.465604,"Operasi lancar, perdarahan minimal"
+58074,ORIF,OK 4,2026-10-06 11:25:36.862138,Operasi berjalan lancar
+58075,Sectio Caesarea,OK 2,2026-10-06 10:00:23.682771,"Operasi lancar, perdarahan minimal"
+58076,ORIF,OK 3,2026-10-06 12:31:07.42309,Operasi berjalan lancar
+58077,Debridement,OK 3,2026-10-06 05:18:05,Pasien dipindah ke ICU untuk observasi
+58078,Kolesistektomi,OK 1,2026-10-06 07:49:40,"Operasi lancar, perdarahan minimal"
+58079,Herniotomi,OK 4,2026-10-06 10:34:54,Operasi berjalan lancar
+58080,Debridement,OK 2,2026-10-06 22:06:48,Pasien dipindah ke ICU untuk observasi
+58081,ORIF,OK 3,2026-10-06 06:42:48,"Operasi lancar, perdarahan minimal"
+58082,Sectio Caesarea,OK 4,2026-10-06 22:48:00,Operasi berjalan lancar
+58083,Kolesistektomi,OK 3,2026-10-06 07:04:44,Operasi berjalan lancar
+58084,Laparotomi,OK 1,2026-10-06 21:35:17,"Operasi lancar, perdarahan minimal"
+58085,Apendektomi,OK 2,2026-10-07 12:03:46.39656,Pasien dipindah ke ICU untuk observasi
+58086,Sectio Caesarea,OK 2,2026-10-07 10:03:50.628518,Pasien dipindah ke ICU untuk observasi
+58087,Kolesistektomi,OK 4,2026-10-07 10:00:26.731678,Pasien dipindah ke ICU untuk observasi
+58088,Laparotomi,OK 1,2026-10-07 12:52:30.825825,Operasi berjalan lancar
+58089,Apendektomi,OK 2,2026-10-07 10:30:33,Pasien dipindah ke ICU untuk observasi
+58090,Sectio Caesarea,OK 3,2026-10-07 03:24:55,Pasien dipindah ke ICU untuk observasi
+58091,Debridement,OK 4,2026-10-07 15:46:56,Pasien dipindah ke ICU untuk observasi
+58092,Kolesistektomi,OK 4,2026-10-07 13:15:13,Pasien dipindah ke ICU untuk observasi
+58093,ORIF,OK 1,2026-10-08 11:43:15.776818,"Operasi lancar, perdarahan minimal"
+58094,Kolesistektomi,OK 4,2026-10-08 10:55:17.002821,Pasien dipindah ke ICU untuk observasi
+58095,Herniotomi,OK 4,2026-10-08 13:01:42.945422,Pasien dipindah ke ICU untuk observasi
+58096,Herniotomi,OK 3,2026-10-08 13:04:07.969971,"Operasi lancar, perdarahan minimal"
+58097,Herniotomi,OK 3,2026-10-08 13:51:59,Pasien dipindah ke ICU untuk observasi
+58098,Kolesistektomi,OK 3,2026-10-08 18:37:28,Pasien dipindah ke ICU untuk observasi
+58099,ORIF,OK 1,2026-10-08 12:14:44,Pasien dipindah ke ICU untuk observasi
+58100,Herniotomi,OK 1,2026-10-08 13:57:38,"Operasi lancar, perdarahan minimal"
+58101,ORIF,OK 2,2026-10-08 19:21:25,Operasi berjalan lancar
+58102,Herniotomi,OK 2,2026-10-09 10:00:38.960701,Pasien dipindah ke ICU untuk observasi
+58103,Sectio Caesarea,OK 4,2026-10-09 12:26:24.55871,"Operasi lancar, perdarahan minimal"
+58104,Herniotomi,OK 3,2026-10-09 10:09:20.583337,Pasien dipindah ke ICU untuk observasi
+58105,ORIF,OK 1,2026-10-09 10:11:56.298573,Pasien dipindah ke ICU untuk observasi
+58106,Laparotomi,OK 2,2026-10-10 01:23:48,Pasien dipindah ke ICU untuk observasi
+58107,Sectio Caesarea,OK 3,2026-10-09 12:21:09,Operasi berjalan lancar
+58108,Kolesistektomi,OK 4,2026-10-09 17:10:49,Operasi berjalan lancar
+58109,Laparotomi,OK 4,2026-10-09 13:07:42,Pasien dipindah ke ICU untuk observasi
+58110,Laparotomi,OK 2,2026-10-09 10:21:40,"Operasi lancar, perdarahan minimal"
+58111,ORIF,OK 1,2026-10-09 15:58:35,Pasien dipindah ke ICU untuk observasi
+58112,Sectio Caesarea,OK 1,2026-10-10 14:01:48.208761,Pasien dipindah ke ICU untuk observasi
+58113,Sectio Caesarea,OK 4,2026-10-10 10:15:11.037428,Pasien dipindah ke ICU untuk observasi
+58114,Sectio Caesarea,OK 1,2026-10-10 13:21:14.596933,"Operasi lancar, perdarahan minimal"
+58115,Sectio Caesarea,OK 2,2026-10-10 11:48:21.268593,Operasi berjalan lancar
+58116,Apendektomi,OK 4,2026-10-10 10:14:55.293159,Operasi berjalan lancar
+58117,Debridement,OK 4,2026-10-10 18:12:51,"Operasi lancar, perdarahan minimal"
+58118,Sectio Caesarea,OK 3,2026-10-10 13:47:53,Pasien dipindah ke ICU untuk observasi
+58119,Sectio Caesarea,OK 3,2026-10-10 03:36:31,Pasien dipindah ke ICU untuk observasi
+58120,Kolesistektomi,OK 4,2026-10-10 10:24:14,"Operasi lancar, perdarahan minimal"
+58121,Herniotomi,OK 4,2026-10-11 00:58:26,"Operasi lancar, perdarahan minimal"
+58122,Herniotomi,OK 4,2026-10-11 02:48:38,Pasien dipindah ke ICU untuk observasi
+58123,Laparotomi,OK 2,2026-10-11 10:01:43,"Operasi lancar, perdarahan minimal"
+58124,Herniotomi,OK 3,2026-10-11 15:00:28,Pasien dipindah ke ICU untuk observasi
+58125,Apendektomi,OK 3,2026-10-11 20:25:08,"Operasi lancar, perdarahan minimal"
+58126,Laparotomi,OK 1,2026-10-12 01:21:50,Pasien dipindah ke ICU untuk observasi
+58127,Kolesistektomi,OK 2,2026-10-11 03:11:09,"Operasi lancar, perdarahan minimal"
+58128,Debridement,OK 1,2026-10-11 07:16:43,Operasi berjalan lancar
+58129,Kolesistektomi,OK 3,2026-10-11 14:51:40,Operasi berjalan lancar
+58130,Apendektomi,OK 1,2026-10-11 17:45:37,Operasi berjalan lancar
+58131,Debridement,OK 3,2026-10-12 12:34:10,Pasien dipindah ke ICU untuk observasi
+58132,Sectio Caesarea,OK 4,2026-10-12 04:27:56,Operasi berjalan lancar
+58133,Apendektomi,OK 3,2026-10-12 16:29:28,"Operasi lancar, perdarahan minimal"
+58134,Debridement,OK 3,2026-10-12 18:04:32,Operasi berjalan lancar
+58135,Apendektomi,OK 4,2026-10-12 18:58:26,Operasi berjalan lancar
+58136,Apendektomi,OK 1,2026-10-13 01:02:37,Operasi berjalan lancar
+58137,Apendektomi,OK 3,2026-10-13 10:12:38.836561,"Operasi lancar, perdarahan minimal"
+58138,ORIF,OK 1,2026-10-13 10:20:01.147024,Operasi berjalan lancar
+58139,Sectio Caesarea,OK 4,2026-10-13 11:37:42.37933,Operasi berjalan lancar
+58140,Herniotomi,OK 2,2026-10-13 10:31:58.022537,"Operasi lancar, perdarahan minimal"
+58141,Apendektomi,OK 3,2026-10-13 14:41:08.029057,Pasien dipindah ke ICU untuk observasi
+58142,Sectio Caesarea,OK 1,2026-10-13 11:00:47.227396,"Operasi lancar, perdarahan minimal"
+58143,Apendektomi,OK 3,2026-10-13 13:41:26,"Operasi lancar, perdarahan minimal"
+58144,ORIF,OK 1,2026-10-13 08:56:48,Pasien dipindah ke ICU untuk observasi
+58145,ORIF,OK 1,2026-10-13 22:20:22,Pasien dipindah ke ICU untuk observasi
+58146,Debridement,OK 1,2026-10-14 10:53:28.420651,Operasi berjalan lancar
+58147,Herniotomi,OK 2,2026-10-14 11:38:05.316503,Pasien dipindah ke ICU untuk observasi
+58148,Herniotomi,OK 4,2026-10-14 10:43:00.974385,Pasien dipindah ke ICU untuk observasi
+58149,Sectio Caesarea,OK 1,2026-10-14 10:47:40.588135,Operasi berjalan lancar
+58150,Herniotomi,OK 3,2026-10-14 10:00:17.49369,"Operasi lancar, perdarahan minimal"
+58151,Kolesistektomi,OK 3,2026-10-14 06:56:06,"Operasi lancar, perdarahan minimal"
+58152,Laparotomi,OK 4,2026-10-14 05:44:39,"Operasi lancar, perdarahan minimal"
+58153,Debridement,OK 3,2026-10-14 16:39:46,Operasi berjalan lancar
+58154,Herniotomi,OK 4,2026-10-14 16:31:16,"Operasi lancar, perdarahan minimal"
+58155,ORIF,OK 1,2026-10-14 16:28:59,Pasien dipindah ke ICU untuk observasi
+58156,Herniotomi,OK 4,2026-10-15 02:34:40,Operasi berjalan lancar
+58157,Kolesistektomi,OK 1,2026-10-15 14:56:52.160264,Operasi berjalan lancar
+58158,Laparotomi,OK 3,2026-10-15 10:31:13.865563,Operasi berjalan lancar
+58159,Apendektomi,OK 2,2026-10-15 10:30:17.755391,Operasi berjalan lancar
+58160,Herniotomi,OK 4,2026-10-15 11:10:20.582868,Operasi berjalan lancar
+58161,Laparotomi,OK 1,2026-10-15 11:59:34.448288,"Operasi lancar, perdarahan minimal"
+58162,Debridement,OK 3,2026-10-15 15:08:16,"Operasi lancar, perdarahan minimal"
+58163,Debridement,OK 2,2026-10-15 12:24:41,"Operasi lancar, perdarahan minimal"
+58164,Debridement,OK 4,2026-10-15 07:11:55,Pasien dipindah ke ICU untuk observasi
+58165,Herniotomi,OK 4,2026-10-15 17:18:20,Pasien dipindah ke ICU untuk observasi
+58166,Sectio Caesarea,OK 4,2026-10-16 10:20:39.984716,"Operasi lancar, perdarahan minimal"
+58167,Herniotomi,OK 3,2026-10-16 10:01:54.595489,"Operasi lancar, perdarahan minimal"
+58168,Sectio Caesarea,OK 4,2026-10-16 14:54:46.769235,"Operasi lancar, perdarahan minimal"
+58169,Debridement,OK 4,2026-10-16 12:32:29.536045,Operasi berjalan lancar
+58170,Laparotomi,OK 4,2026-10-16 12:36:40.33043,"Operasi lancar, perdarahan minimal"
+58171,Sectio Caesarea,OK 1,2026-10-16 20:14:55,"Operasi lancar, perdarahan minimal"
+58172,Kolesistektomi,OK 1,2026-10-16 14:21:31,Pasien dipindah ke ICU untuk observasi
+58173,Debridement,OK 2,2026-10-16 09:32:28,Operasi berjalan lancar
+58174,ORIF,OK 3,2026-10-16 12:19:22,Operasi berjalan lancar
+58175,Sectio Caesarea,OK 4,2026-10-16 03:23:49,"Operasi lancar, perdarahan minimal"
+58176,Sectio Caesarea,OK 3,2026-10-16 18:51:38,"Operasi lancar, perdarahan minimal"
+58177,Laparotomi,OK 1,2026-10-16 12:51:36,Pasien dipindah ke ICU untuk observasi
+58178,Sectio Caesarea,OK 1,2026-10-16 18:21:29,"Operasi lancar, perdarahan minimal"
+58179,Debridement,OK 2,2026-10-16 13:56:37,Pasien dipindah ke ICU untuk observasi
+58180,Apendektomi,OK 1,2026-10-16 07:47:04,Pasien dipindah ke ICU untuk observasi
+58181,Apendektomi,OK 4,2026-10-17 00:45:37,"Operasi lancar, perdarahan minimal"
+58182,Herniotomi,OK 4,2026-10-17 13:35:38.926777,"Operasi lancar, perdarahan minimal"
+58183,Herniotomi,OK 4,2026-10-17 10:02:43.055122,"Operasi lancar, perdarahan minimal"
+58184,Sectio Caesarea,OK 2,2026-10-17 11:48:55.747399,"Operasi lancar, perdarahan minimal"
+58185,Sectio Caesarea,OK 4,2026-10-17 23:10:54,"Operasi lancar, perdarahan minimal"
+58186,Sectio Caesarea,OK 2,2026-10-17 07:37:54,Operasi berjalan lancar
+58187,Kolesistektomi,OK 1,2026-10-17 03:44:47,Operasi berjalan lancar
+58188,Debridement,OK 3,2026-10-17 14:12:53,Pasien dipindah ke ICU untuk observasi
+58189,Laparotomi,OK 3,2026-10-17 18:21:33,Operasi berjalan lancar
+58190,Apendektomi,OK 3,2026-10-18 20:21:47,Pasien dipindah ke ICU untuk observasi
+58191,Sectio Caesarea,OK 3,2026-10-19 15:56:12,Pasien dipindah ke ICU untuk observasi
+58192,Apendektomi,OK 3,2026-10-19 16:06:49,Pasien dipindah ke ICU untuk observasi
+58193,Laparotomi,OK 3,2026-10-20 01:42:27,Operasi berjalan lancar
+58194,Apendektomi,OK 1,2026-10-19 14:52:53,Pasien dipindah ke ICU untuk observasi
+58195,Apendektomi,OK 4,2026-10-19 15:42:11,"Operasi lancar, perdarahan minimal"
+58196,Debridement,OK 2,2026-10-19 22:59:05,Operasi berjalan lancar
+58197,Sectio Caesarea,OK 3,2026-10-19 20:50:22,Pasien dipindah ke ICU untuk observasi
+58198,Kolesistektomi,OK 1,2026-10-19 21:10:50,Operasi berjalan lancar
+58199,Sectio Caesarea,OK 4,2026-10-19 10:44:17,"Operasi lancar, perdarahan minimal"
+58200,Kolesistektomi,OK 3,2026-10-19 22:47:39,Pasien dipindah ke ICU untuk observasi
+58201,Debridement,OK 3,2026-10-19 06:56:40,"Operasi lancar, perdarahan minimal"
+58202,Debridement,OK 3,2026-10-20 13:27:14.860822,Operasi berjalan lancar
+58203,Debridement,OK 2,2026-10-20 11:18:17.940603,Operasi berjalan lancar
+58204,Kolesistektomi,OK 3,2026-10-20 14:19:25.19272,Pasien dipindah ke ICU untuk observasi
+58205,Herniotomi,OK 3,2026-10-20 10:10:26.828651,"Operasi lancar, perdarahan minimal"
+58206,Laparotomi,OK 3,2026-10-20 11:51:50.828526,"Operasi lancar, perdarahan minimal"
+58207,Laparotomi,OK 2,2026-10-20 12:08:09.796889,Operasi berjalan lancar
+58208,ORIF,OK 2,2026-10-20 10:01:56.544397,"Operasi lancar, perdarahan minimal"
+58209,Sectio Caesarea,OK 2,2026-10-20 14:10:19.246643,"Operasi lancar, perdarahan minimal"
+58210,Herniotomi,OK 3,2026-10-20 14:53:45.967262,Pasien dipindah ke ICU untuk observasi
+58211,Debridement,OK 1,2026-10-20 10:23:35.789224,Operasi berjalan lancar
+58212,ORIF,OK 2,2026-10-20 13:08:54.660281,Operasi berjalan lancar
+58213,Apendektomi,OK 3,2026-10-21 00:24:41,Operasi berjalan lancar
+58214,ORIF,OK 2,2026-10-20 11:44:24,Pasien dipindah ke ICU untuk observasi
+58215,Sectio Caesarea,OK 1,2026-10-21 12:22:24.4628,Operasi berjalan lancar
+58216,ORIF,OK 2,2026-10-21 13:47:12.457359,"Operasi lancar, perdarahan minimal"
+58217,Sectio Caesarea,OK 2,2026-10-21 12:49:31.934351,Operasi berjalan lancar
+58218,Apendektomi,OK 1,2026-10-21 13:15:00.734307,Operasi berjalan lancar
+58219,Kolesistektomi,OK 1,2026-10-21 11:54:28.778998,Pasien dipindah ke ICU untuk observasi
+58220,Kolesistektomi,OK 2,2026-10-21 10:01:24.6635,"Operasi lancar, perdarahan minimal"
+58221,Sectio Caesarea,OK 3,2026-10-22 02:52:06,Operasi berjalan lancar
+58222,Laparotomi,OK 2,2026-10-21 21:41:13,"Operasi lancar, perdarahan minimal"
+58223,Apendektomi,OK 2,2026-10-21 21:51:26,"Operasi lancar, perdarahan minimal"
+58224,Herniotomi,OK 3,2026-10-22 00:46:46,"Operasi lancar, perdarahan minimal"
+58225,Sectio Caesarea,OK 2,2026-10-21 14:31:30,Operasi berjalan lancar
+58226,Apendektomi,OK 3,2026-10-21 03:55:44,Pasien dipindah ke ICU untuk observasi
+58227,Herniotomi,OK 1,2026-10-22 22:08:49,Pasien dipindah ke ICU untuk observasi
+58228,Sectio Caesarea,OK 2,2026-10-22 12:41:06,"Operasi lancar, perdarahan minimal"
+58229,Kolesistektomi,OK 3,2026-10-22 10:12:16,Pasien dipindah ke ICU untuk observasi
+58230,Debridement,OK 4,2026-10-23 12:30:50.74235,Pasien dipindah ke ICU untuk observasi
+58231,ORIF,OK 1,2026-10-23 10:00:25.183495,Operasi berjalan lancar
+58232,Kolesistektomi,OK 3,2026-10-23 11:18:25.518963,Operasi berjalan lancar
+58233,Kolesistektomi,OK 1,2026-10-23 11:23:05.950885,"Operasi lancar, perdarahan minimal"
+58234,Laparotomi,OK 2,2026-10-23 14:14:01.31208,Pasien dipindah ke ICU untuk observasi
+58235,Herniotomi,OK 1,2026-10-23 15:32:10,Pasien dipindah ke ICU untuk observasi
+58236,Laparotomi,OK 1,2026-10-23 20:52:22,Pasien dipindah ke ICU untuk observasi
+58237,Sectio Caesarea,OK 2,2026-10-24 10:14:14.664651,"Operasi lancar, perdarahan minimal"
+58238,Debridement,OK 4,2026-10-24 10:15:03.670345,"Operasi lancar, perdarahan minimal"
+58239,Apendektomi,OK 3,2026-10-24 12:50:48.209729,Operasi berjalan lancar
+58240,Sectio Caesarea,OK 4,2026-10-24 11:25:00.960763,Pasien dipindah ke ICU untuk observasi
+58241,Herniotomi,OK 3,2026-10-24 19:59:25,"Operasi lancar, perdarahan minimal"
+58242,Debridement,OK 1,2026-10-24 22:52:45,"Operasi lancar, perdarahan minimal"
+58243,Laparotomi,OK 1,2026-10-24 10:28:51,Operasi berjalan lancar
+58244,Sectio Caesarea,OK 3,2026-10-24 20:42:11,"Operasi lancar, perdarahan minimal"
+58245,Herniotomi,OK 2,2026-10-24 19:44:39,"Operasi lancar, perdarahan minimal"
+58246,Herniotomi,OK 2,2026-10-24 11:06:26,"Operasi lancar, perdarahan minimal"
+58247,Apendektomi,OK 4,2026-10-24 23:11:44,Operasi berjalan lancar
+58248,Apendektomi,OK 4,2026-10-24 12:31:55,Pasien dipindah ke ICU untuk observasi
+58249,Apendektomi,OK 1,2026-10-25 21:58:12,"Operasi lancar, perdarahan minimal"
+58250,Debridement,OK 2,2026-10-25 20:17:56,Operasi berjalan lancar
+58251,Laparotomi,OK 4,2026-10-26 01:44:55,Pasien dipindah ke ICU untuk observasi
+58252,Herniotomi,OK 2,2026-10-25 11:59:23,Operasi berjalan lancar
+58253,Sectio Caesarea,OK 1,2026-10-25 16:01:59,"Operasi lancar, perdarahan minimal"
+58254,Apendektomi,OK 3,2026-10-26 07:44:52,Pasien dipindah ke ICU untuk observasi
+58255,Debridement,OK 1,2026-10-26 23:56:28,Operasi berjalan lancar
+58256,Sectio Caesarea,OK 1,2026-10-26 15:30:41,Pasien dipindah ke ICU untuk observasi
+58257,Apendektomi,OK 3,2026-10-26 14:36:21,Operasi berjalan lancar
+58258,Laparotomi,OK 1,2026-10-26 18:08:16,Pasien dipindah ke ICU untuk observasi
+58259,Debridement,OK 4,2026-10-27 10:20:55.670325,Operasi berjalan lancar
+58260,Laparotomi,OK 2,2026-10-27 10:44:19.209097,Operasi berjalan lancar
+58261,Herniotomi,OK 1,2026-10-27 10:09:59.672341,Pasien dipindah ke ICU untuk observasi
+58262,Debridement,OK 2,2026-10-27 13:16:59,Pasien dipindah ke ICU untuk observasi
+58263,ORIF,OK 4,2026-10-27 16:53:45,Operasi berjalan lancar
+58264,Apendektomi,OK 1,2026-10-27 07:23:39,Pasien dipindah ke ICU untuk observasi
+58265,Debridement,OK 2,2026-10-27 20:48:34,"Operasi lancar, perdarahan minimal"
+58266,ORIF,OK 4,2026-10-28 11:26:28.970053,Pasien dipindah ke ICU untuk observasi
+58267,Laparotomi,OK 2,2026-10-28 12:45:22.437349,"Operasi lancar, perdarahan minimal"
+58268,Apendektomi,OK 1,2026-10-28 13:30:52.655362,"Operasi lancar, perdarahan minimal"
+58269,Apendektomi,OK 2,2026-10-28 13:55:05.908525,"Operasi lancar, perdarahan minimal"
+58270,Laparotomi,OK 3,2026-10-28 10:18:14.293112,Pasien dipindah ke ICU untuk observasi
+58271,Kolesistektomi,OK 4,2026-10-28 14:12:50.510199,"Operasi lancar, perdarahan minimal"
+58272,Herniotomi,OK 1,2026-10-28 14:18:41.618418,Operasi berjalan lancar
+58273,Apendektomi,OK 1,2026-10-28 10:00:52.750664,Pasien dipindah ke ICU untuk observasi
+58274,Kolesistektomi,OK 3,2026-10-28 14:15:35.089426,Operasi berjalan lancar
+58275,Apendektomi,OK 3,2026-10-28 21:38:49,Operasi berjalan lancar
+58276,Debridement,OK 1,2026-10-28 07:13:06,"Operasi lancar, perdarahan minimal"
+58277,Apendektomi,OK 2,2026-10-28 12:48:49,Operasi berjalan lancar
+58278,Debridement,OK 1,2026-10-29 11:10:40.423259,Operasi berjalan lancar
+58279,Herniotomi,OK 1,2026-10-29 11:33:46.677431,"Operasi lancar, perdarahan minimal"
+58280,ORIF,OK 1,2026-10-29 10:57:59.503077,Operasi berjalan lancar
+58281,Debridement,OK 1,2026-10-29 12:56:20.5799,"Operasi lancar, perdarahan minimal"
+58282,Herniotomi,OK 3,2026-10-29 11:02:53.97483,Operasi berjalan lancar
+58283,Apendektomi,OK 4,2026-10-29 11:21:38.575737,"Operasi lancar, perdarahan minimal"
+58284,ORIF,OK 1,2026-10-29 13:53:13.322567,Pasien dipindah ke ICU untuk observasi
+58285,ORIF,OK 2,2026-10-29 11:55:59.901388,"Operasi lancar, perdarahan minimal"
+58286,ORIF,OK 1,2026-10-29 12:06:56.515631,Operasi berjalan lancar
+58287,Kolesistektomi,OK 2,2026-10-29 11:09:10.429588,"Operasi lancar, perdarahan minimal"
+58288,Debridement,OK 2,2026-10-29 18:27:48,"Operasi lancar, perdarahan minimal"
+58289,Apendektomi,OK 1,2026-10-30 02:47:38,Pasien dipindah ke ICU untuk observasi
+58290,Debridement,OK 3,2026-10-29 13:07:31,Pasien dipindah ke ICU untuk observasi
+58291,Sectio Caesarea,OK 4,2026-10-29 21:23:40,Pasien dipindah ke ICU untuk observasi
+58292,Laparotomi,OK 2,2026-10-30 10:23:23.488224,"Operasi lancar, perdarahan minimal"
+58293,Sectio Caesarea,OK 1,2026-10-30 11:03:44.221192,Operasi berjalan lancar
+58294,Herniotomi,OK 1,2026-10-30 13:12:17.338861,Operasi berjalan lancar
+58295,Sectio Caesarea,OK 2,2026-10-30 10:18:25.376479,Operasi berjalan lancar
+58296,Kolesistektomi,OK 1,2026-10-30 23:03:43,"Operasi lancar, perdarahan minimal"
+58297,Sectio Caesarea,OK 3,2026-10-30 06:54:25,"Operasi lancar, perdarahan minimal"
+58298,Laparotomi,OK 4,2026-10-30 11:05:29,"Operasi lancar, perdarahan minimal"
+58299,Herniotomi,OK 3,2026-10-30 08:18:21,Pasien dipindah ke ICU untuk observasi
+58300,Debridement,OK 3,2026-10-31 11:20:02.030653,Operasi berjalan lancar
+58301,Debridement,OK 1,2026-10-31 13:16:46.952293,Operasi berjalan lancar
+58302,Apendektomi,OK 1,2026-10-31 10:39:28.63327,Operasi berjalan lancar
+58303,Sectio Caesarea,OK 3,2026-10-31 10:47:17.246829,"Operasi lancar, perdarahan minimal"
+58304,Debridement,OK 4,2026-10-31 11:39:46.083365,Pasien dipindah ke ICU untuk observasi
+58305,ORIF,OK 3,2026-10-31 13:30:44.576245,Pasien dipindah ke ICU untuk observasi
+58306,ORIF,OK 2,2026-10-31 11:38:19.165265,Operasi berjalan lancar
+58307,Herniotomi,OK 3,2026-10-31 07:12:12,Pasien dipindah ke ICU untuk observasi
+58308,ORIF,OK 1,2026-10-31 12:42:02,"Operasi lancar, perdarahan minimal"
+58309,Kolesistektomi,OK 4,2026-10-31 13:37:43,"Operasi lancar, perdarahan minimal"
+58310,Sectio Caesarea,OK 3,2026-11-01 01:54:14,Operasi berjalan lancar
+58311,ORIF,OK 3,2026-10-31 19:16:20,"Operasi lancar, perdarahan minimal"
+58312,Herniotomi,OK 1,2026-10-31 19:45:23,Operasi berjalan lancar
+58313,Kolesistektomi,OK 2,2026-10-31 13:49:47,"Operasi lancar, perdarahan minimal"
+58314,ORIF,OK 4,2026-10-31 07:57:25,Pasien dipindah ke ICU untuk observasi
+58315,Sectio Caesarea,OK 2,2026-11-01 14:22:07,"Operasi lancar, perdarahan minimal"
+58316,Herniotomi,OK 3,2026-11-01 03:55:54,"Operasi lancar, perdarahan minimal"
+58317,ORIF,OK 2,2026-11-01 05:37:13,Pasien dipindah ke ICU untuk observasi
+58318,Debridement,OK 1,2026-11-01 16:18:10,Pasien dipindah ke ICU untuk observasi
+58319,Sectio Caesarea,OK 4,2026-11-01 13:14:43,Pasien dipindah ke ICU untuk observasi
+58320,Apendektomi,OK 4,2026-11-01 22:57:51,Pasien dipindah ke ICU untuk observasi
+58321,Apendektomi,OK 1,2026-11-01 22:51:29,"Operasi lancar, perdarahan minimal"

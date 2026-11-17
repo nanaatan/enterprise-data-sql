@@ -1,0 +1,9 @@
+id_penjamin,nama_penjamin,jenis_penjamin,jalan,rt,rw,kota,provinsi
+1,BPJS Kesehatan,JKN,Jl. Merdeka No. 10,001,002,Kota Bandung,Jawa Barat
+2,Jamkesda Provinsi,Pemerintah Daerah,Jl. Diponegoro No. 22,003,001,Kota Bandung,Jawa Barat
+3,Umum / Mandiri,Pribadi,Jl. Raya No. 1,001,001,Kab. Sukabumi,Jawa Barat
+4,Asuransi Sehat Sentosa,Swasta,Jl. Sudirman No. 5,002,004,Kota Bandung,Jawa Barat
+5,Asuransi Medika Prima,Swasta,Jl. Pajajaran No. 8,005,003,Kota Bogor,Jawa Barat
+6,Asuransi Bina Husada,Swasta,Jl. Veteran No. 12,004,002,Kota Bekasi,Jawa Barat
+7,Asuransi Karyawan Nusantara,Swasta,Jl. Ahmad Yani No. 3,002,006,Kota Depok,Jawa Barat
+8,Asuransi Pelita Jaya,Swasta,Jl. Kartini No. 17,001,005,Kota Cimahi,Jawa Barat

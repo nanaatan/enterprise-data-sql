@@ -1,0 +1,6734 @@
+[
+  {
+    "no_registrasi": "1",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "4",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "15",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "57",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "300",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "453",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "577",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "692",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "714",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "819",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "834",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "855",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "881",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "1001",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "1135",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "1152",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "1230",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "1240",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "1257",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "1291",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "1298",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "1313",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "1359",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "1362",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "1363",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "1364",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "1373",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "1376",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "1378",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "1388",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "1395",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "1407",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "1410",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "1413",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "1414",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "1416",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "1417",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "1418",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "1426",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "1443",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "1449",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "1451",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "1452",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "1686",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "1791",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "1801",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "1811",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "1964",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "1981",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "2190",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "2301",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "2390",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "2427",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "2561",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "2565",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "2569",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "2689",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "2700",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "2713",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "2910",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "2927",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "2958",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "2999",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "3023",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "3043",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "3050",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "3075",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "3076",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "3085",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "3087",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "3094",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "3104",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "3105",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "3120",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "3140",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "3146",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "3148",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "3150",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "3151",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "3153",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "3160",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "3165",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "3184",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "3194",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "3207",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "3211",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "3229",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "3232",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "3233",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "3234",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "3241",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "3255",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "3270",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "3273",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "3279",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "3281",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "3283",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "3298",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "3306",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "3308",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "3312",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "3325",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "3326",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "3327",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "3328",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "3336",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "3347",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "3351",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "3356",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "3362",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "3364",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "3367",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "3371",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "3374",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "3381",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "3382",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "3392",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "3396",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "3440",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "3441",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "3520",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "3590",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "3591",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "3688",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "3791",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "3827",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "3845",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "3864",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "3887",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "4037",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "4079",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "4080",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "4108",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "4145",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "4152",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "4168",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "4291",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "4330",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "4438",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "4459",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "4476",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "4521",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "4547",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "4640",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "4712",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "4737",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "4756",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "4936",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "4944",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "5023",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "5024",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "5030",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "5040",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "5046",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "5048",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "5066",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "5080",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "5084",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "5085",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "5088",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "5094",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "5096",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "5099",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "5104",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "5106",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "5110",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "5122",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "5133",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "5294",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "5298",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "5334",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "5578",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "5687",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "5725",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "5834",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "5876",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "6136",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "6184",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "6212",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "6233",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "6243",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "6326",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "6561",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "6588",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "6631",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "6660",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "6682",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "6738",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "6744",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "6747",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "6754",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "6763",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "6769",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "6779",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "6797",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "6813",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "6814",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "6817",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "6825",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "6829",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "6830",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "6857",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "6928",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "6980",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "7028",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "7063",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "7302",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "7550",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "7591",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "7906",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "7998",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "8127",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "8257",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "8264",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "8265",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "8268",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "8276",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "8288",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "8294",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "8311",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "8351",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "8368",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "8369",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "8370",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "8409",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "8565",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "8659",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "8778",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "8786",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "8787",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "8954",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "8965",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "8968",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "9193",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "9212",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "9284",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "9337",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "9426",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "9427",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "9547",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "9591",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "9625",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "9727",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "9827",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "9835",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "9846",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "9865",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "9869",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "9883",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "9893",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "9898",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "9901",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "9902",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "9906",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "9907",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "9909",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "9921",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "9928",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "9941",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "9944",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "9947",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "9954",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "9958",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "9974",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "10029",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "10051",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "10067",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "10107",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "10151",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "10238",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "10262",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "10622",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "10650",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "10684",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "10695",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "10707",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "10949",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "11012",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "11114",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "11189",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "11323",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "11329",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "11550",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "11564",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "11613",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "11628",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "11632",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "11633",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "11634",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "11644",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "11646",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "11647",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "11651",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "11655",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "11665",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "11674",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "11675",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "11685",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "11697",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "11700",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "11712",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "11714",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "11719",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "11724",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "11726",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "11734",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "11735",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "11739",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "11751",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "11760",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "11767",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "11777",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "11779",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "11782",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "11783",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "11792",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "11804",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "11808",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "11815",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "11820",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "11825",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "11837",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "11838",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "11843",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "11847",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "11849",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "11851",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "11858",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "11873",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "11876",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "11882",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "11885",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "11892",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "11896",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "11899",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "11902",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "11905",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "11907",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "11910",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "11912",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "11917",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "11924",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "11928",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "11941",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "11942",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "11947",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "11957",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "11983",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "11989",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "11992",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "11997",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "11999",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "12003",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "12004",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "12008",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "12014",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "12020",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "12023",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "12026",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "12027",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "12246",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "12269",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "12300",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "12327",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "12330",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "12377",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "12697",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "12746",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "12750",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "12784",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "12864",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "13079",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "13086",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "13148",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "13176",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "13239",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "13244",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "13341",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "13380",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "13381",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "13402",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "13525",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "13533",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "13534",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "13536",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "13547",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "13548",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "13551",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "13554",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "13558",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "13567",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "13573",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "13577",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "13580",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "13583",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "13601",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "13605",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "13611",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "13616",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "13625",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "13639",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "13650",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "13651",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "13653",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "13929",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "13951",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "14028",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "14057",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "14101",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "14175",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "14193",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "14211",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "14279",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "14292",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "14592",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "14625",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "14863",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "14888",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "14906",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "15006",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "15058",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "15137",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "15169",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "15224",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "15264",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "15265",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "15267",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "15273",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "15275",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "15289",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "15313",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "15317",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "15318",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "15330",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "15344",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "15348",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "15349",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "15350",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "15366",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "15372",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "15376",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "15380",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "15385",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "15464",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "15481",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "15618",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "15662",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "15672",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "15685",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "15728",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "15805",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "15936",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "16167",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "16219",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "16250",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "16273",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "16336",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "16351",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "16465",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "16516",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "16545",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "16546",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "16616",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "16776",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "16886",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "16890",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "16935",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "16954",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "16958",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "16963",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "16965",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "16966",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "16971",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "16973",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "16977",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "16978",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "16979",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "17005",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "17009",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "17017",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "17034",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "17035",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "17039",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "17041",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "17043",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "17047",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "17050",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "17360",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "17369",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "17382",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "17511",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "17622",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "17708",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "17736",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "17759",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "17852",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "17928",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "18018",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "18050",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "18088",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "18225",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "18299",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "18422",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "18470",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "18479",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "18493",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "18495",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "18496",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "18500",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "18502",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "18511",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "18513",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "18526",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "18530",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "18537",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "18543",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "18545",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "18549",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "18556",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "18559",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "18562",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "18567",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "18568",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "18569",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "18585",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "18594",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "18719",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "18774",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "18857",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "18946",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "19125",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "19139",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "19268",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "19467",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "19492",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "19535",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "19576",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "19577",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "19750",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "19814",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "19908",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "19945",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "20048",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "20052",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "20056",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "20067",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "20069",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "20077",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "20080",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "20082",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "20096",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "20102",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "20114",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "20123",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "20126",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "20136",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "20139",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "20143",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "20148",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "20162",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "20164",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "20173",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "20179",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "20182",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "20186",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "20188",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "20191",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "20195",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "20202",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "20207",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "20228",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "20252",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "20254",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "20256",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "20261",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "20265",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "20268",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "20271",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "20282",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "20285",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "20290",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "20292",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "20299",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "20303",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "20311",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "20316",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "20318",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "20325",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "20330",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "20333",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "20335",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "20343",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "20344",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "20350",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "20359",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "20360",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "20363",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "20366",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "20387",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "20388",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "20400",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "20401",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "20402",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "20404",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "20421",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "20438",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "20495",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "20677",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "20713",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "20728",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "20762",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "20779",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "20788",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "20790",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "20799",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "20868",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "20939",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "20967",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "21035",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "21049",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "21123",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "21157",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "21162",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "21170",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "21206",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "21344",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "21354",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "21450",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "21475",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "21523",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "21581",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "21615",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "21648",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "21659",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "21713",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "21731",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "21762",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "21785",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "21818",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "21949",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "21968",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "21971",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "21974",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "21979",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "21982",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "21983",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "21987",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "21990",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "21999",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "22005",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "22010",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "22025",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "22027",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "22030",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "22032",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "22035",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "22041",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "22048",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "22055",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "22058",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "22080",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "22084",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "22122",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "22169",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "22200",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "22226",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "22331",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "22349",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "22452",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "22488",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "22595",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "22615",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "22634",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "22650",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "22840",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "22887",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "22891",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "22956",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "22971",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "22996",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "23199",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "23215",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "23390",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "23410",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "23416",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "23429",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "23437",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "23442",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "23448",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "23453",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "23467",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "23482",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "23484",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "23485",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "23491",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "23499",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "23504",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "23505",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "23510",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "23517",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "23523",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "23526",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "23527",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "23532",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "23544",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "23628",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "23801",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "23865",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "23960",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "24091",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "24240",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "24289",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "24540",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "24744",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "24746",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "24820",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "24911",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "24924",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "24931",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "24934",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "24957",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "24959",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "24965",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "24977",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "24981",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "24982",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "24983",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "24987",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "24999",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "25000",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "25002",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "25003",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "25012",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "25026",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "25034",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "25157",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "25262",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "25278",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "25323",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "25328",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "25430",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "25519",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "25633",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "25639",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "25716",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "25751",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "25769",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "25871",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "25883",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "25917",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "25935",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "25950",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "26227",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "26342",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "26402",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "26407",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "26467",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "26469",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "26479",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "26481",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "26487",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "26496",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "26513",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "26529",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "26530",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "26533",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "26535",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "26537",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "26544",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "26564",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "26565",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "26585",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "26587",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "26589",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "26625",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "26688",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "26770",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "26802",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "27026",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "27045",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "27083",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "27236",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "27490",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "27595",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "27687",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "27691",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "27735",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "27806",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "27996",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "28064",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "28075",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "28079",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "28089",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "28091",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "28098",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "28108",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "28119",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "28120",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "28138",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "28139",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "28144",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "28146",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "28162",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "28168",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "28169",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "28172",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "28173",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "28185",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "28191",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "28192",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "28197",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "28204",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "28206",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "28212",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "28218",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "28219",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "28220",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "28222",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "28227",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "28230",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "28234",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "28236",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "28239",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "28245",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "28266",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "28268",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "28274",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "28279",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "28286",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "28292",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "28294",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "28297",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "28303",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "28304",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "28305",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "28316",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "28322",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "28329",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "28343",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "28346",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "28350",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "28354",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "28357",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "28373",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "28374",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "28377",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "28392",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "28393",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "28395",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "28415",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "28423",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "28427",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "28431",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "28438",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "28445",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "28446",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "28457",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "28496",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "28534",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "28570",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "28642",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "28650",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "28665",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "28674",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "28716",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "28965",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "29051",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "29099",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "29191",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "29243",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "29554",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "29581",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "29729",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "29798",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "29868",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "29949",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "29953",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "29958",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "29975",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "29979",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "29984",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "29996",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "30006",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "30007",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "30031",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "30045",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "30052",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "30053",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "30056",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "30058",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "30060",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "30063",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "30064",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "30066",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "30067",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "30068",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "30073",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "30086",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "30095",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "30096",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "30099",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "30129",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "30277",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "30303",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "30326",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "30394",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "30395",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "30475",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "30546",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "30549",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "30826",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "30885",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "30925",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "30956",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "30976",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "31024",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "31088",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "31119",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "31179",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "31191",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "31195",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "31345",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "31397",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "31403",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "31481",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "31534",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "31598",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "31639",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "31647",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "31655",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "31660",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "31663",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "31664",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "31666",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "31668",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "31676",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "31679",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "31680",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "31691",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "31692",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "31694",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "31695",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "31703",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "31722",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "31739",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "31745",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "31750",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "32062",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "32117",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "32199",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "32224",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "32245",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "32443",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "32594",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "32706",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "32707",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "32723",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "32731",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "32769",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "32777",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "32907",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "32937",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "32939",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "32977",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "32996",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "33029",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "33083",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "33106",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "33116",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "33133",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "33145",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "33286",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "33295",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "33319",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "33328",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "33354",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "33366",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "33407",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "33408",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "33413",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "33414",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "33425",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "33430",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "33433",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "33434",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "33437",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "33446",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "33453",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "33459",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "33460",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "33462",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "33475",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "33484",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "33491",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "33501",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "33502",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "33510",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "33512",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "33517",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "33530",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "33532",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "33588",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "100"
+  },
+  {
+    "no_registrasi": "33739",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "33905",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "33918",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "33943",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "33979",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "34002",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "34057",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "34096",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "34101",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "34153",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "34242",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "34291",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "34313",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "34362",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "34479",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "34487",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "34526",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "34529",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "34632",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "34703",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "34826",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "34969",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "34971",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "35028",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "35038",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "35045",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "35051",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "35061",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "35066",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "109"
+  },
+  {
+    "no_registrasi": "35080",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "105"
+  },
+  {
+    "no_registrasi": "35098",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "35104",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "35105",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "35107",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "35108",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "35117",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "35118",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "35119",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "113"
+  },
+  {
+    "no_registrasi": "35121",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "35132",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "35134",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "35135",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "35147",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "104"
+  },
+  {
+    "no_registrasi": "35151",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "35171",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "35315",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "35444",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "35460",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "35521",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "35631",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "35776",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "35820",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "35855",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "35929",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "35958",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "103"
+  },
+  {
+    "no_registrasi": "36084",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "36117",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "36178",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "36198",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "118"
+  },
+  {
+    "no_registrasi": "36242",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "36272",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "119"
+  },
+  {
+    "no_registrasi": "36320",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "36352",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "36391",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "36510",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "36584",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "36587",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "36588",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "36589",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "36592",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "36597",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "36600",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "36604",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "36610",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "36613",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "36614",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "36629",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "36633",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "36637",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "36642",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "36643",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "111"
+  },
+  {
+    "no_registrasi": "36648",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "36649",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "112"
+  },
+  {
+    "no_registrasi": "36660",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "36664",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "36666",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "114"
+  },
+  {
+    "no_registrasi": "36671",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "36674",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "36680",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "36684",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "36700",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "36702",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "36703",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "117"
+  },
+  {
+    "no_registrasi": "36708",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "36715",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "36718",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "36723",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "36727",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "115"
+  },
+  {
+    "no_registrasi": "36728",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "36761",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "99"
+  },
+  {
+    "no_registrasi": "36769",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "97"
+  },
+  {
+    "no_registrasi": "36774",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "36778",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "36783",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "36786",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "108"
+  },
+  {
+    "no_registrasi": "36790",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "107"
+  },
+  {
+    "no_registrasi": "36793",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "106"
+  },
+  {
+    "no_registrasi": "36796",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "36798",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari IGD",
+    "id_pegawai": "102"
+  },
+  {
+    "no_registrasi": "36810",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "36811",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "36815",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "36824",
+    "jenis_upgrade": "1",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "96"
+  },
+  {
+    "no_registrasi": "36828",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "36831",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "120"
+  },
+  {
+    "no_registrasi": "36832",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "116"
+  },
+  {
+    "no_registrasi": "36834",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "110"
+  },
+  {
+    "no_registrasi": "36835",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Rujukan puskesmas",
+    "id_pegawai": "101"
+  },
+  {
+    "no_registrasi": "36836",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "98"
+  },
+  {
+    "no_registrasi": "36838",
+    "jenis_upgrade": "0",
+    "catatan_admisi": "Masuk dari poli",
+    "id_pegawai": "113"
+  }
+]

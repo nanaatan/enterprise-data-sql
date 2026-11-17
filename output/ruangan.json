@@ -1,0 +1,882 @@
+[
+  {
+    "id_ruangan": "1",
+    "nama_ruangan": "Kamar 001",
+    "kapasitas_ruangan": "1",
+    "status_ruangan": "Penuh",
+    "id_unit": "22",
+    "rawat_inap": {
+      "id_kelas": "1"
+    }
+  },
+  {
+    "id_ruangan": "2",
+    "nama_ruangan": "Kamar 002",
+    "kapasitas_ruangan": "1",
+    "status_ruangan": "Penuh",
+    "id_unit": "22",
+    "rawat_inap": {
+      "id_kelas": "2"
+    }
+  },
+  {
+    "id_ruangan": "3",
+    "nama_ruangan": "Kamar 003",
+    "kapasitas_ruangan": "1",
+    "status_ruangan": "Tersedia",
+    "id_unit": "22",
+    "rawat_inap": {
+      "id_kelas": "2"
+    }
+  },
+  {
+    "id_ruangan": "4",
+    "nama_ruangan": "Kamar 004",
+    "kapasitas_ruangan": "2",
+    "status_ruangan": "Penuh",
+    "id_unit": "22",
+    "rawat_inap": {
+      "id_kelas": "3"
+    }
+  },
+  {
+    "id_ruangan": "5",
+    "nama_ruangan": "Kamar 005",
+    "kapasitas_ruangan": "2",
+    "status_ruangan": "Penuh",
+    "id_unit": "23",
+    "rawat_inap": {
+      "id_kelas": "3"
+    }
+  },
+  {
+    "id_ruangan": "6",
+    "nama_ruangan": "Kamar 006",
+    "kapasitas_ruangan": "2",
+    "status_ruangan": "Penuh",
+    "id_unit": "23",
+    "rawat_inap": {
+      "id_kelas": "3"
+    }
+  },
+  {
+    "id_ruangan": "7",
+    "nama_ruangan": "Kamar 007",
+    "kapasitas_ruangan": "2",
+    "status_ruangan": "Penuh",
+    "id_unit": "23",
+    "rawat_inap": {
+      "id_kelas": "3"
+    }
+  },
+  {
+    "id_ruangan": "8",
+    "nama_ruangan": "Kamar 008",
+    "kapasitas_ruangan": "4",
+    "status_ruangan": "Tersedia",
+    "id_unit": "23",
+    "rawat_inap": {
+      "id_kelas": "4"
+    }
+  },
+  {
+    "id_ruangan": "9",
+    "nama_ruangan": "Kamar 009",
+    "kapasitas_ruangan": "4",
+    "status_ruangan": "Penuh",
+    "id_unit": "24",
+    "rawat_inap": {
+      "id_kelas": "4"
+    }
+  },
+  {
+    "id_ruangan": "10",
+    "nama_ruangan": "Kamar 010",
+    "kapasitas_ruangan": "4",
+    "status_ruangan": "Tersedia",
+    "id_unit": "24",
+    "rawat_inap": {
+      "id_kelas": "4"
+    }
+  },
+  {
+    "id_ruangan": "11",
+    "nama_ruangan": "Kamar 011",
+    "kapasitas_ruangan": "4",
+    "status_ruangan": "Penuh",
+    "id_unit": "24",
+    "rawat_inap": {
+      "id_kelas": "4"
+    }
+  },
+  {
+    "id_ruangan": "12",
+    "nama_ruangan": "Kamar 012",
+    "kapasitas_ruangan": "4",
+    "status_ruangan": "Penuh",
+    "id_unit": "24",
+    "rawat_inap": {
+      "id_kelas": "4"
+    }
+  },
+  {
+    "id_ruangan": "13",
+    "nama_ruangan": "Kamar 013",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Tersedia",
+    "id_unit": "25",
+    "rawat_inap": {
+      "id_kelas": "5"
+    }
+  },
+  {
+    "id_ruangan": "14",
+    "nama_ruangan": "Kamar 014",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "25",
+    "rawat_inap": {
+      "id_kelas": "5"
+    }
+  },
+  {
+    "id_ruangan": "15",
+    "nama_ruangan": "Kamar 015",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "25",
+    "rawat_inap": {
+      "id_kelas": "5"
+    }
+  },
+  {
+    "id_ruangan": "16",
+    "nama_ruangan": "Kamar 016",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "25",
+    "rawat_inap": {
+      "id_kelas": "5"
+    }
+  },
+  {
+    "id_ruangan": "17",
+    "nama_ruangan": "Kamar 017",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "26",
+    "rawat_inap": {
+      "id_kelas": "5"
+    }
+  },
+  {
+    "id_ruangan": "18",
+    "nama_ruangan": "Kamar 018",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "26",
+    "rawat_inap": {
+      "id_kelas": "5"
+    }
+  },
+  {
+    "id_ruangan": "19",
+    "nama_ruangan": "Kamar 019",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "26",
+    "rawat_inap": {
+      "id_kelas": "5"
+    }
+  },
+  {
+    "id_ruangan": "20",
+    "nama_ruangan": "Kamar 020",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "26",
+    "rawat_inap": {
+      "id_kelas": "5"
+    }
+  },
+  {
+    "id_ruangan": "21",
+    "nama_ruangan": "Kamar 021",
+    "kapasitas_ruangan": "1",
+    "status_ruangan": "Penuh",
+    "id_unit": "27",
+    "rawat_inap": {
+      "id_kelas": "1"
+    }
+  },
+  {
+    "id_ruangan": "22",
+    "nama_ruangan": "Kamar 022",
+    "kapasitas_ruangan": "1",
+    "status_ruangan": "Tersedia",
+    "id_unit": "27",
+    "rawat_inap": {
+      "id_kelas": "2"
+    }
+  },
+  {
+    "id_ruangan": "23",
+    "nama_ruangan": "Kamar 023",
+    "kapasitas_ruangan": "1",
+    "status_ruangan": "Penuh",
+    "id_unit": "27",
+    "rawat_inap": {
+      "id_kelas": "2"
+    }
+  },
+  {
+    "id_ruangan": "24",
+    "nama_ruangan": "Kamar 024",
+    "kapasitas_ruangan": "2",
+    "status_ruangan": "Tersedia",
+    "id_unit": "27",
+    "rawat_inap": {
+      "id_kelas": "3"
+    }
+  },
+  {
+    "id_ruangan": "25",
+    "nama_ruangan": "Kamar 025",
+    "kapasitas_ruangan": "2",
+    "status_ruangan": "Penuh",
+    "id_unit": "28",
+    "rawat_inap": {
+      "id_kelas": "3"
+    }
+  },
+  {
+    "id_ruangan": "26",
+    "nama_ruangan": "Kamar 026",
+    "kapasitas_ruangan": "2",
+    "status_ruangan": "Tersedia",
+    "id_unit": "28",
+    "rawat_inap": {
+      "id_kelas": "3"
+    }
+  },
+  {
+    "id_ruangan": "27",
+    "nama_ruangan": "Kamar 027",
+    "kapasitas_ruangan": "2",
+    "status_ruangan": "Penuh",
+    "id_unit": "28",
+    "rawat_inap": {
+      "id_kelas": "3"
+    }
+  },
+  {
+    "id_ruangan": "28",
+    "nama_ruangan": "Kamar 028",
+    "kapasitas_ruangan": "4",
+    "status_ruangan": "Tersedia",
+    "id_unit": "28",
+    "rawat_inap": {
+      "id_kelas": "4"
+    }
+  },
+  {
+    "id_ruangan": "29",
+    "nama_ruangan": "Kamar 029",
+    "kapasitas_ruangan": "4",
+    "status_ruangan": "Penuh",
+    "id_unit": "29",
+    "rawat_inap": {
+      "id_kelas": "4"
+    }
+  },
+  {
+    "id_ruangan": "30",
+    "nama_ruangan": "Kamar 030",
+    "kapasitas_ruangan": "4",
+    "status_ruangan": "Tersedia",
+    "id_unit": "29",
+    "rawat_inap": {
+      "id_kelas": "4"
+    }
+  },
+  {
+    "id_ruangan": "31",
+    "nama_ruangan": "Kamar 031",
+    "kapasitas_ruangan": "4",
+    "status_ruangan": "Tersedia",
+    "id_unit": "29",
+    "rawat_inap": {
+      "id_kelas": "4"
+    }
+  },
+  {
+    "id_ruangan": "32",
+    "nama_ruangan": "Kamar 032",
+    "kapasitas_ruangan": "4",
+    "status_ruangan": "Penuh",
+    "id_unit": "29",
+    "rawat_inap": {
+      "id_kelas": "4"
+    }
+  },
+  {
+    "id_ruangan": "33",
+    "nama_ruangan": "Kamar 033",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "30",
+    "rawat_inap": {
+      "id_kelas": "5"
+    }
+  },
+  {
+    "id_ruangan": "34",
+    "nama_ruangan": "Kamar 034",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "30",
+    "rawat_inap": {
+      "id_kelas": "5"
+    }
+  },
+  {
+    "id_ruangan": "35",
+    "nama_ruangan": "Kamar 035",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "30",
+    "rawat_inap": {
+      "id_kelas": "5"
+    }
+  },
+  {
+    "id_ruangan": "36",
+    "nama_ruangan": "Kamar 036",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "30",
+    "rawat_inap": {
+      "id_kelas": "5"
+    }
+  },
+  {
+    "id_ruangan": "37",
+    "nama_ruangan": "Kamar 037",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "31",
+    "rawat_inap": {
+      "id_kelas": "5"
+    }
+  },
+  {
+    "id_ruangan": "38",
+    "nama_ruangan": "Kamar 038",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "31",
+    "rawat_inap": {
+      "id_kelas": "5"
+    }
+  },
+  {
+    "id_ruangan": "39",
+    "nama_ruangan": "Kamar 039",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "31",
+    "rawat_inap": {
+      "id_kelas": "5"
+    }
+  },
+  {
+    "id_ruangan": "40",
+    "nama_ruangan": "Kamar 040",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "31",
+    "rawat_inap": {
+      "id_kelas": "5"
+    }
+  },
+  {
+    "id_ruangan": "41",
+    "nama_ruangan": "Kamar 041",
+    "kapasitas_ruangan": "3",
+    "status_ruangan": "Penuh",
+    "id_unit": "1",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "42",
+    "nama_ruangan": "Kamar 042",
+    "kapasitas_ruangan": "8",
+    "status_ruangan": "Tersedia",
+    "id_unit": "2",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "43",
+    "nama_ruangan": "Kamar 043",
+    "kapasitas_ruangan": "1",
+    "status_ruangan": "Penuh",
+    "id_unit": "3",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "44",
+    "nama_ruangan": "Kamar 044",
+    "kapasitas_ruangan": "1",
+    "status_ruangan": "Penuh",
+    "id_unit": "4",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "45",
+    "nama_ruangan": "Kamar 045",
+    "kapasitas_ruangan": "5",
+    "status_ruangan": "Penuh",
+    "id_unit": "5",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "46",
+    "nama_ruangan": "Kamar 046",
+    "kapasitas_ruangan": "9",
+    "status_ruangan": "Penuh",
+    "id_unit": "6",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "47",
+    "nama_ruangan": "Kamar 047",
+    "kapasitas_ruangan": "1",
+    "status_ruangan": "Penuh",
+    "id_unit": "7",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "48",
+    "nama_ruangan": "Kamar 048",
+    "kapasitas_ruangan": "10",
+    "status_ruangan": "Penuh",
+    "id_unit": "8",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "49",
+    "nama_ruangan": "Kamar 049",
+    "kapasitas_ruangan": "3",
+    "status_ruangan": "Tersedia",
+    "id_unit": "9",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "50",
+    "nama_ruangan": "Kamar 050",
+    "kapasitas_ruangan": "2",
+    "status_ruangan": "Tersedia",
+    "id_unit": "10",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "51",
+    "nama_ruangan": "Kamar 051",
+    "kapasitas_ruangan": "5",
+    "status_ruangan": "Tersedia",
+    "id_unit": "11",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "52",
+    "nama_ruangan": "Kamar 052",
+    "kapasitas_ruangan": "5",
+    "status_ruangan": "Penuh",
+    "id_unit": "12",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "53",
+    "nama_ruangan": "Kamar 053",
+    "kapasitas_ruangan": "9",
+    "status_ruangan": "Penuh",
+    "id_unit": "13",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "54",
+    "nama_ruangan": "Kamar 054",
+    "kapasitas_ruangan": "7",
+    "status_ruangan": "Penuh",
+    "id_unit": "14",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "55",
+    "nama_ruangan": "Kamar 055",
+    "kapasitas_ruangan": "5",
+    "status_ruangan": "Penuh",
+    "id_unit": "15",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "56",
+    "nama_ruangan": "Kamar 056",
+    "kapasitas_ruangan": "3",
+    "status_ruangan": "Penuh",
+    "id_unit": "16",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "57",
+    "nama_ruangan": "Kamar 057",
+    "kapasitas_ruangan": "4",
+    "status_ruangan": "Penuh",
+    "id_unit": "17",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "58",
+    "nama_ruangan": "Kamar 058",
+    "kapasitas_ruangan": "9",
+    "status_ruangan": "Tersedia",
+    "id_unit": "18",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "59",
+    "nama_ruangan": "Kamar 059",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "19",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "60",
+    "nama_ruangan": "Kamar 060",
+    "kapasitas_ruangan": "9",
+    "status_ruangan": "Tersedia",
+    "id_unit": "20",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "61",
+    "nama_ruangan": "Kamar 061",
+    "kapasitas_ruangan": "4",
+    "status_ruangan": "Penuh",
+    "id_unit": "21",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "62",
+    "nama_ruangan": "Kamar 062",
+    "kapasitas_ruangan": "8",
+    "status_ruangan": "Penuh",
+    "id_unit": "32",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "63",
+    "nama_ruangan": "Kamar 063",
+    "kapasitas_ruangan": "9",
+    "status_ruangan": "Penuh",
+    "id_unit": "33",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "64",
+    "nama_ruangan": "Kamar 064",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "34",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "65",
+    "nama_ruangan": "Kamar 065",
+    "kapasitas_ruangan": "8",
+    "status_ruangan": "Tersedia",
+    "id_unit": "35",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "66",
+    "nama_ruangan": "Kamar 066",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "36",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "67",
+    "nama_ruangan": "Kamar 067",
+    "kapasitas_ruangan": "2",
+    "status_ruangan": "Penuh",
+    "id_unit": "37",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "68",
+    "nama_ruangan": "Kamar 068",
+    "kapasitas_ruangan": "3",
+    "status_ruangan": "Penuh",
+    "id_unit": "38",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "69",
+    "nama_ruangan": "Kamar 069",
+    "kapasitas_ruangan": "2",
+    "status_ruangan": "Penuh",
+    "id_unit": "39",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "70",
+    "nama_ruangan": "Kamar 070",
+    "kapasitas_ruangan": "8",
+    "status_ruangan": "Penuh",
+    "id_unit": "40",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "71",
+    "nama_ruangan": "Kamar 071",
+    "kapasitas_ruangan": "9",
+    "status_ruangan": "Tersedia",
+    "id_unit": "1",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "72",
+    "nama_ruangan": "Kamar 072",
+    "kapasitas_ruangan": "4",
+    "status_ruangan": "Tersedia",
+    "id_unit": "2",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "73",
+    "nama_ruangan": "Kamar 073",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "3",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "74",
+    "nama_ruangan": "Kamar 074",
+    "kapasitas_ruangan": "7",
+    "status_ruangan": "Tersedia",
+    "id_unit": "4",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "75",
+    "nama_ruangan": "Kamar 075",
+    "kapasitas_ruangan": "10",
+    "status_ruangan": "Tersedia",
+    "id_unit": "5",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "76",
+    "nama_ruangan": "Kamar 076",
+    "kapasitas_ruangan": "4",
+    "status_ruangan": "Penuh",
+    "id_unit": "6",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "77",
+    "nama_ruangan": "Kamar 077",
+    "kapasitas_ruangan": "8",
+    "status_ruangan": "Tersedia",
+    "id_unit": "7",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "78",
+    "nama_ruangan": "Kamar 078",
+    "kapasitas_ruangan": "4",
+    "status_ruangan": "Penuh",
+    "id_unit": "8",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "79",
+    "nama_ruangan": "Kamar 079",
+    "kapasitas_ruangan": "1",
+    "status_ruangan": "Penuh",
+    "id_unit": "9",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "80",
+    "nama_ruangan": "Kamar 080",
+    "kapasitas_ruangan": "1",
+    "status_ruangan": "Penuh",
+    "id_unit": "10",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "81",
+    "nama_ruangan": "Kamar 081",
+    "kapasitas_ruangan": "2",
+    "status_ruangan": "Tersedia",
+    "id_unit": "11",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "82",
+    "nama_ruangan": "Kamar 082",
+    "kapasitas_ruangan": "9",
+    "status_ruangan": "Tersedia",
+    "id_unit": "12",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "83",
+    "nama_ruangan": "Kamar 083",
+    "kapasitas_ruangan": "7",
+    "status_ruangan": "Tersedia",
+    "id_unit": "13",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "84",
+    "nama_ruangan": "Kamar 084",
+    "kapasitas_ruangan": "8",
+    "status_ruangan": "Penuh",
+    "id_unit": "14",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "85",
+    "nama_ruangan": "Kamar 085",
+    "kapasitas_ruangan": "5",
+    "status_ruangan": "Penuh",
+    "id_unit": "15",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "86",
+    "nama_ruangan": "Kamar 086",
+    "kapasitas_ruangan": "5",
+    "status_ruangan": "Penuh",
+    "id_unit": "16",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "87",
+    "nama_ruangan": "Kamar 087",
+    "kapasitas_ruangan": "3",
+    "status_ruangan": "Penuh",
+    "id_unit": "17",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "88",
+    "nama_ruangan": "Kamar 088",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "18",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "89",
+    "nama_ruangan": "Kamar 089",
+    "kapasitas_ruangan": "5",
+    "status_ruangan": "Penuh",
+    "id_unit": "19",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "90",
+    "nama_ruangan": "Kamar 090",
+    "kapasitas_ruangan": "3",
+    "status_ruangan": "Tersedia",
+    "id_unit": "20",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "91",
+    "nama_ruangan": "Kamar 091",
+    "kapasitas_ruangan": "8",
+    "status_ruangan": "Penuh",
+    "id_unit": "21",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "92",
+    "nama_ruangan": "Kamar 092",
+    "kapasitas_ruangan": "5",
+    "status_ruangan": "Penuh",
+    "id_unit": "32",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "93",
+    "nama_ruangan": "Kamar 093",
+    "kapasitas_ruangan": "4",
+    "status_ruangan": "Penuh",
+    "id_unit": "33",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "94",
+    "nama_ruangan": "Kamar 094",
+    "kapasitas_ruangan": "9",
+    "status_ruangan": "Penuh",
+    "id_unit": "34",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "95",
+    "nama_ruangan": "Kamar 095",
+    "kapasitas_ruangan": "2",
+    "status_ruangan": "Penuh",
+    "id_unit": "35",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "96",
+    "nama_ruangan": "Kamar 096",
+    "kapasitas_ruangan": "5",
+    "status_ruangan": "Penuh",
+    "id_unit": "36",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "97",
+    "nama_ruangan": "Kamar 097",
+    "kapasitas_ruangan": "7",
+    "status_ruangan": "Penuh",
+    "id_unit": "37",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "98",
+    "nama_ruangan": "Kamar 098",
+    "kapasitas_ruangan": "3",
+    "status_ruangan": "Penuh",
+    "id_unit": "38",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "99",
+    "nama_ruangan": "Kamar 099",
+    "kapasitas_ruangan": "8",
+    "status_ruangan": "Tersedia",
+    "id_unit": "39",
+    "rawat_inap": null
+  },
+  {
+    "id_ruangan": "100",
+    "nama_ruangan": "Kamar 100",
+    "kapasitas_ruangan": "6",
+    "status_ruangan": "Penuh",
+    "id_unit": "40",
+    "rawat_inap": null
+  }
+]

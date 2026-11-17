@@ -1,0 +1,41 @@
+id_unit,ruang_unit,departemen
+1,Poli Penyakit Dalam,Rawat Jalan
+2,Poli Anak,Rawat Jalan
+3,Poli Obstetri dan Ginekologi,Rawat Jalan
+4,Poli Bedah Umum,Rawat Jalan
+5,Poli Neurologi,Rawat Jalan
+6,Poli Kardiologi,Rawat Jalan
+7,Poli Pulmonologi,Rawat Jalan
+8,Poli Mata,Rawat Jalan
+9,Poli THT,Rawat Jalan
+10,Poli Kulit dan Kelamin,Rawat Jalan
+11,Poli Psikiatri,Rawat Jalan
+12,Poli Gigi dan Mulut,Rawat Jalan
+13,Poli Ortopedi,Rawat Jalan
+14,Poli Urologi,Rawat Jalan
+15,Poli Rehabilitasi Medik,Rawat Jalan
+16,Poli Anestesiologi,Rawat Jalan
+17,Poli Radiologi,Rawat Jalan
+18,Poli Patologi Klinik,Rawat Jalan
+19,Poli Umum,Rawat Jalan
+20,Poli Geriatri,Rawat Jalan
+21,Instalasi Gawat Darurat,Gawat Darurat
+22,Ruang Melati,Rawat Inap
+23,Ruang Mawar,Rawat Inap
+24,Ruang Anggrek,Rawat Inap
+25,Ruang Dahlia,Rawat Inap
+26,Ruang Kenanga,Rawat Inap
+27,Ruang Cempaka,Rawat Inap
+28,Ruang Flamboyan,Rawat Inap
+29,Ruang Teratai,Rawat Inap
+30,Ruang Seruni,Rawat Inap
+31,Ruang Bougenville,Rawat Inap
+32,Laboratorium Patologi Klinik,Penunjang Medis
+33,Laboratorium Patologi Anatomi,Penunjang Medis
+34,Instalasi Radiologi,Penunjang Medis
+35,Farmasi Rawat Jalan,Farmasi
+36,Farmasi Rawat Inap,Farmasi
+37,Instalasi Gizi,Gizi
+38,Instalasi Bedah Sentral,Bedah
+39,ICU,Intensif
+40,Unit Hemodialisa,Rawat Jalan

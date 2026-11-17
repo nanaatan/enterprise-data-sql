@@ -1,0 +1,22 @@
+[
+  {
+    "id_kelas": "1",
+    "nama_kelas": "VVIP"
+  },
+  {
+    "id_kelas": "2",
+    "nama_kelas": "VIP"
+  },
+  {
+    "id_kelas": "3",
+    "nama_kelas": "Kelas I"
+  },
+  {
+    "id_kelas": "4",
+    "nama_kelas": "Kelas II"
+  },
+  {
+    "id_kelas": "5",
+    "nama_kelas": "Kelas III"
+  }
+]

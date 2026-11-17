@@ -1,0 +1,501 @@
+id_layanan,nama_layanan,kategori,deskripsi
+1,Konsultasi Dokter Spesialis 001,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+2,Pemeriksaan Lanjutan 002,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+3,Visite Dokter 003,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+4,Konsultasi Antar Bagian 004,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+5,Konsultasi Dokter Umum 005,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+6,Konsultasi Dokter Spesialis 006,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+7,Pemeriksaan Lanjutan 007,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+8,Visite Dokter 008,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+9,Konsultasi Antar Bagian 009,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+10,Konsultasi Dokter Umum 010,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+11,Konsultasi Dokter Spesialis 011,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+12,Pemeriksaan Lanjutan 012,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+13,Visite Dokter 013,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+14,Konsultasi Antar Bagian 014,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+15,Konsultasi Dokter Umum 015,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+16,Konsultasi Dokter Spesialis 016,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+17,Pemeriksaan Lanjutan 017,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+18,Visite Dokter 018,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+19,Konsultasi Antar Bagian 019,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+20,Konsultasi Dokter Umum 020,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+21,Konsultasi Dokter Spesialis 021,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+22,Pemeriksaan Lanjutan 022,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+23,Visite Dokter 023,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+24,Konsultasi Antar Bagian 024,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+25,Konsultasi Dokter Umum 025,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+26,Konsultasi Dokter Spesialis 026,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+27,Pemeriksaan Lanjutan 027,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+28,Visite Dokter 028,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+29,Konsultasi Antar Bagian 029,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+30,Konsultasi Dokter Umum 030,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+31,Konsultasi Dokter Spesialis 031,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+32,Pemeriksaan Lanjutan 032,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+33,Visite Dokter 033,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+34,Konsultasi Antar Bagian 034,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+35,Konsultasi Dokter Umum 035,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+36,Konsultasi Dokter Spesialis 036,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+37,Pemeriksaan Lanjutan 037,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+38,Visite Dokter 038,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+39,Konsultasi Antar Bagian 039,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+40,Konsultasi Dokter Umum 040,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+41,Konsultasi Dokter Spesialis 041,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+42,Pemeriksaan Lanjutan 042,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+43,Visite Dokter 043,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+44,Konsultasi Antar Bagian 044,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+45,Konsultasi Dokter Umum 045,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+46,Konsultasi Dokter Spesialis 046,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+47,Pemeriksaan Lanjutan 047,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+48,Visite Dokter 048,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+49,Konsultasi Antar Bagian 049,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+50,Konsultasi Dokter Umum 050,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+51,Konsultasi Dokter Spesialis 051,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+52,Pemeriksaan Lanjutan 052,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+53,Visite Dokter 053,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+54,Konsultasi Antar Bagian 054,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+55,Konsultasi Dokter Umum 055,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+56,Konsultasi Dokter Spesialis 056,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+57,Pemeriksaan Lanjutan 057,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+58,Visite Dokter 058,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+59,Konsultasi Antar Bagian 059,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+60,Konsultasi Dokter Umum 060,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+61,Konsultasi Dokter Spesialis 061,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+62,Pemeriksaan Lanjutan 062,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+63,Visite Dokter 063,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+64,Konsultasi Antar Bagian 064,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+65,Konsultasi Dokter Umum 065,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+66,Konsultasi Dokter Spesialis 066,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+67,Pemeriksaan Lanjutan 067,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+68,Visite Dokter 068,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+69,Konsultasi Antar Bagian 069,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+70,Konsultasi Dokter Umum 070,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+71,Konsultasi Dokter Spesialis 071,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+72,Pemeriksaan Lanjutan 072,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+73,Visite Dokter 073,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+74,Konsultasi Antar Bagian 074,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+75,Konsultasi Dokter Umum 075,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+76,Konsultasi Dokter Spesialis 076,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+77,Pemeriksaan Lanjutan 077,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+78,Visite Dokter 078,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+79,Konsultasi Antar Bagian 079,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+80,Konsultasi Dokter Umum 080,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+81,Konsultasi Dokter Spesialis 081,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+82,Pemeriksaan Lanjutan 082,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+83,Visite Dokter 083,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+84,Konsultasi Antar Bagian 084,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+85,Konsultasi Dokter Umum 085,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+86,Konsultasi Dokter Spesialis 086,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+87,Pemeriksaan Lanjutan 087,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+88,Visite Dokter 088,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+89,Konsultasi Antar Bagian 089,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+90,Konsultasi Dokter Umum 090,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+91,Konsultasi Dokter Spesialis 091,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+92,Pemeriksaan Lanjutan 092,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+93,Visite Dokter 093,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+94,Konsultasi Antar Bagian 094,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+95,Konsultasi Dokter Umum 095,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+96,Konsultasi Dokter Spesialis 096,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+97,Pemeriksaan Lanjutan 097,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+98,Visite Dokter 098,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+99,Konsultasi Antar Bagian 099,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+100,Konsultasi Dokter Umum 100,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+101,Konsultasi Dokter Spesialis 101,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+102,Pemeriksaan Lanjutan 102,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+103,Visite Dokter 103,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+104,Konsultasi Antar Bagian 104,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+105,Konsultasi Dokter Umum 105,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+106,Konsultasi Dokter Spesialis 106,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+107,Pemeriksaan Lanjutan 107,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+108,Visite Dokter 108,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+109,Konsultasi Antar Bagian 109,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+110,Konsultasi Dokter Umum 110,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+111,Konsultasi Dokter Spesialis 111,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+112,Pemeriksaan Lanjutan 112,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+113,Visite Dokter 113,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+114,Konsultasi Antar Bagian 114,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+115,Konsultasi Dokter Umum 115,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+116,Konsultasi Dokter Spesialis 116,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+117,Pemeriksaan Lanjutan 117,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+118,Visite Dokter 118,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+119,Konsultasi Antar Bagian 119,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+120,Konsultasi Dokter Umum 120,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+121,Konsultasi Dokter Spesialis 121,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+122,Pemeriksaan Lanjutan 122,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+123,Visite Dokter 123,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+124,Konsultasi Antar Bagian 124,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+125,Konsultasi Dokter Umum 125,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+126,Konsultasi Dokter Spesialis 126,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+127,Pemeriksaan Lanjutan 127,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+128,Visite Dokter 128,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+129,Konsultasi Antar Bagian 129,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+130,Konsultasi Dokter Umum 130,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+131,Konsultasi Dokter Spesialis 131,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+132,Pemeriksaan Lanjutan 132,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+133,Visite Dokter 133,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+134,Konsultasi Antar Bagian 134,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+135,Konsultasi Dokter Umum 135,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+136,Konsultasi Dokter Spesialis 136,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+137,Pemeriksaan Lanjutan 137,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+138,Visite Dokter 138,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+139,Konsultasi Antar Bagian 139,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+140,Konsultasi Dokter Umum 140,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+141,Konsultasi Dokter Spesialis 141,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+142,Pemeriksaan Lanjutan 142,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+143,Visite Dokter 143,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+144,Konsultasi Antar Bagian 144,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+145,Konsultasi Dokter Umum 145,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+146,Konsultasi Dokter Spesialis 146,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+147,Pemeriksaan Lanjutan 147,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+148,Visite Dokter 148,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+149,Konsultasi Antar Bagian 149,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+150,Konsultasi Dokter Umum 150,Pemeriksaan,Layanan sintetis kategori Pemeriksaan
+151,Hemodialisa 151,Tindakan,Layanan sintetis kategori Tindakan
+152,Perawatan Luka 152,Tindakan,Layanan sintetis kategori Tindakan
+153,Pemasangan Infus 153,Tindakan,Layanan sintetis kategori Tindakan
+154,Nebulisasi 154,Tindakan,Layanan sintetis kategori Tindakan
+155,Injeksi 155,Tindakan,Layanan sintetis kategori Tindakan
+156,Pemasangan Kateter 156,Tindakan,Layanan sintetis kategori Tindakan
+157,Hecting 157,Tindakan,Layanan sintetis kategori Tindakan
+158,EKG 158,Tindakan,Layanan sintetis kategori Tindakan
+159,Hemodialisa 159,Tindakan,Layanan sintetis kategori Tindakan
+160,Perawatan Luka 160,Tindakan,Layanan sintetis kategori Tindakan
+161,Pemasangan Infus 161,Tindakan,Layanan sintetis kategori Tindakan
+162,Nebulisasi 162,Tindakan,Layanan sintetis kategori Tindakan
+163,Injeksi 163,Tindakan,Layanan sintetis kategori Tindakan
+164,Pemasangan Kateter 164,Tindakan,Layanan sintetis kategori Tindakan
+165,Hecting 165,Tindakan,Layanan sintetis kategori Tindakan
+166,EKG 166,Tindakan,Layanan sintetis kategori Tindakan
+167,Hemodialisa 167,Tindakan,Layanan sintetis kategori Tindakan
+168,Perawatan Luka 168,Tindakan,Layanan sintetis kategori Tindakan
+169,Pemasangan Infus 169,Tindakan,Layanan sintetis kategori Tindakan
+170,Nebulisasi 170,Tindakan,Layanan sintetis kategori Tindakan
+171,Injeksi 171,Tindakan,Layanan sintetis kategori Tindakan
+172,Pemasangan Kateter 172,Tindakan,Layanan sintetis kategori Tindakan
+173,Hecting 173,Tindakan,Layanan sintetis kategori Tindakan
+174,EKG 174,Tindakan,Layanan sintetis kategori Tindakan
+175,Hemodialisa 175,Tindakan,Layanan sintetis kategori Tindakan
+176,Perawatan Luka 176,Tindakan,Layanan sintetis kategori Tindakan
+177,Pemasangan Infus 177,Tindakan,Layanan sintetis kategori Tindakan
+178,Nebulisasi 178,Tindakan,Layanan sintetis kategori Tindakan
+179,Injeksi 179,Tindakan,Layanan sintetis kategori Tindakan
+180,Pemasangan Kateter 180,Tindakan,Layanan sintetis kategori Tindakan
+181,Hecting 181,Tindakan,Layanan sintetis kategori Tindakan
+182,EKG 182,Tindakan,Layanan sintetis kategori Tindakan
+183,Hemodialisa 183,Tindakan,Layanan sintetis kategori Tindakan
+184,Perawatan Luka 184,Tindakan,Layanan sintetis kategori Tindakan
+185,Pemasangan Infus 185,Tindakan,Layanan sintetis kategori Tindakan
+186,Nebulisasi 186,Tindakan,Layanan sintetis kategori Tindakan
+187,Injeksi 187,Tindakan,Layanan sintetis kategori Tindakan
+188,Pemasangan Kateter 188,Tindakan,Layanan sintetis kategori Tindakan
+189,Hecting 189,Tindakan,Layanan sintetis kategori Tindakan
+190,EKG 190,Tindakan,Layanan sintetis kategori Tindakan
+191,Hemodialisa 191,Tindakan,Layanan sintetis kategori Tindakan
+192,Perawatan Luka 192,Tindakan,Layanan sintetis kategori Tindakan
+193,Pemasangan Infus 193,Tindakan,Layanan sintetis kategori Tindakan
+194,Nebulisasi 194,Tindakan,Layanan sintetis kategori Tindakan
+195,Injeksi 195,Tindakan,Layanan sintetis kategori Tindakan
+196,Pemasangan Kateter 196,Tindakan,Layanan sintetis kategori Tindakan
+197,Hecting 197,Tindakan,Layanan sintetis kategori Tindakan
+198,EKG 198,Tindakan,Layanan sintetis kategori Tindakan
+199,Hemodialisa 199,Tindakan,Layanan sintetis kategori Tindakan
+200,Perawatan Luka 200,Tindakan,Layanan sintetis kategori Tindakan
+201,Pemasangan Infus 201,Tindakan,Layanan sintetis kategori Tindakan
+202,Nebulisasi 202,Tindakan,Layanan sintetis kategori Tindakan
+203,Injeksi 203,Tindakan,Layanan sintetis kategori Tindakan
+204,Pemasangan Kateter 204,Tindakan,Layanan sintetis kategori Tindakan
+205,Hecting 205,Tindakan,Layanan sintetis kategori Tindakan
+206,EKG 206,Tindakan,Layanan sintetis kategori Tindakan
+207,Hemodialisa 207,Tindakan,Layanan sintetis kategori Tindakan
+208,Perawatan Luka 208,Tindakan,Layanan sintetis kategori Tindakan
+209,Pemasangan Infus 209,Tindakan,Layanan sintetis kategori Tindakan
+210,Nebulisasi 210,Tindakan,Layanan sintetis kategori Tindakan
+211,Injeksi 211,Tindakan,Layanan sintetis kategori Tindakan
+212,Pemasangan Kateter 212,Tindakan,Layanan sintetis kategori Tindakan
+213,Hecting 213,Tindakan,Layanan sintetis kategori Tindakan
+214,EKG 214,Tindakan,Layanan sintetis kategori Tindakan
+215,Hemodialisa 215,Tindakan,Layanan sintetis kategori Tindakan
+216,Perawatan Luka 216,Tindakan,Layanan sintetis kategori Tindakan
+217,Pemasangan Infus 217,Tindakan,Layanan sintetis kategori Tindakan
+218,Nebulisasi 218,Tindakan,Layanan sintetis kategori Tindakan
+219,Injeksi 219,Tindakan,Layanan sintetis kategori Tindakan
+220,Pemasangan Kateter 220,Tindakan,Layanan sintetis kategori Tindakan
+221,Hecting 221,Tindakan,Layanan sintetis kategori Tindakan
+222,EKG 222,Tindakan,Layanan sintetis kategori Tindakan
+223,Hemodialisa 223,Tindakan,Layanan sintetis kategori Tindakan
+224,Perawatan Luka 224,Tindakan,Layanan sintetis kategori Tindakan
+225,Pemasangan Infus 225,Tindakan,Layanan sintetis kategori Tindakan
+226,Nebulisasi 226,Tindakan,Layanan sintetis kategori Tindakan
+227,Injeksi 227,Tindakan,Layanan sintetis kategori Tindakan
+228,Pemasangan Kateter 228,Tindakan,Layanan sintetis kategori Tindakan
+229,Hecting 229,Tindakan,Layanan sintetis kategori Tindakan
+230,EKG 230,Tindakan,Layanan sintetis kategori Tindakan
+231,Hemodialisa 231,Tindakan,Layanan sintetis kategori Tindakan
+232,Perawatan Luka 232,Tindakan,Layanan sintetis kategori Tindakan
+233,Pemasangan Infus 233,Tindakan,Layanan sintetis kategori Tindakan
+234,Nebulisasi 234,Tindakan,Layanan sintetis kategori Tindakan
+235,Injeksi 235,Tindakan,Layanan sintetis kategori Tindakan
+236,Pemasangan Kateter 236,Tindakan,Layanan sintetis kategori Tindakan
+237,Hecting 237,Tindakan,Layanan sintetis kategori Tindakan
+238,EKG 238,Tindakan,Layanan sintetis kategori Tindakan
+239,Hemodialisa 239,Tindakan,Layanan sintetis kategori Tindakan
+240,Perawatan Luka 240,Tindakan,Layanan sintetis kategori Tindakan
+241,Pemasangan Infus 241,Tindakan,Layanan sintetis kategori Tindakan
+242,Nebulisasi 242,Tindakan,Layanan sintetis kategori Tindakan
+243,Injeksi 243,Tindakan,Layanan sintetis kategori Tindakan
+244,Pemasangan Kateter 244,Tindakan,Layanan sintetis kategori Tindakan
+245,Hecting 245,Tindakan,Layanan sintetis kategori Tindakan
+246,EKG 246,Tindakan,Layanan sintetis kategori Tindakan
+247,Hemodialisa 247,Tindakan,Layanan sintetis kategori Tindakan
+248,Perawatan Luka 248,Tindakan,Layanan sintetis kategori Tindakan
+249,Pemasangan Infus 249,Tindakan,Layanan sintetis kategori Tindakan
+250,Nebulisasi 250,Tindakan,Layanan sintetis kategori Tindakan
+251,Injeksi 251,Tindakan,Layanan sintetis kategori Tindakan
+252,Pemasangan Kateter 252,Tindakan,Layanan sintetis kategori Tindakan
+253,Hecting 253,Tindakan,Layanan sintetis kategori Tindakan
+254,EKG 254,Tindakan,Layanan sintetis kategori Tindakan
+255,Hemodialisa 255,Tindakan,Layanan sintetis kategori Tindakan
+256,Perawatan Luka 256,Tindakan,Layanan sintetis kategori Tindakan
+257,Pemasangan Infus 257,Tindakan,Layanan sintetis kategori Tindakan
+258,Nebulisasi 258,Tindakan,Layanan sintetis kategori Tindakan
+259,Injeksi 259,Tindakan,Layanan sintetis kategori Tindakan
+260,Pemasangan Kateter 260,Tindakan,Layanan sintetis kategori Tindakan
+261,Hecting 261,Tindakan,Layanan sintetis kategori Tindakan
+262,EKG 262,Tindakan,Layanan sintetis kategori Tindakan
+263,Hemodialisa 263,Tindakan,Layanan sintetis kategori Tindakan
+264,Perawatan Luka 264,Tindakan,Layanan sintetis kategori Tindakan
+265,Pemasangan Infus 265,Tindakan,Layanan sintetis kategori Tindakan
+266,Nebulisasi 266,Tindakan,Layanan sintetis kategori Tindakan
+267,Injeksi 267,Tindakan,Layanan sintetis kategori Tindakan
+268,Pemasangan Kateter 268,Tindakan,Layanan sintetis kategori Tindakan
+269,Hecting 269,Tindakan,Layanan sintetis kategori Tindakan
+270,EKG 270,Tindakan,Layanan sintetis kategori Tindakan
+271,Hemodialisa 271,Tindakan,Layanan sintetis kategori Tindakan
+272,Perawatan Luka 272,Tindakan,Layanan sintetis kategori Tindakan
+273,Pemasangan Infus 273,Tindakan,Layanan sintetis kategori Tindakan
+274,Nebulisasi 274,Tindakan,Layanan sintetis kategori Tindakan
+275,Injeksi 275,Tindakan,Layanan sintetis kategori Tindakan
+276,Pemasangan Kateter 276,Tindakan,Layanan sintetis kategori Tindakan
+277,Hecting 277,Tindakan,Layanan sintetis kategori Tindakan
+278,EKG 278,Tindakan,Layanan sintetis kategori Tindakan
+279,Hemodialisa 279,Tindakan,Layanan sintetis kategori Tindakan
+280,Perawatan Luka 280,Tindakan,Layanan sintetis kategori Tindakan
+281,Pemasangan Infus 281,Tindakan,Layanan sintetis kategori Tindakan
+282,Nebulisasi 282,Tindakan,Layanan sintetis kategori Tindakan
+283,Injeksi 283,Tindakan,Layanan sintetis kategori Tindakan
+284,Pemasangan Kateter 284,Tindakan,Layanan sintetis kategori Tindakan
+285,Hecting 285,Tindakan,Layanan sintetis kategori Tindakan
+286,EKG 286,Tindakan,Layanan sintetis kategori Tindakan
+287,Hemodialisa 287,Tindakan,Layanan sintetis kategori Tindakan
+288,Perawatan Luka 288,Tindakan,Layanan sintetis kategori Tindakan
+289,Pemasangan Infus 289,Tindakan,Layanan sintetis kategori Tindakan
+290,Nebulisasi 290,Tindakan,Layanan sintetis kategori Tindakan
+291,Injeksi 291,Tindakan,Layanan sintetis kategori Tindakan
+292,Pemasangan Kateter 292,Tindakan,Layanan sintetis kategori Tindakan
+293,Hecting 293,Tindakan,Layanan sintetis kategori Tindakan
+294,EKG 294,Tindakan,Layanan sintetis kategori Tindakan
+295,Hemodialisa 295,Tindakan,Layanan sintetis kategori Tindakan
+296,Perawatan Luka 296,Tindakan,Layanan sintetis kategori Tindakan
+297,Pemasangan Infus 297,Tindakan,Layanan sintetis kategori Tindakan
+298,Nebulisasi 298,Tindakan,Layanan sintetis kategori Tindakan
+299,Injeksi 299,Tindakan,Layanan sintetis kategori Tindakan
+300,Pemasangan Kateter 300,Tindakan,Layanan sintetis kategori Tindakan
+301,Fungsi Hati 301,Laboratorium,Layanan sintetis kategori Laboratorium
+302,Profil Lipid 302,Laboratorium,Layanan sintetis kategori Laboratorium
+303,Urinalisis 303,Laboratorium,Layanan sintetis kategori Laboratorium
+304,Kultur Darah 304,Laboratorium,Layanan sintetis kategori Laboratorium
+305,Elektrolit 305,Laboratorium,Layanan sintetis kategori Laboratorium
+306,Hematologi Lengkap 306,Laboratorium,Layanan sintetis kategori Laboratorium
+307,Gula Darah Sewaktu 307,Laboratorium,Layanan sintetis kategori Laboratorium
+308,HbA1c 308,Laboratorium,Layanan sintetis kategori Laboratorium
+309,Fungsi Ginjal 309,Laboratorium,Layanan sintetis kategori Laboratorium
+310,Fungsi Hati 310,Laboratorium,Layanan sintetis kategori Laboratorium
+311,Profil Lipid 311,Laboratorium,Layanan sintetis kategori Laboratorium
+312,Urinalisis 312,Laboratorium,Layanan sintetis kategori Laboratorium
+313,Kultur Darah 313,Laboratorium,Layanan sintetis kategori Laboratorium
+314,Elektrolit 314,Laboratorium,Layanan sintetis kategori Laboratorium
+315,Hematologi Lengkap 315,Laboratorium,Layanan sintetis kategori Laboratorium
+316,Gula Darah Sewaktu 316,Laboratorium,Layanan sintetis kategori Laboratorium
+317,HbA1c 317,Laboratorium,Layanan sintetis kategori Laboratorium
+318,Fungsi Ginjal 318,Laboratorium,Layanan sintetis kategori Laboratorium
+319,Fungsi Hati 319,Laboratorium,Layanan sintetis kategori Laboratorium
+320,Profil Lipid 320,Laboratorium,Layanan sintetis kategori Laboratorium
+321,Urinalisis 321,Laboratorium,Layanan sintetis kategori Laboratorium
+322,Kultur Darah 322,Laboratorium,Layanan sintetis kategori Laboratorium
+323,Elektrolit 323,Laboratorium,Layanan sintetis kategori Laboratorium
+324,Hematologi Lengkap 324,Laboratorium,Layanan sintetis kategori Laboratorium
+325,Gula Darah Sewaktu 325,Laboratorium,Layanan sintetis kategori Laboratorium
+326,HbA1c 326,Laboratorium,Layanan sintetis kategori Laboratorium
+327,Fungsi Ginjal 327,Laboratorium,Layanan sintetis kategori Laboratorium
+328,Fungsi Hati 328,Laboratorium,Layanan sintetis kategori Laboratorium
+329,Profil Lipid 329,Laboratorium,Layanan sintetis kategori Laboratorium
+330,Urinalisis 330,Laboratorium,Layanan sintetis kategori Laboratorium
+331,Kultur Darah 331,Laboratorium,Layanan sintetis kategori Laboratorium
+332,Elektrolit 332,Laboratorium,Layanan sintetis kategori Laboratorium
+333,Hematologi Lengkap 333,Laboratorium,Layanan sintetis kategori Laboratorium
+334,Gula Darah Sewaktu 334,Laboratorium,Layanan sintetis kategori Laboratorium
+335,HbA1c 335,Laboratorium,Layanan sintetis kategori Laboratorium
+336,Fungsi Ginjal 336,Laboratorium,Layanan sintetis kategori Laboratorium
+337,Fungsi Hati 337,Laboratorium,Layanan sintetis kategori Laboratorium
+338,Profil Lipid 338,Laboratorium,Layanan sintetis kategori Laboratorium
+339,Urinalisis 339,Laboratorium,Layanan sintetis kategori Laboratorium
+340,Kultur Darah 340,Laboratorium,Layanan sintetis kategori Laboratorium
+341,Elektrolit 341,Laboratorium,Layanan sintetis kategori Laboratorium
+342,Hematologi Lengkap 342,Laboratorium,Layanan sintetis kategori Laboratorium
+343,Gula Darah Sewaktu 343,Laboratorium,Layanan sintetis kategori Laboratorium
+344,HbA1c 344,Laboratorium,Layanan sintetis kategori Laboratorium
+345,Fungsi Ginjal 345,Laboratorium,Layanan sintetis kategori Laboratorium
+346,Fungsi Hati 346,Laboratorium,Layanan sintetis kategori Laboratorium
+347,Profil Lipid 347,Laboratorium,Layanan sintetis kategori Laboratorium
+348,Urinalisis 348,Laboratorium,Layanan sintetis kategori Laboratorium
+349,Kultur Darah 349,Laboratorium,Layanan sintetis kategori Laboratorium
+350,Elektrolit 350,Laboratorium,Layanan sintetis kategori Laboratorium
+351,Hematologi Lengkap 351,Laboratorium,Layanan sintetis kategori Laboratorium
+352,Gula Darah Sewaktu 352,Laboratorium,Layanan sintetis kategori Laboratorium
+353,HbA1c 353,Laboratorium,Layanan sintetis kategori Laboratorium
+354,Fungsi Ginjal 354,Laboratorium,Layanan sintetis kategori Laboratorium
+355,Fungsi Hati 355,Laboratorium,Layanan sintetis kategori Laboratorium
+356,Profil Lipid 356,Laboratorium,Layanan sintetis kategori Laboratorium
+357,Urinalisis 357,Laboratorium,Layanan sintetis kategori Laboratorium
+358,Kultur Darah 358,Laboratorium,Layanan sintetis kategori Laboratorium
+359,Elektrolit 359,Laboratorium,Layanan sintetis kategori Laboratorium
+360,Hematologi Lengkap 360,Laboratorium,Layanan sintetis kategori Laboratorium
+361,Gula Darah Sewaktu 361,Laboratorium,Layanan sintetis kategori Laboratorium
+362,HbA1c 362,Laboratorium,Layanan sintetis kategori Laboratorium
+363,Fungsi Ginjal 363,Laboratorium,Layanan sintetis kategori Laboratorium
+364,Fungsi Hati 364,Laboratorium,Layanan sintetis kategori Laboratorium
+365,Profil Lipid 365,Laboratorium,Layanan sintetis kategori Laboratorium
+366,Urinalisis 366,Laboratorium,Layanan sintetis kategori Laboratorium
+367,Kultur Darah 367,Laboratorium,Layanan sintetis kategori Laboratorium
+368,Elektrolit 368,Laboratorium,Layanan sintetis kategori Laboratorium
+369,Hematologi Lengkap 369,Laboratorium,Layanan sintetis kategori Laboratorium
+370,Gula Darah Sewaktu 370,Laboratorium,Layanan sintetis kategori Laboratorium
+371,HbA1c 371,Laboratorium,Layanan sintetis kategori Laboratorium
+372,Fungsi Ginjal 372,Laboratorium,Layanan sintetis kategori Laboratorium
+373,Fungsi Hati 373,Laboratorium,Layanan sintetis kategori Laboratorium
+374,Profil Lipid 374,Laboratorium,Layanan sintetis kategori Laboratorium
+375,Urinalisis 375,Laboratorium,Layanan sintetis kategori Laboratorium
+376,Kultur Darah 376,Laboratorium,Layanan sintetis kategori Laboratorium
+377,Elektrolit 377,Laboratorium,Layanan sintetis kategori Laboratorium
+378,Hematologi Lengkap 378,Laboratorium,Layanan sintetis kategori Laboratorium
+379,Gula Darah Sewaktu 379,Laboratorium,Layanan sintetis kategori Laboratorium
+380,HbA1c 380,Laboratorium,Layanan sintetis kategori Laboratorium
+381,Fungsi Ginjal 381,Laboratorium,Layanan sintetis kategori Laboratorium
+382,Fungsi Hati 382,Laboratorium,Layanan sintetis kategori Laboratorium
+383,Profil Lipid 383,Laboratorium,Layanan sintetis kategori Laboratorium
+384,Urinalisis 384,Laboratorium,Layanan sintetis kategori Laboratorium
+385,Kultur Darah 385,Laboratorium,Layanan sintetis kategori Laboratorium
+386,Elektrolit 386,Laboratorium,Layanan sintetis kategori Laboratorium
+387,Hematologi Lengkap 387,Laboratorium,Layanan sintetis kategori Laboratorium
+388,Gula Darah Sewaktu 388,Laboratorium,Layanan sintetis kategori Laboratorium
+389,HbA1c 389,Laboratorium,Layanan sintetis kategori Laboratorium
+390,Fungsi Ginjal 390,Laboratorium,Layanan sintetis kategori Laboratorium
+391,Fungsi Hati 391,Laboratorium,Layanan sintetis kategori Laboratorium
+392,Profil Lipid 392,Laboratorium,Layanan sintetis kategori Laboratorium
+393,Urinalisis 393,Laboratorium,Layanan sintetis kategori Laboratorium
+394,Kultur Darah 394,Laboratorium,Layanan sintetis kategori Laboratorium
+395,Elektrolit 395,Laboratorium,Layanan sintetis kategori Laboratorium
+396,Hematologi Lengkap 396,Laboratorium,Layanan sintetis kategori Laboratorium
+397,Gula Darah Sewaktu 397,Laboratorium,Layanan sintetis kategori Laboratorium
+398,HbA1c 398,Laboratorium,Layanan sintetis kategori Laboratorium
+399,Fungsi Ginjal 399,Laboratorium,Layanan sintetis kategori Laboratorium
+400,Fungsi Hati 400,Laboratorium,Layanan sintetis kategori Laboratorium
+401,Rontgen Ekstremitas 401,Radiologi,Layanan sintetis kategori Radiologi
+402,USG Abdomen 402,Radiologi,Layanan sintetis kategori Radiologi
+403,CT Scan Kepala 403,Radiologi,Layanan sintetis kategori Radiologi
+404,USG Obstetri 404,Radiologi,Layanan sintetis kategori Radiologi
+405,Rontgen Thorax 405,Radiologi,Layanan sintetis kategori Radiologi
+406,Rontgen Ekstremitas 406,Radiologi,Layanan sintetis kategori Radiologi
+407,USG Abdomen 407,Radiologi,Layanan sintetis kategori Radiologi
+408,CT Scan Kepala 408,Radiologi,Layanan sintetis kategori Radiologi
+409,USG Obstetri 409,Radiologi,Layanan sintetis kategori Radiologi
+410,Rontgen Thorax 410,Radiologi,Layanan sintetis kategori Radiologi
+411,Rontgen Ekstremitas 411,Radiologi,Layanan sintetis kategori Radiologi
+412,USG Abdomen 412,Radiologi,Layanan sintetis kategori Radiologi
+413,CT Scan Kepala 413,Radiologi,Layanan sintetis kategori Radiologi
+414,USG Obstetri 414,Radiologi,Layanan sintetis kategori Radiologi
+415,Rontgen Thorax 415,Radiologi,Layanan sintetis kategori Radiologi
+416,Rontgen Ekstremitas 416,Radiologi,Layanan sintetis kategori Radiologi
+417,USG Abdomen 417,Radiologi,Layanan sintetis kategori Radiologi
+418,CT Scan Kepala 418,Radiologi,Layanan sintetis kategori Radiologi
+419,USG Obstetri 419,Radiologi,Layanan sintetis kategori Radiologi
+420,Rontgen Thorax 420,Radiologi,Layanan sintetis kategori Radiologi
+421,Rontgen Ekstremitas 421,Radiologi,Layanan sintetis kategori Radiologi
+422,USG Abdomen 422,Radiologi,Layanan sintetis kategori Radiologi
+423,CT Scan Kepala 423,Radiologi,Layanan sintetis kategori Radiologi
+424,USG Obstetri 424,Radiologi,Layanan sintetis kategori Radiologi
+425,Rontgen Thorax 425,Radiologi,Layanan sintetis kategori Radiologi
+426,Rontgen Ekstremitas 426,Radiologi,Layanan sintetis kategori Radiologi
+427,USG Abdomen 427,Radiologi,Layanan sintetis kategori Radiologi
+428,CT Scan Kepala 428,Radiologi,Layanan sintetis kategori Radiologi
+429,USG Obstetri 429,Radiologi,Layanan sintetis kategori Radiologi
+430,Rontgen Thorax 430,Radiologi,Layanan sintetis kategori Radiologi
+431,Rontgen Ekstremitas 431,Radiologi,Layanan sintetis kategori Radiologi
+432,USG Abdomen 432,Radiologi,Layanan sintetis kategori Radiologi
+433,CT Scan Kepala 433,Radiologi,Layanan sintetis kategori Radiologi
+434,USG Obstetri 434,Radiologi,Layanan sintetis kategori Radiologi
+435,Rontgen Thorax 435,Radiologi,Layanan sintetis kategori Radiologi
+436,Rontgen Ekstremitas 436,Radiologi,Layanan sintetis kategori Radiologi
+437,USG Abdomen 437,Radiologi,Layanan sintetis kategori Radiologi
+438,CT Scan Kepala 438,Radiologi,Layanan sintetis kategori Radiologi
+439,USG Obstetri 439,Radiologi,Layanan sintetis kategori Radiologi
+440,Rontgen Thorax 440,Radiologi,Layanan sintetis kategori Radiologi
+441,Pelayanan Resep Rawat Inap 441,Farmasi,Layanan sintetis kategori Farmasi
+442,Peracikan Obat 442,Farmasi,Layanan sintetis kategori Farmasi
+443,Konseling Obat 443,Farmasi,Layanan sintetis kategori Farmasi
+444,Pelayanan Resep Rawat Jalan 444,Farmasi,Layanan sintetis kategori Farmasi
+445,Pelayanan Resep Rawat Inap 445,Farmasi,Layanan sintetis kategori Farmasi
+446,Peracikan Obat 446,Farmasi,Layanan sintetis kategori Farmasi
+447,Konseling Obat 447,Farmasi,Layanan sintetis kategori Farmasi
+448,Pelayanan Resep Rawat Jalan 448,Farmasi,Layanan sintetis kategori Farmasi
+449,Pelayanan Resep Rawat Inap 449,Farmasi,Layanan sintetis kategori Farmasi
+450,Peracikan Obat 450,Farmasi,Layanan sintetis kategori Farmasi
+451,Konseling Obat 451,Farmasi,Layanan sintetis kategori Farmasi
+452,Pelayanan Resep Rawat Jalan 452,Farmasi,Layanan sintetis kategori Farmasi
+453,Pelayanan Resep Rawat Inap 453,Farmasi,Layanan sintetis kategori Farmasi
+454,Peracikan Obat 454,Farmasi,Layanan sintetis kategori Farmasi
+455,Konseling Obat 455,Farmasi,Layanan sintetis kategori Farmasi
+456,Pelayanan Resep Rawat Jalan 456,Farmasi,Layanan sintetis kategori Farmasi
+457,Pelayanan Resep Rawat Inap 457,Farmasi,Layanan sintetis kategori Farmasi
+458,Peracikan Obat 458,Farmasi,Layanan sintetis kategori Farmasi
+459,Konseling Obat 459,Farmasi,Layanan sintetis kategori Farmasi
+460,Pelayanan Resep Rawat Jalan 460,Farmasi,Layanan sintetis kategori Farmasi
+461,Pelayanan Resep Rawat Inap 461,Farmasi,Layanan sintetis kategori Farmasi
+462,Peracikan Obat 462,Farmasi,Layanan sintetis kategori Farmasi
+463,Konseling Obat 463,Farmasi,Layanan sintetis kategori Farmasi
+464,Pelayanan Resep Rawat Jalan 464,Farmasi,Layanan sintetis kategori Farmasi
+465,Pelayanan Resep Rawat Inap 465,Farmasi,Layanan sintetis kategori Farmasi
+466,Peracikan Obat 466,Farmasi,Layanan sintetis kategori Farmasi
+467,Konseling Obat 467,Farmasi,Layanan sintetis kategori Farmasi
+468,Pelayanan Resep Rawat Jalan 468,Farmasi,Layanan sintetis kategori Farmasi
+469,Pelayanan Resep Rawat Inap 469,Farmasi,Layanan sintetis kategori Farmasi
+470,Peracikan Obat 470,Farmasi,Layanan sintetis kategori Farmasi
+471,Makan Pasien Rawat Inap 471,Gizi,Layanan sintetis kategori Gizi
+472,Konsultasi Gizi 472,Gizi,Layanan sintetis kategori Gizi
+473,Diet Khusus 473,Gizi,Layanan sintetis kategori Gizi
+474,Makan Pasien Rawat Inap 474,Gizi,Layanan sintetis kategori Gizi
+475,Konsultasi Gizi 475,Gizi,Layanan sintetis kategori Gizi
+476,Diet Khusus 476,Gizi,Layanan sintetis kategori Gizi
+477,Makan Pasien Rawat Inap 477,Gizi,Layanan sintetis kategori Gizi
+478,Konsultasi Gizi 478,Gizi,Layanan sintetis kategori Gizi
+479,Diet Khusus 479,Gizi,Layanan sintetis kategori Gizi
+480,Makan Pasien Rawat Inap 480,Gizi,Layanan sintetis kategori Gizi
+481,Konsultasi Gizi 481,Gizi,Layanan sintetis kategori Gizi
+482,Diet Khusus 482,Gizi,Layanan sintetis kategori Gizi
+483,Makan Pasien Rawat Inap 483,Gizi,Layanan sintetis kategori Gizi
+484,Konsultasi Gizi 484,Gizi,Layanan sintetis kategori Gizi
+485,Diet Khusus 485,Gizi,Layanan sintetis kategori Gizi
+486,Apendektomi 486,Operasi,Layanan sintetis kategori Operasi
+487,Sectio Caesarea 487,Operasi,Layanan sintetis kategori Operasi
+488,Herniotomi 488,Operasi,Layanan sintetis kategori Operasi
+489,Debridement 489,Operasi,Layanan sintetis kategori Operasi
+490,ORIF 490,Operasi,Layanan sintetis kategori Operasi
+491,Laparotomi 491,Operasi,Layanan sintetis kategori Operasi
+492,Apendektomi 492,Operasi,Layanan sintetis kategori Operasi
+493,Sectio Caesarea 493,Operasi,Layanan sintetis kategori Operasi
+494,Herniotomi 494,Operasi,Layanan sintetis kategori Operasi
+495,Debridement 495,Operasi,Layanan sintetis kategori Operasi
+496,ORIF 496,Operasi,Layanan sintetis kategori Operasi
+497,Laparotomi 497,Operasi,Layanan sintetis kategori Operasi
+498,Apendektomi 498,Operasi,Layanan sintetis kategori Operasi
+499,Sectio Caesarea 499,Operasi,Layanan sintetis kategori Operasi
+500,Herniotomi 500,Operasi,Layanan sintetis kategori Operasi
